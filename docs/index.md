@@ -10,19 +10,6 @@
 
 [sai125便携版](https://ifwz.lanzoux.com/ipG1lkl4ydc)  [sai2（终极版)](https://ifwz.lanzoux.com/izXpnkl4pfa)
 
-## 站点导航
-
-> 自建站，不定期更新
-
-[MMD食用手册](https://mmdybk.gitee.io/mmd_doc)
-
-[MMD专栏教程索引](https://mmdybk.gitee.io/zhuanlan/)
-
-[PE插件编写手册](https://mmdybk.gitee.io/peplugin_doc)
-
-[PE插件索引](https://mmdybk.gitee.io/peplugin/)
-
-
 
 ### 杂志社成员
 
@@ -50,6 +37,8 @@
 
 ### 致谢
 
+[vercel](https://vercel.com/) 提供本站页面渲染部署托管服务
+
 [朵说](http://cs.occamx.com/) 提供简洁的评论系统
 
 [live2d-widget](https://github.com/stevenjoezhang/live2d-widget) 提供左下角live2d看板娘
@@ -64,8 +53,19 @@
 
 > 本站接受任意金额的捐助，你的支持和鼓励将是我们存活下去的动力
 
+[捐助入口](./donate)
 
 ---
+
+## 站点导航
+
+> 自建站，不定期更新
+
+[PE插件编写手册](https://toolkit.gitee.io/peplugin_doc)
+
+[PE插件索引](https://mmdybk.gitee.io/peplugin/)
+
+[MMD专栏教程索引](https://mmdybk.gitee.io/zhuanlan/) (已废弃)
 
 > 国外
 
