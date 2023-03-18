@@ -27,6 +27,9 @@ extra:
     - icon: fontawesome/brands/bilibili
       link: https://space.bilibili.com/30847042
       name: Bilibili | 吃爆米花的小熊 # 鼠标悬浮提示
+    - icon: fontawesome/brands/github
+      link: https://github.com/Asterecho
+      name: Gayhub | Asterecho # 鼠标悬浮提示
     - icon: simple/gitee
       link: https://gitee.com/toolkit
       name: 码云 | Toolkit
