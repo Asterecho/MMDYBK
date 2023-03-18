@@ -1,0 +1,45 @@
+site_name: 站点名字（请修改）
+repo_url: https://github.com/linyuxuanlin/Wiki-nonsense #（请修改为你自己的仓库地址）
+edit_uri: edit/main/docs/
+
+theme:
+    name: material
+    palette:
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  # - attr_list
+  # - pymdownx.arithmatex
+  # - pymdownx.superfences
+  # - pymdownx.details
+  # - pymdownx.magiclink
+  # - pymdownx.tasklist:
+  #     custom_checkbox: true
+#  - pymdownx.emoji:
+#      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  # - admonition
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - roamlinks 
