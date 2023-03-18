@@ -4,7 +4,7 @@
 > 
 > 在捐助时备注好网名，和想对本站说的话
 
-![](./image/qr7.png)
+<p><img src="\image\qr7.png" style="zoom:33%;" /></p>
 
 ### 捐助列表
 
