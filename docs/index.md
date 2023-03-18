@@ -2,6 +2,12 @@
 
 ![](./image/banner.png)
 
+> MMD杂志社，成立于2018年夏，是民间爱好者组成的非盈利组织
+
+> 本站通过搜集专栏和接收稿件，供各位热爱MMD的小可爱们翻阅查看
+
+> 推荐使用PC浏览器，以获得最佳体验
+
 ## 软件下载
 
 [MMD932 汉化版](https://softbank.lanzoux.com/i30xakyunuh)  [PmxEditor_0257汉化版](https://softbank.lanzoux.com/iP3B6kyupaj)
@@ -53,7 +59,6 @@
 
 > 本站接受任意金额的捐助，你的支持和鼓励将是我们存活下去的动力
 
-[捐助入口](./donate)
 
 ---
 
