@@ -53,9 +53,6 @@ Raincloud 感谢雨云提供免费二级域名供vercel国内访问
 
 [保罗API](https://api.paugram.com/) 提供哔哩哔哩小窗
 
-[不蒜子](http://busuanzi.ibruce.info/) 提供访客量统计
-
-
 ## 捐助
 
 > 本站接受任意金额的捐助，你的支持和鼓励将是我们存活下去的动力
