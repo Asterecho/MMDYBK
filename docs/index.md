@@ -55,7 +55,6 @@ Raincloud 感谢雨云提供免费二级域名供vercel国内访问
 
 [不蒜子](http://busuanzi.ibruce.info/) 提供访客量统计
 
-[极客笔记](https://guoch.xyz/) 提供一言API
 
 ## 捐助
 
