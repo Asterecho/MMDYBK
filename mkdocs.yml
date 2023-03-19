@@ -2,11 +2,12 @@
 site_name: MMD-YBK
 site_url: https://github.com/Asterecho/MMDYBK
 site_author: 小熊
-site_description: MMDYBK年刊
+site_description: MMDYBK杂志社
 
 # Configuration
 theme:
   name: 'material'
+  custom_dir: overrides
   palette:
     primary: 'white'
     accent: 'orange'
@@ -27,6 +28,9 @@ extra:
     - icon: fontawesome/brands/bilibili
       link: https://space.bilibili.com/30847042
       name: Bilibili | 吃爆米花的小熊 # 鼠标悬浮提示
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<mmdybk@sina.com>
+      name: 邮箱地址
     - icon: fontawesome/brands/github
       link: https://github.com/Asterecho
       name: Gayhub | Asterecho # 鼠标悬浮提示

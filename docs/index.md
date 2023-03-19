@@ -45,7 +45,9 @@
 
 [vercel](https://vercel.com/) 提供本站页面渲染部署托管服务
 
-[朵说](http://cs.occamx.com/) 提供简洁的评论系统
+Raincloud 感谢雨云提供免费二级域名供vercel国内访问
+
+[twikoo](https://twikoo.js.org/) 提供评论系统 （在部署时选择困难症犯了，比较了waline、discuss等一堆评论系统，最终选中了twikoo）
 
 [live2d-widget](https://github.com/stevenjoezhang/live2d-widget) 提供左下角live2d看板娘
 
