@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1279398?from=search&spm_id_from=333.337.0.0)
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1279398)
 
 > 今天不投稿视频，抽空写了这么一个文图教程。本教程针对一些刚刚熟悉了 MMD 的使用和操作的 MMDer, 在准备开始学习如何初步使用 IK 渲染之前我们先需要了解 IK 渲染的一些认识。IK 渲染即为 ikPolishS
 

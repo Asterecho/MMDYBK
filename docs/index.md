@@ -8,6 +8,8 @@
 
 > 推荐使用PC浏览器，以获得最佳体验
 
+> 本站已[开源](https://github.com/Asterecho/MMDYBK) 欢迎star和pr
+
 ## 软件下载
 
 [MMD932 汉化版](https://softbank.lanzoux.com/i30xakyunuh)  [PmxEditor_0257汉化版](https://softbank.lanzoux.com/iP3B6kyupaj)
@@ -31,7 +33,9 @@
 
 ### 投稿方式
 
-> 发送邮件至[mmdybk@sina.com](mailto:mmdybk@sina.com)
+> 稿件格式：最好是markdown，不会md语法的话，使用word也行；或者发B站专栏链接，小编转格式
+
+> 发送邮件至[mmdybk@sina.com](mailto:mmdybk@sina.com) | Github上PR也可以
 
 ### 本站协议
 
