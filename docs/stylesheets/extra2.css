@@ -23,21 +23,21 @@ body {
 .md-footer-copyright{text-align: left}
 
 #wrap {
-            width: 300px;
+            width: 600px;
             text-align: center;
             overflow: hidden;
             margin: 50px 50px;
         }
         
         .box {
-            width: 1200px;
+            width: 2400px;
             height: auto;
             display: inline-block;
             animation: b1 10s infinite;
         }
         
         .box img {
-            width: 300px;
+            width: 600px;
             float: left;
         }
         
@@ -49,34 +49,34 @@ body {
                 margin-left: 0px;
             }
             20% {
-                margin-left: -300px;
+                margin-left: -600px;
             }
             30% {
-                margin-left: -300px;
+                margin-left: -600px;
             }
             35% {
-                margin-left: -600px;
+                margin-left: -1200px;
             }
             45% {
-                margin-left: -600px;
+                margin-left: -1200px;
             }
             50% {
-                margin-left: -900px;
+                margin-left: -1800px;
             }
             60% {
-                margin-left: -900px;
+                margin-left: -1800px;
             }
             65% {
-                margin-left: -600px;
+                margin-left: -1200px;
             }
             75% {
-                margin-left: -600px;
+                margin-left: -1200px;
             }
             80% {
-                margin-left: -300px;
+                margin-left: -600px;
             }
             90% {
-                margin-left: -300px;
+                margin-left: -600px;
             }
             100% {
                 margin-left: 0px;
