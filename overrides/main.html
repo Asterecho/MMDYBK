@@ -1,7 +1,15 @@
 <!-- overrides/main.html文件内容 -->
 {% extends "base.html" %}
-
-
+{% block container %}
+<div id="wrap">
+            <div class="box">
+                <img src="/image/1.png" id="a1" />
+                <img src="/image/2.png" id="a2" />
+                <img src="/image/1.png" id="a1" />
+                <img src="/image/2.png" id="a2" />
+            </div>
+        </div>
+{% endblock %}
 {% block content %}
 
   {{ super() }}
