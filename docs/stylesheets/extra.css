@@ -12,6 +12,17 @@ body {
   border-bottom: .1rem solid rgba(0,0,0,.07);
 }
 
+.md-footer-hitokoto{
+	color: #FFCCFF;
+}
+
+.md-footer-busuanzi{
+	color: #00FFFF;
+	text-align: right
+}
+
+.md-footer-copyright{text-align: left}
+
 #wrap {
             width: 300px;
             text-align: center;
