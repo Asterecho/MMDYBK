@@ -23,7 +23,7 @@ theme:
   favicon: \image\logo.png
 copyright: Copyright &copy; 2023 MMD-YBK
 extra_css:
-  - 'stylesheets/extra.css'
+  - 'stylesheets/extra2.css'
 
 extra:
   social: # icons
