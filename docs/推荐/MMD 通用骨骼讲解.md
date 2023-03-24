@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18975468?from=search&spm_id_from=333.337.0.0)
 
-> 基本骨骼（绑骨可用的最简单的骨骼，剩下的骨骼都可以通过次标准骨骼插件生成，默认变形层级为 0）センター center 也就是中心骨，一般 k 帧的时候用来横向移动，该骨骼最好在下半身骨与膝盖骨中间的高度上半......
+> 作者：[landist](https://space.bilibili.com/5043239)
+
+ 基本骨骼（绑骨可用的最简单的骨骼，剩下的骨骼都可以通过次标准骨骼插件生成，默认变形层级为 0）センター center 也就是中心骨，一般 k 帧的时候用来横向移动，该骨骼最好在下半身骨与膝盖骨中间的高度上半......
 
 ![][img-0]
 

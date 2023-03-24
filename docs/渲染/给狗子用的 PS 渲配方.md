@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv14308780?from=search&spm_id_from=333.337.0.0)
 
-> 参考了众多大佬的教程后，调数值调了一下午的产物。
+> 作者：[千野](https://space.bilibili.com/27521)
+
+ 参考了众多大佬的教程后，调数值调了一下午的产物。
 
 参考了众多大佬的教程后，调数值调了一下午的产物。欢迎继续扩展！
 

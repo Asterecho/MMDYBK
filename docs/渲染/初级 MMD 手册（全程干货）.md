@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv22380848)
 
-> 这次我们要讲如何套一个 MMD 出来以及模型基础认识。
+
+
+ 这次我们要讲如何套一个 MMD 出来以及模型基础认识。
 
 这次我们要讲如何套一个 MMD 出来以及模型基础认识。
 

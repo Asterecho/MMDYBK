@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18343471?from=search&spm_id_from=333.337.0.0)
 
-> 决定分享一些自己平常渲染时爱用的 mme，会写使用方法和常用的参数。
+> 作者：[林小腐W](https://space.bilibili.com/13990280)
+
+ 决定分享一些自己平常渲染时爱用的 mme，会写使用方法和常用的参数。
 
 作者：針金 P/tktk
 

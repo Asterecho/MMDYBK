@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv6404410?from=search&spm_id_from=333.337.0.0)
 
-> 使用版本：1.5.2 第一步需要拖拽以下两个文件 ray.controller.（pmx）ray.（x）第二步放置天空盒在渲染文件目录里有个 “skybox” 找到 “Helipad GoldenHour” 文件夹......
+> 作者：[SilverのSTAR](https://space.bilibili.com/519215992)
+
+ 使用版本：1.5.2 第一步需要拖拽以下两个文件 ray.controller.（pmx）ray.（x）第二步放置天空盒在渲染文件目录里有个 “skybox” 找到 “Helipad GoldenHour” 文件夹......
 
 使用版本：1.5.2
 

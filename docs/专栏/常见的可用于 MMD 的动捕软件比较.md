@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv14760659?from=search&spm_id_from=333.337.0.0)
 
-> 常见的三个分别是 ThreeDPoseTracker、小 K 动捕和 OpenMMD。
+> 作者：[阿卡阿卡啊卡卡卡](https://space.bilibili.com/7333419)
+
+ 常见的三个分别是 ThreeDPoseTracker、小 K 动捕和 OpenMMD。
 
 常见的三个分别是 ThreeDPoseTracker、小 K 动捕和 OpenMMD。
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv15247819?from=search&spm_id_from=333.337.0.0)
 
-> 没有前言 x 似乎没有专门介绍这个神器的专栏，刚好作者更新了 5.01.05 版本，对镜头修正的支持更加完善，所以我不负责地写一个。
+> 作者：[CicloO](https://space.bilibili.com/18960)
+
+ 没有前言 x 似乎没有专门介绍这个神器的专栏，刚好作者更新了 5.01.05 版本，对镜头修正的支持更加完善，所以我不负责地写一个。
 
 没有前言 x 
 

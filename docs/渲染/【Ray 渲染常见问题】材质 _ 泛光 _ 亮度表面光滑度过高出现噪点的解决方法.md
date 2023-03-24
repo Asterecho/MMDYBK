@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18510252?from=search&spm_id_from=333.337.0.0)
 
-> 哈喽，大家好啊！今天又来补充一下常见的问题很多的小伙伴们在使用 ray 渲染的钻研过程中会经常发现当一个 ray 环境下的材质贴图的 smoothness 过高、泛光过强、或者 emissive 强度过高时就会出现以下......
+> 作者：[Biscuit-773](https://space.bilibili.com/13525041)
+
+ 哈喽，大家好啊！今天又来补充一下常见的问题很多的小伙伴们在使用 ray 渲染的钻研过程中会经常发现当一个 ray 环境下的材质贴图的 smoothness 过高、泛光过强、或者 emissive 强度过高时就会出现以下......
 
 哈喽，大家好啊！
 

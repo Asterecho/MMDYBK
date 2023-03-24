@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv6461999?from=search&spm_id_from=333.337.0.0)
 
-> 写点关于 PE 改模（以游戏模型为主）时的小技巧和插件推荐的随笔，第一期。
+> 作者：[岸田夏海MK2](https://space.bilibili.com/1641196)
+
+ 写点关于 PE 改模（以游戏模型为主）时的小技巧和插件推荐的随笔，第一期。
 
 写点关于 PE 改模（以游戏模型为主）时的小技巧和插件推荐的随笔，第一期。
 

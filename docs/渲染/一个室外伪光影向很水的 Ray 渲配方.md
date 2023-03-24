@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4534432?from=search&spm_id_from=333.337.0.0)
 
-> 一个摸鱼产物，本来打算给位新手随便染染打个样以外的发现效果挺好（虽然还是丑的不行）意外的打算写个专栏。
+> 作者：[PickoneIZ](https://space.bilibili.com/100583090)
+
+ 一个摸鱼产物，本来打算给位新手随便染染打个样以外的发现效果挺好（虽然还是丑的不行）意外的打算写个专栏。
 
 一个摸鱼产物，本来打算给位新手随便染染打个样以外的发现效果挺好（虽然还是丑的不行）意外的打算写个专栏。
 

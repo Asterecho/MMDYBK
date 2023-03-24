@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2645426?from=search&spm_id_from=333.337.0.0)
 
-> 目的 MMD 导入 Maya 并使用 Arnold 渲染出更好的光影效果过程与遇到的问题 1. 导入 Maya 找一个 MMD 直接导入 Maya 的插件：https://github.com/gameboy12615/MMD4Maya2. 灯光设置添加一个 Arnold SkyDome 灯光，默认参数即可。
+> 作者：[心飞自然乐](https://space.bilibili.com/177585188)
+
+ 目的 MMD 导入 Maya 并使用 Arnold 渲染出更好的光影效果过程与遇到的问题 1. 导入 Maya 找一个 MMD 直接导入 Maya 的插件：https://github.com/gameboy12615/MMD4Maya2. 灯光设置添加一个 Arnold SkyDome 灯光，默认参数即可。
 
 MMD 导入 Maya 并使用 Arnold 渲染出更好的光影效果
 

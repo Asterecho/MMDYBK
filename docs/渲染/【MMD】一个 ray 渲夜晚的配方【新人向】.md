@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18392686?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文 & gt;
+> 作者：[w羽川要摸鱼w](https://space.bilibili.com/1330788696)
+
+ 点击进入查看全文 & gt;
 
 如果对 ray 渲没有了解，可以去看以下教程：
 

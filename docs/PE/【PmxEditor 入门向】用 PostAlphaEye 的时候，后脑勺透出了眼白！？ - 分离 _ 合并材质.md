@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv13292163?from=search&spm_id_from=333.337.0.0)
 
-> 开始前的声明：此文章为针对 mmd 入门萌新的 pe 小教程，适用于以下情况：1、想要做好看的 2d 渲配合 PostAlphaEye 来做出眼睛 / 眉毛透过头发的效果，但是镜头打到后脑勺时，眼白透过了后脑勺被看到了，如封面头图所示，却不知道如何修正。
+> 作者：[砂糖葫芦柑](https://space.bilibili.com/3332195)
+
+ 开始前的声明：此文章为针对 mmd 入门萌新的 pe 小教程，适用于以下情况：1、想要做好看的 2d 渲配合 PostAlphaEye 来做出眼睛 / 眉毛透过头发的效果，但是镜头打到后脑勺时，眼白透过了后脑勺被看到了，如封面头图所示，却不知道如何修正。
 
 **开始前的声明：**
 

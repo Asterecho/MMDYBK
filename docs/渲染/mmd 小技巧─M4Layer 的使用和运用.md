@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv33283?from=search&spm_id_from=333.337.0.0)
 
-> 大家好，这次给大家带来的是一个 mme 的使用小技巧，这个 mme 的名字正如题目所示。 现在讲解它的使用方法。 1. 先往 mmd 软件中载入模型，为了让画面好看，也可以再加入一些 x 文
+> 作者：[哎哎子](https://space.bilibili.com/39856065)
+
+ 大家好，这次给大家带来的是一个 mme 的使用小技巧，这个 mme 的名字正如题目所示。 现在讲解它的使用方法。 1. 先往 mmd 软件中载入模型，为了让画面好看，也可以再加入一些 x 文
 
     大家好，这次给大家带来的是一个 mme 的使用小技巧，这个 mme 的名字正如题目所示。
 

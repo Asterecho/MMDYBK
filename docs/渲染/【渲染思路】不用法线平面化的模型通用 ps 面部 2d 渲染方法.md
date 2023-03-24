@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21351484?from=search&spm_id_from=..0.0)
 
-> 使用案例视频 艾尔海森渲染案例 1 艾尔海森渲染案例 2 神里绫人渲染案例首先研究出这个方法的原因是我的 pmx 一点 faceforward 就闪退，逼得我只能另寻他法（什）且我的 mmdgenshin 调教的不是很......
+> 作者：[叁年三年](https://space.bilibili.com/24062976)
+
+ 使用案例视频 艾尔海森渲染案例 1 艾尔海森渲染案例 2 神里绫人渲染案例首先研究出这个方法的原因是我的 pmx 一点 faceforward 就闪退，逼得我只能另寻他法（什）且我的 mmdgenshin 调教的不是很......
 
 使用案例视频 [艾尔海森渲染案例 1](https://www.bilibili.com/video/BV1uP4y1r7kJ)     [艾尔海森渲染案例 2](https://www.bilibili.com/video/BV1wv4y1y7sS)
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2473542?from=search&spm_id_from=333.337.0.0)
 
-> 大噶好这里是苍穹，上一个视频有很多人问我如何制作这种 2D 类的 MMD，那么话不多说开始正文。
+> 作者：[苍穹poi_](https://space.bilibili.com/17924371)
+
+ 大噶好这里是苍穹，上一个视频有很多人问我如何制作这种 2D 类的 MMD，那么话不多说开始正文。
 
   大噶好这里是苍穹，上一个视频有很多人问我如何制作这种 2D 类的 MMD，那么话不多说开始正文。
 

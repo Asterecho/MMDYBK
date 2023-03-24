@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv718380?from=search&spm_id_from=333.337.0.0)
 
-> 这里无名，不多说废话了【词穷. jpg】这个配方大概是闲着没事的时候瞎几把弄出来的，对电脑不好的同志应该很适合【其实也很卡】效果：https://www.bilibili.com/video/av266
+> 作者：[好想巢识里昂](https://space.bilibili.com/26227779)
+
+ 这里无名，不多说废话了【词穷. jpg】这个配方大概是闲着没事的时候瞎几把弄出来的，对电脑不好的同志应该很适合【其实也很卡】效果：https://www.bilibili.com/video/av266
 
 这里无名，不多说废话了【词穷. jpg】
 

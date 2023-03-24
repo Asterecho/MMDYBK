@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv5227538?from=search&spm_id_from=333.337.0.0)
 
-> 克服懒癌去！这个不是教程！ 不是教程！ 不是教程！请 MMD 初学者撤退！ ！ ！1. 首先，载模型去然后打开 MMEffcet 特效分配 2. 然后，给模型整体载入: T-ToonShader 1.32 文件夹......
+> 作者：[Nasa_Okamakkkkkk](https://space.bilibili.com/394961996)
+
+ 克服懒癌去！这个不是教程！ 不是教程！ 不是教程！请 MMD 初学者撤退！ ！ ！1. 首先，载模型去然后打开 MMEffcet 特效分配 2. 然后，给模型整体载入: T-ToonShader 1.32 文件夹......
 
 克服懒癌去！
 

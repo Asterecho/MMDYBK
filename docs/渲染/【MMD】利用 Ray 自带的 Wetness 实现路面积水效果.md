@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21759342?from=search&spm_id_from=..0.0)
 
-> 前段时间在渲染的时候想达到路面积水的效果，然后在 AR 老师那里学到了很多。
+> 作者：[Lukea_](https://space.bilibili.com/689888854)
+
+ 前段时间在渲染的时候想达到路面积水的效果，然后在 AR 老师那里学到了很多。
 
 前段时间在渲染的时候想达到路面积水的效果，然后在 AR 老师那里学到了很多。详见 AR 老师的动态 [ARonisc 的动态 - 哔哩哔哩 (bilibili.com)](https://t.bilibili.com/658964647405158407?spm_id_from=333.999.0.0)
 
