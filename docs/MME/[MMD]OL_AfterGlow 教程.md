@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3491030?from=search&spm_id_from=333.337.0.0)
 
-> 大家好，我是贤尼，几天我又又又出教程了！想不到吧！今天我要带来的是 OL_AfterGlow 这个好像是带具有余辉效果可能有些 dalao 很会用萌新肯能不知道！废话不多说！我们开始吧！OL_AfterGlow 下载链接：https://ux.getuploader.com/BeamMan/download/6/OL_AfterGlow.zip 打开 MMD, 载入模型。
+> 作者：[xianniOVO](https://space.bilibili.com/348713510)
+
+ 大家好，我是贤尼，几天我又又又出教程了！想不到吧！今天我要带来的是 OL_AfterGlow 这个好像是带具有余辉效果可能有些 dalao 很会用萌新肯能不知道！废话不多说！我们开始吧！OL_AfterGlow 下载链接：https://ux.getuploader.com/BeamMan/download/6/OL_AfterGlow.zip 打开 MMD, 载入模型。
 
 [专栏](https://www.bilibili.com/read/home?from=articleDetail) /
 

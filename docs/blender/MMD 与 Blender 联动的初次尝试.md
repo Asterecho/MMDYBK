@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv10304861?from=search&spm_id_from=333.337.0.0)
 
-> 观看了一些教学视频，这里总结一下自己在尝试 MMD 与 Blender 联动过程中的心得体会。
+> 作者：[TerryLiuOrigin](https://space.bilibili.com/688641401)
+
+ 观看了一些教学视频，这里总结一下自己在尝试 MMD 与 Blender 联动过程中的心得体会。
 
 观看了一些教学视频，这里总结一下自己在尝试 MMD 与 Blender 联动过程中的心得体会。
 

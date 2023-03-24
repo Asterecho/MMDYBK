@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21494324?from=search&spm_id_from=..0.0)
 
-> 如何让人物模型的头发、裙面上，或者某些场景的广告牌，能够有一种不同于自发光的闪闪发光呢？答案就是 Rhinestone 使用前，使用后下载地址 ik 的配布页搜 Rhinestonehttps://ux.getuploader.com/ikeno 使用方法在 MME 的主选项卡上，将此效果指定给想要变亮的材质。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 如何让人物模型的头发、裙面上，或者某些场景的广告牌，能够有一种不同于自发光的闪闪发光呢？答案就是 Rhinestone 使用前，使用后下载地址 ik 的配布页搜 Rhinestonehttps://ux.getuploader.com/ikeno 使用方法在 MME 的主选项卡上，将此效果指定给想要变亮的材质。
 
 如何让人物模型的头发、裙面上，或者某些场景的广告牌，能够有一种不同于自发光的闪闪发光呢？答案就是 Rhinestone
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21453670?from=search&spm_id_from=..0.0)
 
-> // 个人感想部分，可以跳过 //// 早年的时候在萌葱窝和贴吧，都能看到不少教程之类的。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ // 个人感想部分，可以跳过 //// 早年的时候在萌葱窝和贴吧，都能看到不少教程之类的。
 
 // 个人感想部分，可以跳过 //
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17687030?from=search&spm_id_from=333.337.0.0)
 
-> blender mmd 骨骼名称重命名脚本使用方法，在编辑模式下选择要批量修改的骨骼。
+> 作者：[STD菜罐](https://space.bilibili.com/2781012)
+
+ blender mmd 骨骼名称重命名脚本使用方法，在编辑模式下选择要批量修改的骨骼。
 
 blender mmd 骨骼名称重命名脚本
 

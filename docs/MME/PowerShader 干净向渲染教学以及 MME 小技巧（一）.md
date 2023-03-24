@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3831906?from=search&spm_id_from=333.337.0.0)
 
-> 你好，这里是弥歌~ 只是心血来潮想写个关于 PowerShader 的教程，其实是视频鸽了所以写教程刷存在感_(:3」∠)_ , 这个教程大部分是靠 PowerShader（后面简称 PS 渲）里的 main_toon 实现的效果【可以用同类的 Toon 替代，比如 Toon_Shader 里的 S2】, 有的模型用起来会比较奇怪，可以通过 PE（pmxeditor）里给模型加合适的 toon 材质来解决这个问题。
+> 作者：[彌弥弥歌](https://space.bilibili.com/2646713)
+
+ 你好，这里是弥歌~ 只是心血来潮想写个关于 PowerShader 的教程，其实是视频鸽了所以写教程刷存在感_(:3」∠)_ , 这个教程大部分是靠 PowerShader（后面简称 PS 渲）里的 main_toon 实现的效果【可以用同类的 Toon 替代，比如 Toon_Shader 里的 S2】, 有的模型用起来会比较奇怪，可以通过 PE（pmxeditor）里给模型加合适的 toon 材质来解决这个问题。
 
 ![][img-0]
 

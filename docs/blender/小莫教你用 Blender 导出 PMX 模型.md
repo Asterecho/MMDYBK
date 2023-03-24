@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18039957?from=search&spm_id_from=333.337.0.0)
 
-> 小莫教你用 Blender 导出 PMX 模型简介很多小伙伴遇到需要将其他格式的模型转换为 PMX 的模型的情况。
+> 作者：[小莫oad](https://space.bilibili.com/7437832)
+
+ 小莫教你用 Blender 导出 PMX 模型简介很多小伙伴遇到需要将其他格式的模型转换为 PMX 的模型的情况。
 
 很多小伙伴遇到需要将其他格式的模型转换为 PMX 的模型的情况。这里就讲一下利用 Blender 和 mmd_tools 插件将导入 Blender 的模型输出为 PMX 模型的方法。
 

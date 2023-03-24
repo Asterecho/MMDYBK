@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv200612?from=search&spm_id_from=333.337.0.0)
 
-> 今天回贴吧看了下、发现了这么条回复。而且还是个 LV9 的，先不管他发这贴是什么意思。一年多前我在贴吧已经介绍过 M4layer 的 21 种功能算法，并且还有截图对照。但很明显没啥人看，并且还有人对这个 MME 存
+> 作者：[yuhao828](https://space.bilibili.com/3290004)
+
+ 今天回贴吧看了下、发现了这么条回复。而且还是个 LV9 的，先不管他发这贴是什么意思。一年多前我在贴吧已经介绍过 M4layer 的 21 种功能算法，并且还有截图对照。但很明显没啥人看，并且还有人对这个 MME 存
 
 ![][img-0]
 

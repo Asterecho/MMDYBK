@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv13670774?from=search&spm_id_from=333.337.0.0)
 
-> 我的懿老婆出皮肤了 55555 皆大欢喜，小伙伴第一时间给了我模型。
+> 作者：[叶以从不早睡](https://space.bilibili.com/376874873)
+
+ 我的懿老婆出皮肤了 55555 皆大欢喜，小伙伴第一时间给了我模型。
 
 我的懿老婆出皮肤了 55555 皆大欢喜，小伙伴第一时间给了我模型。刚好趁此整理下我绑骨时一些能用到搅拌机的技巧。
 

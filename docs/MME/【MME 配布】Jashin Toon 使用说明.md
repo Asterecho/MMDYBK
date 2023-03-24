@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv7746348?from=search&spm_id_from=333.337.0.0)
 
-> 夹心 toon 是伽蓝科技的艺术作品。
+> 作者：[夹心鞠莉酱](https://space.bilibili.com/85833656)
+
+ 夹心 toon 是伽蓝科技的艺术作品。
 
 夹心 toon 是伽蓝科技的艺术作品。
 

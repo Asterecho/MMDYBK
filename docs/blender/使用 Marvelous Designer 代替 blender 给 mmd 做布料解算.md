@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv12109102?from=search&spm_id_from=333.337.0.0)
 
-> 做了几个 mmd 视频后，发现 mmd 的衣服物理效果不是很好，容易穿模而且不够真实。
+> 作者：[舞蹈欣赏艺术家HXY](https://space.bilibili.com/22907211)
+
+ 做了几个 mmd 视频后，发现 mmd 的衣服物理效果不是很好，容易穿模而且不够真实。
 
 做了几个 mmd 视频后，发现 mmd 的衣服物理效果不是很好，容易穿模而且不够真实。本来是打算用 blender 做布料解算的，但是 blender 只适合给单层的简单一点的衣服做布料解算。
 

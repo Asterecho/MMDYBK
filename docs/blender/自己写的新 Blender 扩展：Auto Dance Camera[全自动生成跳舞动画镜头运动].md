@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv16556154?from=search&spm_id_from=333.337.0.0)
 
-> 介绍一个舞蹈动画经常有 5000-7000 帧，如果手动创建镜头运动会非常麻烦。
+> 作者：[显然Pro](https://space.bilibili.com/1545053050)
+
+ 介绍一个舞蹈动画经常有 5000-7000 帧，如果手动创建镜头运动会非常麻烦。
 
 **介绍**
 

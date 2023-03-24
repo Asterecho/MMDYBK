@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv19133?from=search&spm_id_from=333.337.0.0)
 
-> 用 C4D 折腾过 MMD 的人都知道有个 MMD-TOOL 可以直接把模型导入 C4D，但其实，除了 MMD TOOL 外，C4D 还有一个可以直接导出 PMX 的插件，支持表情和权重导出，这对于使用 C4D 的人来说便利了很
+> 作者：[白歌BESING](https://space.bilibili.com/7139108)
+
+ 用 C4D 折腾过 MMD 的人都知道有个 MMD-TOOL 可以直接把模型导入 C4D，但其实，除了 MMD TOOL 外，C4D 还有一个可以直接导出 PMX 的插件，支持表情和权重导出，这对于使用 C4D 的人来说便利了很
 
 用 C4D 折腾过 MMD 的人都知道有个 MMD-TOOL 可以直接把模型导入 C4D，但其实，除了 MMD TOOL 外，C4D 还有一个可以直接导出 PMX 的插件，支持表情和权重导出，这对于使用 C4D 的人来说便利了很多，同时它降低了一些 C4D 制作和修改 MMD 模型的门槛，最后，希望该插件使用的人越来越多吧。
 

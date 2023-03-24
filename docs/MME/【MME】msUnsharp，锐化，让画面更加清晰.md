@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21624867?from=search&spm_id_from=..0.0)
 
-> 作者：ましまし载入后默认 tr 为 1，效果明显载入前后对比。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 作者：ましまし载入后默认 tr 为 1，效果明显载入前后对比。
 
 **作者：ましまし**
 

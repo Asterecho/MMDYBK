@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv5626644?from=search&spm_id_from=333.337.0.0)
 
-> 由于周围很多人都不太清楚这个 MME 到底是怎么用的，所以简单开贴说明。
+> 作者：[夹心鞠莉酱](https://space.bilibili.com/85833656)
+
+ 由于周围很多人都不太清楚这个 MME 到底是怎么用的，所以简单开贴说明。
 
 由于周围很多人都不太清楚这个 MME 到底是怎么用的，所以简单开贴说明。
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv11037625?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文
+> 作者：[御坂4952号](https://space.bilibili.com/51178650)
+
+ 点击进入查看全文
 
 这个专栏仅用于我自己对 mmd 模型时卡顿处理的解决方案梳理，并不是一套解决方案，以便于以后问题再次出现时陷入疑惑。
 

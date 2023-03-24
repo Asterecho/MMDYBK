@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv253693?from=search&spm_id_from=333.337.0.0)
 
-> 昨天有人希望我写一篇 HAToon2 的教学。然后我看了下、确实没有这方面的文章、而且也确实不好学。于是就研究了一下怎么用。封面上那个大叔只是个示例、懒得另外作图了。首先打开 HAGenerator.exe
+> 作者：[yuhao828](https://space.bilibili.com/3290004)
+
+ 昨天有人希望我写一篇 HAToon2 的教学。然后我看了下、确实没有这方面的文章、而且也确实不好学。于是就研究了一下怎么用。封面上那个大叔只是个示例、懒得另外作图了。首先打开 HAGenerator.exe
 
 昨天有人希望我写一篇 HAToon2 的教学。然后我看了下、确实没有这方面的文章、而且也确实不好学。于是就研究了一下怎么用。
 

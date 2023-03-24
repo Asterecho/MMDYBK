@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv14017775?from=search&spm_id_from=333.337.0.0)
 
-> Blender 导入 mmd 模型目前有两种办法：导入. abc，视频：https://www.bilibili.com/video/BV1Zi4y1b7vv 通过 mmd_tool 工具导入. pmx，视频：http......
+> 作者：[低调如雨](https://space.bilibili.com/7644179)
+
+ Blender 导入 mmd 模型目前有两种办法：导入. abc，视频：https://www.bilibili.com/video/BV1Zi4y1b7vv 通过 mmd_tool 工具导入. pmx，视频：http......
 
 Blender 导入 mmd 模型目前有两种办法：
 

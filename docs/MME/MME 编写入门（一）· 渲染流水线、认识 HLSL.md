@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv22099474?from=search&spm_id_from=..0.0)
 
-> 关于 MME 的编写 K 佬写了很好的教程，一共三集，每集都比较短，还有一些专栏。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 关于 MME 的编写 K 佬写了很好的教程，一共三集，每集都比较短，还有一些专栏。
 
 关于 MME 的编写 K 佬写了很好的教程，一共三集，每集都比较短，还有一些专栏。
 

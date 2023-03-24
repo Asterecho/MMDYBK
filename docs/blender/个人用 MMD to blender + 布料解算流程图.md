@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv12106475?from=search&spm_id_from=333.337.0.0)
 
-> 个人用 MMD to blender + 布料解算流程图 c4d 导出 abc 文件需要选择传统模式 Marvelous Designer 布料动画 abc 输出需选择 Alenmbic（OGAWA）sp 输出贴图模板导入 S......
+> 作者：[千夜嗷呜](https://space.bilibili.com/28390448)
+
+ 个人用 MMD to blender + 布料解算流程图 c4d 导出 abc 文件需要选择传统模式 Marvelous Designer 布料动画 abc 输出需选择 Alenmbic（OGAWA）sp 输出贴图模板导入 S......
 
 Adobe Animate 23.0.0 中的新增功能
 

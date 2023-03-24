@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv461015?from=search&spm_id_from=333.337.0.0)
 
-> 这里主要讲在 Ray 渲染环境下全息粒子特效 MME 的简单食用方法。个人食用效果如下。（自己也没用过几次，如有错误欢迎指正。）全息粒子特效 1、下载地址：金针 p 漾 - Hologramhttp://harigan
+> 作者：[大萌新-小f](https://space.bilibili.com/281662789)
+
+ 这里主要讲在 Ray 渲染环境下全息粒子特效 MME 的简单食用方法。个人食用效果如下。（自己也没用过几次，如有错误欢迎指正。）全息粒子特效 1、下载地址：金针 p 漾 - Hologramhttp://harigan
 
 这里主要讲在 Ray 渲染环境下全息粒子特效 MME 的简单食用方法。个人食用效果如下。（自己也没用过几次，如有错误欢迎指正。）
 

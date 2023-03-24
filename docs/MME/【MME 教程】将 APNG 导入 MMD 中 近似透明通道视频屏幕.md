@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17343358?from=search&spm_id_from=333.337.0.0)
 
-> 1 将需要保留透明底的视频转成 APNG 我用的是 AE 插件 Mobo Utilshttps://www.lookae.com/mobo-utils / 可以直接在渲染选项那里找到输出「Animated PNG」格......
+> 作者：[千野](https://space.bilibili.com/27521)
+
+ 1 将需要保留透明底的视频转成 APNG 我用的是 AE 插件 Mobo Utilshttps://www.lookae.com/mobo-utils / 可以直接在渲染选项那里找到输出「Animated PNG」格......
 
 **1** **将需要保留透明底的视频转成 APNG**
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv766001?from=search&spm_id_from=333.337.0.0)
 
-> 上次（https://www.bilibili.com/read/cv253693/）本次模型：MSK 樣的大典太光世另外：这东西对你来说可能一点用都没有首先按你 MMD 的输出大小建一张图、之后用 PS 的渐
+> 作者：[yuhao828](https://space.bilibili.com/3290004)
+
+ 上次（https://www.bilibili.com/read/cv253693/）本次模型：MSK 樣的大典太光世另外：这东西对你来说可能一点用都没有首先按你 MMD 的输出大小建一张图、之后用 PS 的渐
 
 上次（[https://www.bilibili.com/read/cv253693/](https://www.bilibili.com/read/cv253693/)）
 

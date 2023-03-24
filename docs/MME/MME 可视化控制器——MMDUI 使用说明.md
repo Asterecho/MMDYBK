@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4541166?from=search&spm_id_from=333.337.0.0)
 
-> 要使程序可以识别和编辑一个对象（变量），你需要为其添加注释（在尖括号内的变量）。
+> 作者：[稽夏](https://space.bilibili.com/40319578)
+
+ 要使程序可以识别和编辑一个对象（变量），你需要为其添加注释（在尖括号内的变量）。
 
     要使程序可以识别和编辑一个对象（变量），你需要为其添加注释（在尖括号内的变量）。**部分 MME 已经包含了这部分代码**，则无需手动添加。
 

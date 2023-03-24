@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv9454409?from=search&spm_id_from=333.337.0.0)
 
-> 第一次改造 MME，所以四种都是不一样的风格，如果你不喜欢可以划走。配布链接会放在评论区，下载了请在下面评论一下谢谢。下面是预览图，下载请斟酌 M1M2M3M4
+> 作者：[狼猫桑](https://space.bilibili.com/11337546)
+
+ 第一次改造 MME，所以四种都是不一样的风格，如果你不喜欢可以划走。配布链接会放在评论区，下载了请在下面评论一下谢谢。下面是预览图，下载请斟酌 M1M2M3M4
 
 [专栏](https://www.bilibili.com/read/home?from=articleDetail) /
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv10769835?from=search&spm_id_from=333.337.0.0)
 
-> 首先 ~ 感谢 RC、多隆子、秋燚、陈 YT ！我写的基本都是我给画面做加法的常用方法，不常用的就不说了如果有人想看怎么给画面做减法的话那么我就随缘更 = w=！大概分为三个部分：一、ray 渲小技巧（可能随时想起来了还会修改）二、内部 mme（和模型处在同一次元的 mme）三、表面 mme（糊在最外面的屏幕上的 mme）一、ray 渲小技巧：ray-mmd（沐 l 丶 / 老斯基）（1）打光：（···main/Lighting） 打在人身上的光推荐都带上 shadow，可以丰富阴影层次。
+> 作者：[悠闲的白面包片](https://space.bilibili.com/8036639)
+
+ 首先 ~ 感谢 RC、多隆子、秋燚、陈 YT ！我写的基本都是我给画面做加法的常用方法，不常用的就不说了如果有人想看怎么给画面做减法的话那么我就随缘更 = w=！大概分为三个部分：一、ray 渲小技巧（可能随时想起来了还会修改）二、内部 mme（和模型处在同一次元的 mme）三、表面 mme（糊在最外面的屏幕上的 mme）一、ray 渲小技巧：ray-mmd（沐 l 丶 / 老斯基）（1）打光：（···main/Lighting） 打在人身上的光推荐都带上 shadow，可以丰富阴影层次。
 
 ![][img-0]
 

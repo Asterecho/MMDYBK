@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv7722276?from=search&spm_id_from=333.337.0.0)
 
-> 意外发现針金 P 的博客今年还在更新，还增加了这么一个シェーダエフェクト GUI 化ツール「MikuMikuShading」。
+> 作者：[行戈薶](https://space.bilibili.com/311357)
+
+ 意外发现針金 P 的博客今年还在更新，还增加了这么一个シェーダエフェクト GUI 化ツール「MikuMikuShading」。
 
 意外发现針金 P 的博客今年还在更新，还增加了这么一个シェーダエフェクト GUI 化ツール「MikuMikuShading」。有了 MMS，完全不懂编程和渲染的一般人也能通过 UI 调整出自己想要的 Shader。我正好需要 Toon 渲染还没搞懂 HAToon2，这不巧了 (T_T)
 

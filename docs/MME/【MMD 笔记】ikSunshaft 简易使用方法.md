@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv5690519?from=search&spm_id_from=333.337.0.0)
 
-> ikSunshaft 可以说是一个表现阳光照射效果的 MME，用在室外类场景会有不错的效果，也可以运用在其他需要的场合。
+> 作者：[芜之_nwhr](https://space.bilibili.com/1890361)
+
+ ikSunshaft 可以说是一个表现阳光照射效果的 MME，用在室外类场景会有不错的效果，也可以运用在其他需要的场合。
 
 ikSunshaft 可以说是一个表现阳光照射效果的 MME，用在室外类场景会有不错的效果，也可以运用在其他需要的场合。具体来说可以看下图，使用 ikSunshaft 之后可以获得比较自然的光照效果。
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv20995995?from=search&spm_id_from=..0.0)
 
-> LightBloom 是一个家喻户晓的 mme，也是 mmd“光污染” 的主要来源之一。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ LightBloom 是一个家喻户晓的 mme，也是 mmd“光污染” 的主要来源之一。
 
 **LightBloom** 是一个家喻户晓的 mme，也是 mmd“光污染” 的主要来源之一。
 

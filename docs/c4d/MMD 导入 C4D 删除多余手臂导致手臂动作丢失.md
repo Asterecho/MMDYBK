@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18904955?from=search&spm_id_from=333.337.0.0)
 
-> （我用的版本是 R21，其他版本如何解决此类问题我也不到啊）不知道大家有没有遇到这个问题。
+> 作者：[空山新雨受](https://space.bilibili.com/444111623)
+
+ （我用的版本是 R21，其他版本如何解决此类问题我也不到啊）不知道大家有没有遇到这个问题。
 
 （我用的版本是 R21，其他版本如何解决此类问题我也不到啊）
 

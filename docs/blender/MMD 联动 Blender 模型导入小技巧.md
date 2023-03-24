@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv11503852?from=search&spm_id_from=333.337.0.0)
 
-> 1. 导入 Blender 前的素材准备阶段选好模型，先把模型在 PE 中打开，在编辑板块中选择材质，然后全选材质，把 toon 删除，并把高光改成无效，最后另存为原文件夹。
+> 作者：[otan90o](https://space.bilibili.com/401878734)
+
+ 1. 导入 Blender 前的素材准备阶段选好模型，先把模型在 PE 中打开，在编辑板块中选择材质，然后全选材质，把 toon 删除，并把高光改成无效，最后另存为原文件夹。
 
 **1. 导入 Blender 前的素材准备阶段**
 

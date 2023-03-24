@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv11499454?from=search&spm_id_from=333.337.0.0)
 
-> 关于 Cinema 4D 的 mmdtool。
+> 作者：[艾米蒂aimidi](https://space.bilibili.com/30898053)
+
+ 关于 Cinema 4D 的 mmdtool。
 
 Cinema 4D 的 mmdtool。
 

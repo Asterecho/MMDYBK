@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv6224468?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文 & gt;
+> 作者：[聖誓](https://space.bilibili.com/3380492)
+
+ 点击进入查看全文 & gt;
 
         大家好！看标题点进来的应该都是会 K 帧同好或者想 K 帧萌新吧（我也是萌新就是了），本篇主要是说一些 K 帧的小技巧（自以为）希望可以帮到萌新们解决一些 K 帧问题，大佬有好的技巧希望可以在评论区分享一下，大家一起学习学习。
 

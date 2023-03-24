@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17133839?from=search&spm_id_from=333.337.0.0)
 
-> 事发于我自己使用大佬们配布的原神素体模型时，我想用 mikumikumoving（mmm）进行物理烘焙时遇到物理烘焙不下来的问题先说一下如何使用 mmm 烘焙头发物理帮助 blender 进行 mmd 舞蹈制作，以便我阐述问题：如下图，当我们使用 mmm 进行物理烘焙后，所有的骨骼会被记录下位置，这些骨骼将带动网格（模型的肉）去运转动画。
+> 作者：[达疯鼠](https://space.bilibili.com/34820959)
+
+ 事发于我自己使用大佬们配布的原神素体模型时，我想用 mikumikumoving（mmm）进行物理烘焙时遇到物理烘焙不下来的问题先说一下如何使用 mmm 烘焙头发物理帮助 blender 进行 mmd 舞蹈制作，以便我阐述问题：如下图，当我们使用 mmm 进行物理烘焙后，所有的骨骼会被记录下位置，这些骨骼将带动网格（模型的肉）去运转动画。
 
 事发于我自己使用大佬们配布的原神素体模型时，我想用 mikumikumoving（mmm）进行物理烘焙时遇到物理烘焙不下来的问题
 

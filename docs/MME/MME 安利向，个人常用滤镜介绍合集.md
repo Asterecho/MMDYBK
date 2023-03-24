@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv5476864?from=search&spm_id_from=333.337.0.0)
 
-> 嗨大家好我是又咸又菜的枫枫。
+> 作者：[Allenmi-](https://space.bilibili.com/286925744)
+
+ 嗨大家好我是又咸又菜的枫枫。
 
 嗨大家好我是又咸又菜的枫枫。  
 因为天天除了在家里扣扣 jiojio，体会一下自己深沉的菜以外无所事事，所以萌生了码个自己常用滤镜的想法（虽然不知道这个人菜成这个样子还敢出来安利脸皮厚度得是什么样）  

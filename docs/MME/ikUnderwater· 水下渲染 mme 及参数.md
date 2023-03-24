@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1098549?from=search&spm_id_from=333.337.0.0)
 
-> 做过三次水下渲染，每次做都仿佛重头开始，所以写个存档留以备用。用的是 ikeno 的 ikUnderwater_v003，括号中是自己理解的效果。ライト距離（折射光距离） 0.97 ライト角度（折射光角度）
+> 作者：[隐姓埋名林先生](https://space.bilibili.com/2117505)
+
+ 做过三次水下渲染，每次做都仿佛重头开始，所以写个存档留以备用。用的是 ikeno 的 ikUnderwater_v003，括号中是自己理解的效果。ライト距離（折射光距离） 0.97 ライト角度（折射光角度）
 
 做过三次水下渲染，每次做都仿佛重头开始，所以写个存档留以备用。
 

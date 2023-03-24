@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv9292241?from=search&spm_id_from=333.337.0.0)
 
-> 我只会改，不会开发，我也没学过 HLSL（该 MME 改造来自：桜吹雪エフェクト 原作者：ビームマン P(ロベリア） 原作者也是改造配布 hhhhhhc 图：枫叶绿叶我改了些什么东西？ 替换原有贴......
+> 作者：[夏尔-妮尔娜](https://space.bilibili.com/32262020)
+
+ 我只会改，不会开发，我也没学过 HLSL（该 MME 改造来自：桜吹雪エフェクト 原作者：ビームマン P(ロベリア） 原作者也是改造配布 hhhhhhc 图：枫叶绿叶我改了些什么东西？ 替换原有贴......
 
 ![](http://i0.hdslb.com/bfs/article/69dcc742df76fd82d8b0da11596ad888319beba7.jpg@942w_471h_progressive.webp)
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2705528?from=search&spm_id_from=333.337.0.0)
 
-> 软件本体：C4D R18 目前，R18 版本是一个比较稳定的版本，R19 以及 R20 因为很多插件还未支持更新。
+> 作者：[白歌BESING](https://space.bilibili.com/7139108)
+
+ 软件本体：C4D R18 目前，R18 版本是一个比较稳定的版本，R19 以及 R20 因为很多插件还未支持更新。
 
 软件本体：C4D R18
 

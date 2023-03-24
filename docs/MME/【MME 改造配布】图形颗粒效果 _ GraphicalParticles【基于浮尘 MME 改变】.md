@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4584011?from=search&spm_id_from=333.337.0.0)
 
-> 也是闲的没事突然发现这个 MME 可以改着玩，挺不错，就干脆放出来给各位也玩玩吧话不多说，上图六芒星图形效果三角形图形效果使用方法： 载入 GraphicalParticles.x 进入 MMD，并将 GraphicalParticles.x 的附件排序放入最后或者倒数第二（如果您需要使用抗锯齿类 MME 的话），进入 MME 面板，在 Main 面板中，给 GraphicalParticles.x 套用 Triangle.fx 或者 SixStars.x 任意一个，根据喜好，一个为三角形，后者为六芒星形。
+> 作者：[夏尔-妮尔娜](https://space.bilibili.com/32262020)
+
+ 也是闲的没事突然发现这个 MME 可以改着玩，挺不错，就干脆放出来给各位也玩玩吧话不多说，上图六芒星图形效果三角形图形效果使用方法： 载入 GraphicalParticles.x 进入 MMD，并将 GraphicalParticles.x 的附件排序放入最后或者倒数第二（如果您需要使用抗锯齿类 MME 的话），进入 MME 面板，在 Main 面板中，给 GraphicalParticles.x 套用 Triangle.fx 或者 SixStars.x 任意一个，根据喜好，一个为三角形，后者为六芒星形。
 
 ![](http://i0.hdslb.com/bfs/article/651ef2f1f7c9a0107563760e4bbef2d6258f67f8.jpg@942w_531h_progressive.webp)
 

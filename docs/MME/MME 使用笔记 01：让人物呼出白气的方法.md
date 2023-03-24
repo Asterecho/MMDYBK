@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17713800?from=search&spm_id_from=333.337.0.0)
 
-> ビームマン P 的 breath MME，可以让人物呼出白气，像冬天一样冷（？）配布主页：https://w.atwiki.jp/beamman / 以下 第一步：载入模型，把背景显示改成黑色第二步：改 fx......
+> 作者：[呐鸣村](https://space.bilibili.com/17430427)
+
+ ビームマン P 的 breath MME，可以让人物呼出白气，像冬天一样冷（？）配布主页：https://w.atwiki.jp/beamman / 以下 第一步：载入模型，把背景显示改成黑色第二步：改 fx......
 
 ビームマン P 的 breath MME，可以让人物呼出白气，像冬天一样冷（？）
 

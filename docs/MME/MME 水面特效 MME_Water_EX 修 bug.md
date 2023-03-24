@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv19750870?from=search&spm_id_from=..0.0)
 
-> 在使用ビームマン P 的水面特效 MME_Water_EX_v0_4_5 的时候，遇到了载入失败的问题。
+> 作者：[Sylph兔](https://space.bilibili.com/1943712)
+
+ 在使用ビームマン P 的水面特效 MME_Water_EX_v0_4_5 的时候，遇到了载入失败的问题。
 
 在使用ビームマン P 的水面特效 MME_Water_EX_v0_4_5 的时候，遇到了载入失败的问题。载入. x 文件的. fx 文件时，报错 MainTec，如图 1，报错编号 error X3003: redefinition of 'MainTec'。载入控制器的. fx 文件时，再次报错 EdgeTec，如图 2。
 

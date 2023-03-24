@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv15369860?from=search&spm_id_from=333.337.0.0)
 
-> Blender 扩展: Vmd Retargeting [要 Blender 3.x 版本] 该扩展能够导入 mmd 的 vmd 数据到 Daz 或 CC3 模型而无须 mmd 模型，或通过 mmd 模型转换动作。
+> 作者：[显然Pro](https://space.bilibili.com/1545053050)
+
+ Blender 扩展: Vmd Retargeting [要 Blender 3.x 版本] 该扩展能够导入 mmd 的 vmd 数据到 Daz 或 CC3 模型而无须 mmd 模型，或通过 mmd 模型转换动作。
 
 **Blender 扩展: Vmd Retargeting [要 Blender 3.x 版本]**
 

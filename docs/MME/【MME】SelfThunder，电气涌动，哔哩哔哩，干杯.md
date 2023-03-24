@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21909126?from=search&spm_id_from=..0.0)
 
-> SelfThunder 作者 ビームマン P 色変え SelfThunder 作者 山田淀子 SelfThunder 在ビームマン P 的放置场，Ctrl+f 搜索 thunder 即可。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ SelfThunder 作者 ビームマン P 色変え SelfThunder 作者 山田淀子 SelfThunder 在ビームマン P 的放置场，Ctrl+f 搜索 thunder 即可。
 
 SelfThunder 作者 ビームマン P
 

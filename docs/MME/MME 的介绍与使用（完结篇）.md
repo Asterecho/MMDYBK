@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2399480?from=search&spm_id_from=333.337.0.0)
 
-> 本期要介绍的 MME 有音频转换 vmd 器、MME 生成器系列、喷溅油漆 Blood_and_Ink、Toho_Bullet 弹幕、GodRay。
+> 作者：[光间痕](https://space.bilibili.com/13956087)
+
+ 本期要介绍的 MME 有音频转换 vmd 器、MME 生成器系列、喷溅油漆 Blood_and_Ink、Toho_Bullet 弹幕、GodRay。
 
 本期要介绍的 MME 有
 

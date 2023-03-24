@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv12770792?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文
+> 作者：[_银先生_](https://space.bilibili.com/77193224)
+
+ 点击进入查看全文
 
 这个图片跟以下要介绍的没有关系 为了看这张图渲染的可以走啦）
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18030471?from=search&spm_id_from=333.337.0.0)
 
-> 本专栏包含大量个人理解以及使用方法，不是教程，适合新手参考（请不要找我要配布地址）Diffusion 类个人认为是柔光类特效，这里主要介绍 diffusion7 以及 ikdiffusiondiffusion7......
+> 作者：[蘑菇奶](https://space.bilibili.com/85911587)
+
+ 本专栏包含大量个人理解以及使用方法，不是教程，适合新手参考（请不要找我要配布地址）Diffusion 类个人认为是柔光类特效，这里主要介绍 diffusion7 以及 ikdiffusiondiffusion7......
 
 本专栏包含大量个人理解以及使用方法，不是教程，适合新手参考
 

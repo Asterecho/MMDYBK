@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv20778483?from=search&spm_id_from=..0.0)
 
-> 推荐两款常用的调色 mmeDrop Colors 作者 winglayerwin 大属于全能系选手…… 这个 Drop Colors 也是非常好用。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 推荐两款常用的调色 mmeDrop Colors 作者 winglayerwin 大属于全能系选手…… 这个 Drop Colors 也是非常好用。
 
 推荐两款常用的调色 mme
 

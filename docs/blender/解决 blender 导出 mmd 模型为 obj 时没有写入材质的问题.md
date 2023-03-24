@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv16002283?from=search&spm_id_from=333.337.0.0)
 
-> 如图，有时会出现导出了模型和纹理，但是没有导出对应的贴图。
+> 作者：[小沙盒工作室](https://space.bilibili.com/26680057)
+
+ 如图，有时会出现导出了模型和纹理，但是没有导出对应的贴图。
 
 如图，有时会出现导出了模型和纹理，但是没有导出对应的贴图。
 

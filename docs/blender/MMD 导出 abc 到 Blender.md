@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv10746558?from=search&spm_id_from=333.337.0.0)
 
-> MMD 将模型动作数据导入普通 MMD 骨骼追踪找到头部，移动画面位置到双眼之间注册保存，然后关闭普通 MMD，使用 MikuMikuBridge 打开刚刚保存的文件查看总帧数点击设定设置总帧数设置相机分率（这里设......
+> 作者：[BiBiUE](https://space.bilibili.com/348699797)
+
+ MMD 将模型动作数据导入普通 MMD 骨骼追踪找到头部，移动画面位置到双眼之间注册保存，然后关闭普通 MMD，使用 MikuMikuBridge 打开刚刚保存的文件查看总帧数点击设定设置总帧数设置相机分率（这里设......
 
 将模型动作数据导入普通 MMD
 

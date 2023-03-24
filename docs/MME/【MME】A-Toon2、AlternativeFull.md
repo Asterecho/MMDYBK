@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21361042?from=search&spm_id_from=..0.0)
 
-> A-Toon2、A-Toon 是什么？A-toon2、A-Toon 是一种主渲染，简称 AT 渲染。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ A-Toon2、A-Toon 是什么？A-toon2、A-Toon 是一种主渲染，简称 AT 渲染。
 
 **A-Toon2、**A-Toon** 是什么？**
 

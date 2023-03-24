@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv15977704?from=search&spm_id_from=333.337.0.0)
 
-> 前言 2022 年了，blender 的用户其实也不少，我就是其中之一，正因为它的 Eevee 渲染器和 GPL 开源免费的特性，让我极快离开了 C4D 来到了 Blender，因为是个开源免费软件，所以问题自然很多，闪退......
+> 作者：[Ar-Sr-Na](https://space.bilibili.com/24749747)
+
+ 前言 2022 年了，blender 的用户其实也不少，我就是其中之一，正因为它的 Eevee 渲染器和 GPL 开源免费的特性，让我极快离开了 C4D 来到了 Blender，因为是个开源免费软件，所以问题自然很多，闪退......
 
 2022 年了，blender 的用户其实也不少，我就是其中之一，正因为它的 Eevee 渲染器和 GPL 开源免费的特性，让我极快离开了 C4D 来到了 Blender，因为是个开源免费软件，所以问题自然很多，闪退，保存未响应，各种报错，各种乱码，都是很正常的，而今天我遇到的这个问题，在搜索了无数页必应，都找不到需要的答案，摄像机自动对焦不准确
 

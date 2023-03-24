@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3165343?from=search&spm_id_from=333.337.0.0)
 
-> 标题致敬了 old tomato（？Attention：本文有【大量沙雕的 mme 反面教材操作】出现请在确认自己足够勇敢且敢于面对鬼畜画面的情况下【慎重】阅读此文感谢！请在有成年的 mikumikudance 及 pmdeditor 的监护陪同下观看此文头图借物请见视频的简介：av60826636 好了直接进入正题。
+> 作者：[L-Seika_](https://space.bilibili.com/2085946)
+
+ 标题致敬了 old tomato（？Attention：本文有【大量沙雕的 mme 反面教材操作】出现请在确认自己足够勇敢且敢于面对鬼畜画面的情况下【慎重】阅读此文感谢！请在有成年的 mikumikudance 及 pmdeditor 的监护陪同下观看此文头图借物请见视频的简介：av60826636 好了直接进入正题。
 
 标题致敬了 old tomato（？
 

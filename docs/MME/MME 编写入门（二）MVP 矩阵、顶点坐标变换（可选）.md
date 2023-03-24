@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv22207644?from=search&spm_id_from=..0.0)
 
-> 关于矩阵的学习，涉及到线性代数，所以可能会难一些。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 关于矩阵的学习，涉及到线性代数，所以可能会难一些。
 
 关于矩阵的学习，涉及到线性代数，所以可能会难一些。不过我觉得有看不懂的地方也没关系，等后续的学习跟进，也许之前的问题就自然而然地化解了。某种意义上来说，会调用就行了。所以这篇当作可选的。
 

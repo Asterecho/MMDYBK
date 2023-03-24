@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv22279524?from=search&spm_id_from=..0.0)
 
-> 能不能在 MMD 里放大缩小模型呢？当然可以。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 能不能在 MMD 里放大缩小模型呢？当然可以。
 
 能不能在 MMD 里放大缩小模型呢？当然可以。
 

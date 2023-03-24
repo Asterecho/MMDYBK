@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17972157?from=search&spm_id_from=333.337.0.0)
 
-> 発光エフェクト　　　　　　　　　AutoLuminous Ver.4.2　　　　　　　　　　製作：そぼろ AutoLuminous4 属于 mmd 必备的效果之一了。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 発光エフェクト　　　　　　　　　AutoLuminous Ver.4.2　　　　　　　　　　製作：そぼろ AutoLuminous4 属于 mmd 必备的效果之一了。
 
 　　　　                　 発光エフェクト
 

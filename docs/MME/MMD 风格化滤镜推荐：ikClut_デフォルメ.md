@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv20824753?from=search&spm_id_from=..0.0)
 
-> 不是教程！仅仅是一个滤镜推荐。
+> 作者：[Yori_er](https://space.bilibili.com/117554640)
+
+ 不是教程！仅仅是一个滤镜推荐。
 
 ![][img-0]
 

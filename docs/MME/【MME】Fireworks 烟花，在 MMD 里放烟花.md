@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv20582997?from=search&spm_id_from=..0.0)
 
-> 在 MMD 中实现烟花效果。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 在 MMD 中实现烟花效果。
 
 在 MMD 中实现烟花效果。
 

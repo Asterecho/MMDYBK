@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv14859861?from=search&spm_id_from=333.337.0.0)
 
-> 前排提示：本文介绍一个适合 K 帧的导入 AVI 方法，即观察动作，倒放快速如果你的 AVI 是作为画面用途的，建议考虑其他导入 AVI 方案大家好，我是 AR。
+> 作者：[ARonisc](https://space.bilibili.com/456224370)
+
+ 前排提示：本文介绍一个适合 K 帧的导入 AVI 方法，即观察动作，倒放快速如果你的 AVI 是作为画面用途的，建议考虑其他导入 AVI 方案大家好，我是 AR。
 
 **前排提示：**
 

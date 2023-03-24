@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv904815?from=search&spm_id_from=333.337.0.0)
 
-> 基础篇：https://www.bilibili.com/read/cv253693 / 上次：https://www.bilibili.com/read/cv849067 / 本次使用模型：茶しゅ式千子村正
+> 作者：[yuhao828](https://space.bilibili.com/3290004)
+
+ 基础篇：https://www.bilibili.com/read/cv253693 / 上次：https://www.bilibili.com/read/cv849067 / 本次使用模型：茶しゅ式千子村正
 
 基础篇：[https://www.bilibili.com/read/cv253693/](https://www.bilibili.com/read/cv253693/)
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv20159081?from=search&spm_id_from=..0.0)
 
-> 摸摸摸想写专栏好久了，正好最近笔记本内存寄了，所以爬起来分享一下 mme 渲染对比 mme，原名 SplitView エフェクト比較表示用２画面化エフェクト（作者：Elle / データ P）配布地址：https://......
+> 作者：[洛璃Luli](https://space.bilibili.com/9292397)
+
+ 摸摸摸想写专栏好久了，正好最近笔记本内存寄了，所以爬起来分享一下 mme 渲染对比 mme，原名 SplitView エフェクト比較表示用２画面化エフェクト（作者：Elle / データ P）配布地址：https://......
 
 GIF
 

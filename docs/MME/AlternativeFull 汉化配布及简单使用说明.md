@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1207116?from=search&spm_id_from=333.337.0.0)
 
-> 嗯，这是一个咕了好久的教程，顺便借此文章与大家分享一下 2D 风格视频制作的一个思路。AlternativeFull 是什么？AlternativeFull 是 Less 于 2013 年配布的一个可以生成 FX 的工具
+> 作者：[账号已注销18376](https://space.bilibili.com/57073644)
+
+ 嗯，这是一个咕了好久的教程，顺便借此文章与大家分享一下 2D 风格视频制作的一个思路。AlternativeFull 是什么？AlternativeFull 是 Less 于 2013 年配布的一个可以生成 FX 的工具
 
 嗯，这是一个咕了好久的教程，顺便借此文章与大家分享一下 2D 风格视频制作的一个思路。
 

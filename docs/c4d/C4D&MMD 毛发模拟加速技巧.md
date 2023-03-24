@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv11123121?from=search&spm_id_from=333.337.0.0)
 
-> 模型来源：我没有芬达 C4D 的毛发模拟有两个缺点： 1. 毛发模拟的时候只吃单核 2. 进行毛发缓存的时候软件会假死解决方案： 多开 c4d 进行同时解算，然后将缓存文件加......
+> 作者：[鱼鱼不会起名](https://space.bilibili.com/379811047)
+
+ 模型来源：我没有芬达 C4D 的毛发模拟有两个缺点： 1. 毛发模拟的时候只吃单核 2. 进行毛发缓存的时候软件会假死解决方案： 多开 c4d 进行同时解算，然后将缓存文件加......
 
 电幻国度 “The Electric State” 三维动画设计短片 基本素材展示
 

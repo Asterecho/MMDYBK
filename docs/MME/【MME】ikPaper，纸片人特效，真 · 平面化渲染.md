@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21388625?from=search&spm_id_from=..0.0)
 
-> 最近看到有个新的游戏，真 · 纸片人 TPS。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 最近看到有个新的游戏，真 · 纸片人 TPS。
 
 最近看到有个新的游戏，真 · 纸片人 TPS。在 3D 的基础上融合了 2D。
 

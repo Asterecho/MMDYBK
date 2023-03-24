@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv15190494?from=search&spm_id_from=333.337.0.0)
 
-> 序言如果你想要制作一个 BlenderMMD，那么第一件事肯定就是要把 MMD 模型导入进去了，要导入 MMD 模型，我们需要一个 Blender 插件：mmd-tools。
+> 作者：[NaCl_OGE咸橘](https://space.bilibili.com/34705293)
+
+ 序言如果你想要制作一个 BlenderMMD，那么第一件事肯定就是要把 MMD 模型导入进去了，要导入 MMD 模型，我们需要一个 Blender 插件：mmd-tools。
 
 > **序言**
 

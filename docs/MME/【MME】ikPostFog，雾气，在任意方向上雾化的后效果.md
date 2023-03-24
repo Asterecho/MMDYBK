@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21626670?from=search&spm_id_from=..0.0)
 
-> 作者 ik，配布地址 https://seiga.nicovideo.jp/seiga/im4662284?track=seiga_illust_keyword 其实在 bowlroll 也可以搜到一个，名为 ikPostFog translate 的版本，里面带有一份英文版的说明书。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 作者 ik，配布地址 https://seiga.nicovideo.jp/seiga/im4662284?track=seiga_illust_keyword 其实在 bowlroll 也可以搜到一个，名为 ikPostFog translate 的版本，里面带有一份英文版的说明书。
 
 **作者 ik，配布地址**
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv22422229?from=search&spm_id_from=..0.0)
 
-> 在第四篇的简单光照模型中，做了一个简单的卡通着色器。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 在第四篇的简单光照模型中，做了一个简单的卡通着色器。
 
 在第四篇的简单光照模型中，做了一个简单的卡通着色器。对的，讲的思路是冯氏着色的方法，但是最后做出来的实际上是卡通着色。
 

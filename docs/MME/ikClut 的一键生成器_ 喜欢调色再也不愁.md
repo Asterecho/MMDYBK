@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21906471?from=search&spm_id_from=..0.0)
 
-> 没有喜欢的 ikClut？喜欢自己的一套色彩搭配，但是苦于只能在后期修正？现在！向你全新推出 ikClut 一键生成器！！！！（欢呼~~~ 他非常简单的！！爱酱都能学会！！学不会我来手把手给你教（咬牙切齿就是这......
+> 作者：[夜雨安歌_TikaRa](https://space.bilibili.com/374412219)
+
+ 没有喜欢的 ikClut？喜欢自己的一套色彩搭配，但是苦于只能在后期修正？现在！向你全新推出 ikClut 一键生成器！！！！（欢呼~~~ 他非常简单的！！爱酱都能学会！！学不会我来手把手给你教（咬牙切齿就是这......
 
 没有喜欢的 ikClut？喜欢自己的一套色彩搭配，但是苦于只能在后期修正？
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17235523?from=search&spm_id_from=333.337.0.0)
 
-> 之前有在 b 站看各路大佬们发的在 MMD 的换头教学视频，然后我嫌麻烦就在 blender 干了同样的事情。
+> 作者：[达疯鼠](https://space.bilibili.com/34820959)
+
+ 之前有在 b 站看各路大佬们发的在 MMD 的换头教学视频，然后我嫌麻烦就在 blender 干了同样的事情。
 
 之前有在 b 站看各路大佬们发的在 MMD 的换头教学视频，然后我嫌麻烦就在 blender 干了同样的事情。当然也是因为找不到太多素体就自己动手了！哎哎，我可没有说大佬们做的慢嗷，别乱说
 

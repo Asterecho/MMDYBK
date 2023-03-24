@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21041271?from=search&spm_id_from=..0.0)
 
-> Diffusion 也属于必备 mme，其广泛的使用，简直相当于模型里的 tda 式。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ Diffusion 也属于必备 mme，其广泛的使用，简直相当于模型里的 tda 式。
 
   Diffusion 也属于必备 mme，其广泛的使用，简直相当于模型里的 tda 式。
 

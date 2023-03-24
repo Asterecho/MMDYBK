@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv19499779?from=search&spm_id_from=..0.0)
 
-> 这其实是一个非常优秀的效果，但是似乎使用的人并不是很多。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 这其实是一个非常优秀的效果，但是似乎使用的人并不是很多。
 
 这其实是一个非常优秀的效果，但是似乎使用的人并不是很多。
 

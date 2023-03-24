@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4635413?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文 & gt;
+> 作者：[sumomolu](https://space.bilibili.com/3547749)
+
+ 点击进入查看全文 & gt;
 
 **动画基础小知识（二）****了解人体骨骼**
 

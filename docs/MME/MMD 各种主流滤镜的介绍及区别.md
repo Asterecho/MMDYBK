@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21965368?from=search&spm_id_from=..0.0)
 
-> 最近在研究自制滤镜，发现了一些滤镜间的区别，写个专栏试试 x 本文将介绍 ikClut、o_Tonemap、PostMovie 和 ScreenTex 之间的区别全文字数在 1k9 左右，字很多，都是字，没有图，废话还......
+> 作者：[若梦Romy](https://space.bilibili.com/7535531)
+
+ 最近在研究自制滤镜，发现了一些滤镜间的区别，写个专栏试试 x 本文将介绍 ikClut、o_Tonemap、PostMovie 和 ScreenTex 之间的区别全文字数在 1k9 左右，字很多，都是字，没有图，废话还......
 
 最近在研究自制滤镜，发现了一些滤镜间的区别，写个专栏试试 x
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv9068550?from=search&spm_id_from=333.337.0.0)
 
-> 大家新年快乐么么么，觉得应该给大家发一点福利，偶然间在尝试新的渲染的时候，发现了不错的 lut，就用了白苓咕咕大大的教程，制作了 MME 滤镜，感谢！！！【借物表】【Model】Base by TDA / s......
+> 作者：[龙泉莎sansa](https://space.bilibili.com/3795303)
+
+ 大家新年快乐么么么，觉得应该给大家发一点福利，偶然间在尝试新的渲染的时候，发现了不错的 lut，就用了白苓咕咕大大的教程，制作了 MME 滤镜，感谢！！！【借物表】【Model】Base by TDA / s......
 
 大家新年快乐么么么，觉得应该给大家发一点福利，偶然间在尝试新的渲染的时候，发现了不错的 lut，就用了[白苓咕咕](https://space.bilibili.com/3976096)大大的教程，制作了 MME 滤镜，感谢！！！
 
