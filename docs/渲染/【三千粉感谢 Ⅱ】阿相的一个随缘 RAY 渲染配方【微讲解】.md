@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3579774?from=search&spm_id_from=333.337.0.0)
 
-> 请不要直接套参数数值这种东西不是固定一套就可以应对各种各样的情况微讲解见图片下方的小字 RAY 渲基础操作见 RC 老师的教程所有 MME 一览阿相用的 MME 越来越少了. jpg 光照部分单纯个人爱好以及看镜头偏向 RA......
+> 作者：[阿相的化学式是H2Cu](https://space.bilibili.com/3932231)
+
+ 请不要直接套参数数值这种东西不是固定一套就可以应对各种各样的情况微讲解见图片下方的小字 RAY 渲基础操作见 RC 老师的教程所有 MME 一览阿相用的 MME 越来越少了. jpg 光照部分单纯个人爱好以及看镜头偏向 RA......
 
 **请不要直接套参数**
 

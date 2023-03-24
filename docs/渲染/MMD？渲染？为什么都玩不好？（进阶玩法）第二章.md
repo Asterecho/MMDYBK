@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4474970?from=search&spm_id_from=333.337.0.0)
 
-> 废话不多说直接上图 https://www.bilibili.com/video/av84753108 参考视频此渲染由上一篇修改加了很多光 极为迷的光源场景：RedialC 知名打光狂魔人......
+> 作者：[ii历木良咕咕](https://space.bilibili.com/39052497)
+
+ 废话不多说直接上图 https://www.bilibili.com/video/av84753108 参考视频此渲染由上一篇修改加了很多光 极为迷的光源场景：RedialC 知名打光狂魔人......
 
 废话不多说直接上图
 

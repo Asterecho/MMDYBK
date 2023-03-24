@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv13124318?from=search&spm_id_from=333.337.0.0)
 
-> 因为我好喜欢这个这个稿渲的画面所以想记录一下！非教程，所以不会有上个专栏写的那么认真（借物表在专栏末尾）主渲是 HAToon2_Genshin Imitation Shader（作者：ミーフォ茜 / Moyo......
+> 作者：[红茶淡淡余香](https://space.bilibili.com/3643892)
+
+ 因为我好喜欢这个这个稿渲的画面所以想记录一下！非教程，所以不会有上个专栏写的那么认真（借物表在专栏末尾）主渲是 HAToon2_Genshin Imitation Shader（作者：ミーフォ茜 / Moyo......
 
 因为我好喜欢这个这个稿渲的画面所以想记录一下！非教程，所以不会有上个专栏写的那么认真
 

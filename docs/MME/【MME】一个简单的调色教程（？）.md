@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv951648?from=search&spm_id_from=333.337.0.0)
 
-> 大家好 (๑╹◡╹)ﾉ又是我五毛，第一次出 MMD 向的渲染教程（其实根本算不上教程 x）此教程的大部分 mme 都可以在 mme 包里面找到 x 推荐一个 mme 配布地址：http://seiga.nicovideo.j
+> 作者：[茶房的眉毛](https://space.bilibili.com/19892373)
+
+ 大家好 (๑╹◡╹)ﾉ又是我五毛，第一次出 MMD 向的渲染教程（其实根本算不上教程 x）此教程的大部分 mme 都可以在 mme 包里面找到 x 推荐一个 mme 配布地址：http://seiga.nicovideo.j
 
 大家好 (๑╹◡╹)ﾉ又是我五毛，第一次出 MMD 向的渲染教程（其实根本算不上教程 x）
 

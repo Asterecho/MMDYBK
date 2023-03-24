@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv20222306?from=search&spm_id_from=..0.0)
 
-> 把一个人物渲染好看，无非依旧是那么几点。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 把一个人物渲染好看，无非依旧是那么几点。
 
 ![][img-0] ![][img-1]
 

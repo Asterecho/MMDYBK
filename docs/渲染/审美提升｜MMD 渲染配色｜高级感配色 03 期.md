@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv22327217?from=search&spm_id_from=..0.0)
 
-> 大家好！今天我们来谈一下关于赛璐璐风格的插画画风是怎样作用到 MMD 中的 Ray 渲染配色的。
+> 作者：[Biscuit-773](https://space.bilibili.com/13525041)
+
+ 大家好！今天我们来谈一下关于赛璐璐风格的插画画风是怎样作用到 MMD 中的 Ray 渲染配色的。
 
 大家好！今天我们来谈一下关于赛璐璐风格的插画画风是怎样作用到 MMD 中的 Ray 渲染配色的。
 

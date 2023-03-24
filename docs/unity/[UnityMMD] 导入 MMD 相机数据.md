@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17504475?from=search&spm_id_from=333.337.0.0)
 
-> 文章是笔记直接转的，排版可能有点不好看！工作忙就不重新排版了！还有站外链接好像插不进来！这个文章模之屋也有发！ 还有 B 站好像不支持 Gif 图！！！首先，这个操作有点离谱，具体为啥我也不知道！需要用到 Blender 和 Maya。
+> 作者：[啥也不会QAQ-带冰](https://space.bilibili.com/109368146)
+
+ 文章是笔记直接转的，排版可能有点不好看！工作忙就不重新排版了！还有站外链接好像插不进来！这个文章模之屋也有发！ 还有 B 站好像不支持 Gif 图！！！首先，这个操作有点离谱，具体为啥我也不知道！需要用到 Blender 和 Maya。
 
 首先，这个操作有点离谱，具体为啥我也不知道！需要用到 Blender 和 Maya。
 

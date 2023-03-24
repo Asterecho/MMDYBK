@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv15002961?from=search&spm_id_from=333.337.0.0)
 
-> 不是自己整理的，存档用附带一下 MME 用エフェクト - VPVP wiki - atwiki（アットウィキ）https://w.atwiki.jp/vpvpwiki/pages/272.htmlMMD E......
+> 作者：[顾清颜yanann](https://space.bilibili.com/215129163)
+
+ 不是自己整理的，存档用附带一下 MME 用エフェクト - VPVP wiki - atwiki（アットウィキ）https://w.atwiki.jp/vpvpwiki/pages/272.htmlMMD E......
 
 不是自己整理的，存档用
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv5279925?from=search&spm_id_from=333.337.0.0)
 
-> 依旧是 ray 渲小技巧 不适合纯萌新，请有一定 ray 渲基础 在使用 Ray 渲染器进行 MMD 渲染时可能经常会有些 bug 发生，这些有的是因为 ray 本身，有些则是因为操作失误。
+> 作者：[安達・桜](https://space.bilibili.com/499448846)
+
+ 依旧是 ray 渲小技巧 不适合纯萌新，请有一定 ray 渲基础 在使用 Ray 渲染器进行 MMD 渲染时可能经常会有些 bug 发生，这些有的是因为 ray 本身，有些则是因为操作失误。
 
                                                            依旧是 ray 渲小技巧
 

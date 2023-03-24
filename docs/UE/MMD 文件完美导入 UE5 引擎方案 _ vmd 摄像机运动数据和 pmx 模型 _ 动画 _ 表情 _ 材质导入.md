@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18563773?from=search&spm_id_from=333.337.0.0)
 
-> 需要用到的软件及插件：（末尾有下载链接 (•̀ω•́)） C4dr20 Maya UE5 MMD_Tool_For_C4D UnrealCameraGenerator_......
+> 作者：[简单的の快乐](https://space.bilibili.com/33733417)
+
+ 需要用到的软件及插件：（末尾有下载链接 (•̀ω•́)） C4dr20 Maya UE5 MMD_Tool_For_C4D UnrealCameraGenerator_......
 
 ![](http://i0.hdslb.com/bfs/article/02db465212d3c374a43c60fa2625cc1caeaab796.png)![](http://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png)
 

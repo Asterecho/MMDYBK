@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv16119556?from=search&spm_id_from=333.337.0.0)
 
-> ——在漫长的，不愉快的封校生活里，研究 mmd 无可救药的物理系统。
+> 作者：[板蓝根炒大青叶](https://space.bilibili.com/28233117)
+
+ ——在漫长的，不愉快的封校生活里，研究 mmd 无可救药的物理系统。
 
 ——在漫长的，不愉快的封校生活里，研究 mmd 无可救药的物理系统。
 

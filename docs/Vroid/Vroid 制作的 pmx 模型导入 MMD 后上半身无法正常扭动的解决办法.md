@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv14621573?from=search&spm_id_from=333.337.0.0)
 
-> Vroid 制作的 pmx 模型在 MMD 中导入动作后，会出现上半身无法正常扭动的现象。
+> 作者：[阿卡阿卡啊卡卡卡](https://space.bilibili.com/7333419)
+
+ Vroid 制作的 pmx 模型在 MMD 中导入动作后，会出现上半身无法正常扭动的现象。
 
 Vroid 制作的 pmx 模型在 MMD 中导入动作后，会出现上半身无法正常扭动的现象。
 

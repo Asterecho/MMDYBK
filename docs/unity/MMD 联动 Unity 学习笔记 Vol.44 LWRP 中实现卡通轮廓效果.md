@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3433555?from=search&spm_id_from=333.337.0.0)
 
-> 前言 前面几期我们共同研究使用 UTS2 在 Unity 中实现卡通风格渲染，但是目前 UTS 只能使用在 Unity 的传统渲染管线中。
+> 作者：[xL2P](https://space.bilibili.com/11488740)
+
+ 前言 前面几期我们共同研究使用 UTS2 在 Unity 中实现卡通风格渲染，但是目前 UTS 只能使用在 Unity 的传统渲染管线中。
 
 **前言**
 

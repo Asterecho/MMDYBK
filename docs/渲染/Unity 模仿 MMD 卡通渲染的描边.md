@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv9027820?from=search&spm_id_from=333.337.0.0)
 
-> 偶然发现 MMD 描边，眼睛周围并没有被描边，感觉效果挺好，于是想拿 Unity 模仿一下，最后用两种方法从效果上实现了。
+> 作者：[昨夜丶Sakuya](https://space.bilibili.com/259362)
+
+ 偶然发现 MMD 描边，眼睛周围并没有被描边，感觉效果挺好，于是想拿 Unity 模仿一下，最后用两种方法从效果上实现了。
 
     偶然发现 MMD 描边，眼睛周围并没有被描边，感觉效果挺好，于是想拿 Unity 模仿一下，最后用两种方法从效果上实现了。
 

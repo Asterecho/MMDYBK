@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv22302271)
 
-> 嗨，大家好。
+
+
+ 嗨，大家好。
 
 嗨，大家好。为了更好地让每一位 MMDder 学习好 ray 渲染 up 在这里将自己之前做过的所有有关 ray 渲染基础，进阶，高级的相关笔记图片整理打包好在一块让大家更方便去深入理解 ray 渲染的的理念而就有了这一片文章。
 

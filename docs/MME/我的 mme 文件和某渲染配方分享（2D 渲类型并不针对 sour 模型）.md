@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv5216090?from=search&spm_id_from=333.337.0.0)
 
-> 先介绍一下我有的一些 mmemme 介绍（整体）1. 先从基本开始吧（在百度贴吧看到的一些）DiffusionSSAOHgSAOAutoLuminouso_SelfOerlay2. 使用了 PowerShader......
+> 作者：[网總咔](https://space.bilibili.com/50509432)
+
+ 先介绍一下我有的一些 mmemme 介绍（整体）1. 先从基本开始吧（在百度贴吧看到的一些）DiffusionSSAOHgSAOAutoLuminouso_SelfOerlay2. 使用了 PowerShader......
 
 先介绍一下我有的一些 mme
 

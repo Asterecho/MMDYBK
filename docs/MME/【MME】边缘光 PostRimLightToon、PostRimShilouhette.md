@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv20542896?from=search&spm_id_from=..0.0)
 
-> PostRimLightToon、PostRimShilouhette 这两个 mme 是 P.I.P 大佬做的边缘光效果。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ PostRimLightToon、PostRimShilouhette 这两个 mme 是 P.I.P 大佬做的边缘光效果。
 
 PostRimLightToon、PostRimShilouhette
 

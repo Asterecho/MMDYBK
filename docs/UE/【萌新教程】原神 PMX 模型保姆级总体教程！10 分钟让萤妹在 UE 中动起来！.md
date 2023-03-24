@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv14204537?from=search&spm_id_from=333.337.0.0)
 
-> UE4 使用 PMX -> FBX, 使用原神空开模型 导入 PMX 删除骨骼，如图所示 (Ps:Edit Mode) ShoulderC_R == 肩 C...
+> 作者：[__小爻](https://space.bilibili.com/1864199)
+
+ UE4 使用 PMX - FBX, 使用原神空开模型 导入 PMX 删除骨骼，如图所示 (Ps:Edit Mode) ShoulderC_R == 肩 C...
 
 [专栏](https://www.bilibili.com/read/home?from=articleDetail) /
 

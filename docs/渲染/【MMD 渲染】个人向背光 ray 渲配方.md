@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2045203?from=search&spm_id_from=333.337.0.0)
 
-> 首先感谢各位的喜爱，没想到这么快就破 2000 啦我如约而至来公布配方啦~ 这个配方适合背光带窗的，如果想要用正光的话就需要调整光照和控制器。
+> 作者：[-三微月-](https://space.bilibili.com/820307)
+
+ 首先感谢各位的喜爱，没想到这么快就破 2000 啦我如约而至来公布配方啦~ 这个配方适合背光带窗的，如果想要用正光的话就需要调整光照和控制器。
 
 首先
 

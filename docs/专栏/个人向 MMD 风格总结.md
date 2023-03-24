@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18320016?from=search&spm_id_from=333.337.0.0)
 
-> 咳咳，本来这个东西应该是在入坑一周年的时候就写出来的，但是因为懒 + 怕被冲所以咕咕了一段时间。
+> 作者：[雾都的黄昏](https://space.bilibili.com/600238591)
+
+ 咳咳，本来这个东西应该是在入坑一周年的时候就写出来的，但是因为懒 + 怕被冲所以咕咕了一段时间。
 
 咳咳，本来这个东西应该是在入坑一周年的时候就写出来的，但是因为懒 + 怕被冲所以咕咕了一段时间。
 

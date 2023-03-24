@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv8802380?from=search&spm_id_from=333.337.0.0)
 
-> PS 渲，全称 power shader。
+> 作者：[夹心鞠莉酱](https://space.bilibili.com/85833656)
+
+ PS 渲，全称 power shader。
 
 PS 渲，全称 power shader。是常用的一种主渲，或者说着色器。我认为这种着色器是非常考验渲染者对模型的二次编辑的，因为这个着色器渲染的最终效果和模型质量是挂钩的。
 

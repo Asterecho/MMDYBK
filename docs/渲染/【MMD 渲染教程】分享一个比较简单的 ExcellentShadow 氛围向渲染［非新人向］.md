@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv7836723?from=search&spm_id_from=333.337.0.0)
 
-> 最初记得很久之前写过一个渲染配方的专栏，但后来被我误删掉了。
+> 作者：[星染_Aki](https://space.bilibili.com/10999331)
+
+ 最初记得很久之前写过一个渲染配方的专栏，但后来被我误删掉了。
 
 最初记得很久之前写过一个渲染配方的专栏，但后来被我误删掉了。
 

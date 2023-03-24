@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv15202676?from=search&spm_id_from=333.337.0.0)
 
-> 开头作者的一些废话 3 年前已经写过了一篇关于 MMD 的教程资源整合专栏，但是随着时间的推移，其中部分链接已经失效，且内容亦需要补充完善，弃了好久的坑今天终于把它填上了。
+> 作者：[To_E](https://space.bilibili.com/259535925)
+
+ 开头作者的一些废话 3 年前已经写过了一篇关于 MMD 的教程资源整合专栏，但是随着时间的推移，其中部分链接已经失效，且内容亦需要补充完善，弃了好久的坑今天终于把它填上了。
 
 开头作者的一些废话
 

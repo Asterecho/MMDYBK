@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv12279626?from=search&spm_id_from=333.337.0.0)
 
-> 我又再一次敲制作总结了，制作前要准备的材料：先下载 “PostSpotLightDark” 这个 MME 由 角砂糖大佬做的。
+> 作者：[幻雨之秋](https://space.bilibili.com/17396743)
+
+ 我又再一次敲制作总结了，制作前要准备的材料：先下载 “PostSpotLightDark” 这个 MME 由 角砂糖大佬做的。
 
 我又再一次敲制作总结了，
 

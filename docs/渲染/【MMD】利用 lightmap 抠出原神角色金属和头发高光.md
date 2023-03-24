@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv16331506?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文 & gt;
+> 作者：[萧君鸽鸽](https://space.bilibili.com/102518865)
+
+ 点击进入查看全文 & gt;
 
 记录一下如何用 lightmap 抠出来原神金属部分和头发高光 x
 

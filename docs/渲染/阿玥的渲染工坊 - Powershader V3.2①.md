@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3633181?from=search&spm_id_from=333.337.0.0)
 
-> 上一个配方因为视频原因要删掉，就重新搞一个 PS 的。
+> 作者：[西-玥-提亚](https://space.bilibili.com/7564304)
+
+ 上一个配方因为视频原因要删掉，就重新搞一个 PS 的。
 
 上一个配方因为视频原因要删掉，就重新搞一个 PS 的。
 

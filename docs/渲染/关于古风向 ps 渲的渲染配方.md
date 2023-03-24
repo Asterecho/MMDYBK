@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2177804?from=search&spm_id_from=333.337.0.0)
 
-> 你好，我是黔鱼。
+> 作者：[人生何苦初相识](https://space.bilibili.com/28119063)
+
+ 你好，我是黔鱼。
 
 [专栏](https://www.bilibili.com/read/home?from=articleDetail) /
 

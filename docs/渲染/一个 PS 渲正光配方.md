@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1214366?from=search&spm_id_from=333.337.0.0)
 
-> 先上借物：model/edit:Murabito124model/credit:(TdaZhizi_Miniskirt)Tda / 山本 / 金子卵黄 / WYKP/OyuugiP / 柳猫 / Arlvit/Matutt......
+> 作者：[账号已注销28976](https://space.bilibili.com/18264574)
+
+ 先上借物：model/edit:Murabito124model/credit:(TdaZhizi_Miniskirt)Tda / 山本 / 金子卵黄 / WYKP/OyuugiP / 柳猫 / Arlvit/Matutt......
 
 ![][img-0]
 

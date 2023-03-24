@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv11546005?from=search&spm_id_from=333.337.0.0)
 
-> 这里是爪爪饼，晨曦酒庄在逃缝纫机，业余。
+> 作者：[爪爪餅](https://space.bilibili.com/270668868)
+
+ 这里是爪爪饼，晨曦酒庄在逃缝纫机，业余。
 
 这里是爪爪饼，晨曦酒庄在逃缝纫机，业余。这次女仆装建模也是花费了超过 50 小时，各方面都在摸索，稍微记录一下（因为经常突然失忆想不起来自己以前怎么做出来的），欢迎指教，学习使我快乐. jpg
 

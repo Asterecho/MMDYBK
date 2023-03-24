@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18574754?from=search&spm_id_from=333.337.0.0)
 
-> 不知道大家在使用 ray 渲染进行打光的时候 会不会遇到以下情况（注意：为了方便理解，以下情况有夸张处理）打光前人物很暗，想只给人物补光。
+> 作者：[三金络合物](https://space.bilibili.com/1223127584)
+
+ 不知道大家在使用 ray 渲染进行打光的时候 会不会遇到以下情况（注意：为了方便理解，以下情况有夸张处理）打光前人物很暗，想只给人物补光。
 
 ![][img-0]
 

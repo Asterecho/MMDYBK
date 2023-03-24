@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv385881?from=search&spm_id_from=333.337.0.0)
 
-> 观看本配方请对 ray 渲的基本使用方法了解，以及安利两个专栏 https://www.bilibili.com/read/cv73334?from=search【mosika· 摩丝】https://www
+> 作者：[Jessica包](https://space.bilibili.com/3735029)
+
+ 观看本配方请对 ray 渲的基本使用方法了解，以及安利两个专栏 https://www.bilibili.com/read/cv73334?from=search【mosika· 摩丝】https://www
 
 观看本配方请对 ray 渲的基本使用方法了解，以及安利两个专栏
 

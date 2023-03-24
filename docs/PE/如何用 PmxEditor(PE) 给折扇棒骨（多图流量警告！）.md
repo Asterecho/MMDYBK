@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv6845652?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文
+> 作者：[rkki_77](https://space.bilibili.com/412677724)
+
+ 点击进入查看全文
 
 up 主之前看到一个非常漂亮的扇子，结果它是没有棒骨的（不能开合），于是我搜索了 B 站，贴吧等网站，都没怎么看到完整的棒骨教程，所以我参考了其他绑好骨的扇子，总结了一下几点，希望能够帮助到大家！
 

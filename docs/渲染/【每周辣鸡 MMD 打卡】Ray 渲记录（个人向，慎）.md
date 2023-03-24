@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv72680?from=search&spm_id_from=333.337.0.0)
 
-> 原图 Ray 主渲打光瞎 jb 调色（还不如不调啊……）借物：敬称略场景：ゆづき MME：Ray-Cast ，OH YEAH！！，そぼろ总想写一个记录 mme 练习的东西，因为总是用着用着就偷懒放弃了，一般都是随便
+> 作者：[蛋黄水母](https://space.bilibili.com/8124412)
+
+ 原图 Ray 主渲打光瞎 jb 调色（还不如不调啊……）借物：敬称略场景：ゆづき MME：Ray-Cast ，OH YEAH！！，そぼろ总想写一个记录 mme 练习的东西，因为总是用着用着就偷懒放弃了，一般都是随便
 
 ![][img-0]原图 ![][img-1]Ray 主渲 ![][img-2]打光 ![][img-3]瞎 jb 调色（还不如不调啊……）
 

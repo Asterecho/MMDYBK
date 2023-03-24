@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21612278?from=search&spm_id_from=..0.0)
 
-> 作者是针金，针金的配布说明 https://seiga.nicovideo.jp/seiga/im10604623 在针金的配布页里找这个就是了这是一个幻灯片拼图（15 个谜题），在效果文件中实现。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 作者是针金，针金的配布说明 https://seiga.nicovideo.jp/seiga/im10604623 在针金的配布页里找这个就是了这是一个幻灯片拼图（15 个谜题），在效果文件中实现。
 
 作者是针金，针金的配布说明 https://seiga.nicovideo.jp/seiga/im10604623
 

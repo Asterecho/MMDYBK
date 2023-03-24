@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4235221?from=search&spm_id_from=333.337.0.0)
 
-> 使用的是 Shader(ExcellentShadow2 対応版)3.1 版本【　　制作　　】角砂糖 https://www.bilibili.com/video/av80673762 自己并不太会渲染这玩意也没出过教程啥的所以话不会太多下面直接上图这是 ps 控制器的参数。
+> 作者：[初音社](https://space.bilibili.com/277257)
+
+ 使用的是 Shader(ExcellentShadow2 対応版)3.1 版本【　　制作　　】角砂糖 https://www.bilibili.com/video/av80673762 自己并不太会渲染这玩意也没出过教程啥的所以话不会太多下面直接上图这是 ps 控制器的参数。
 
 ![](http://i0.hdslb.com/bfs/article/ba1de980bdb2962c012e355b5b59bb781038f61b.jpg@942w_531h_progressive.webp)使用的是 Shader(ExcellentShadow2 対応版)3.1 版本  
 【　　制作　　】角砂糖  

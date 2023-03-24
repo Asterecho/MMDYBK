@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv35621?from=search&spm_id_from=333.337.0.0)
 
-> · 教程不适合全新手食用，介意先去看最基础的 MMD 教程以及渲染教程这是新手渲染教程 http://tieba.baidu.com/p/2923832414MMD 基础教程 http://bakakin.lof
+> 作者：[玖玖公主酱](https://space.bilibili.com/22887584)
+
+ · 教程不适合全新手食用，介意先去看最基础的 MMD 教程以及渲染教程这是新手渲染教程 http://tieba.baidu.com/p/2923832414MMD 基础教程 http://bakakin.lof
 
 · 教程不适合全新手食用，介意先去看最基础的 MMD 教程以及渲染教程  
 

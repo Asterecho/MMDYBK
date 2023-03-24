@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2219789?from=search&spm_id_from=333.337.0.0)
 
-> yeeeeeee 大家好久不见，老 Lindy 又出来丢人啦！这次的受害渲染依旧是 Atoon 渲！我真是太爱 Atoon 了！！！首先，我会先把大概一年前自己的 Atoon 教程放上来这么做的目的是因为前几天旧图重制的......
+> 作者：[Lindyyyy只有四个y](https://space.bilibili.com/7933715)
+
+ yeeeeeee 大家好久不见，老 Lindy 又出来丢人啦！这次的受害渲染依旧是 Atoon 渲！我真是太爱 Atoon 了！！！首先，我会先把大概一年前自己的 Atoon 教程放上来这么做的目的是因为前几天旧图重制的......
 
 yeeeeeee 大家好久不见，老 Lindy 又出来丢人啦！
 

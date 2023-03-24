@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3198623?from=search&spm_id_from=333.337.0.0)
 
-> 不需要自我介绍，相信大家来看的是渲染配方，而不是自我介绍，对吧？我懂！废话少说，直接开始！莱斯 go！视频效果：av61240661 需要的 mme 4color 改変　仄明か......
+> 作者：[美好的一天从评论结束](https://space.bilibili.com/25392241)
+
+ 不需要自我介绍，相信大家来看的是渲染配方，而不是自我介绍，对吧？我懂！废话少说，直接开始！莱斯 go！视频效果：av61240661 需要的 mme 4color 改変　仄明か......
 
 NovelAI 创意咒语——瓶中少女
 

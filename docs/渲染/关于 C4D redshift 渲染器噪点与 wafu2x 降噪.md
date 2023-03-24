@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2256544?from=search&spm_id_from=333.337.0.0)
 
-> 先来看 3 张图片 6 分钟渲染 45s 渲染 45s 渲染 + 2s waifu2x 降噪 6min 的渲染是完全渲染参照，45s 的渲染噪点满满简直不能看，而加 2s 的降噪与分辨率乘 2 则可以达到很好的效果。
+> 作者：[郎god](https://space.bilibili.com/11194355)
+
+ 先来看 3 张图片 6 分钟渲染 45s 渲染 45s 渲染 + 2s waifu2x 降噪 6min 的渲染是完全渲染参照，45s 的渲染噪点满满简直不能看，而加 2s 的降噪与分辨率乘 2 则可以达到很好的效果。
 
 先来看 3 张图片
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv16148394?from=search&spm_id_from=333.337.0.0)
 
-> 终于填完了一个坑，好诶！记性太差，把一些实用的教程，以及自己构思视频的想法码一码，嗯以下是正文！关于选曲真的真的很喜欢御姐 k 的 oh my god 的动作，动作张弛有度很好看。
+> 作者：[如此这般机智如我](https://space.bilibili.com/27071127)
+
+ 终于填完了一个坑，好诶！记性太差，把一些实用的教程，以及自己构思视频的想法码一码，嗯以下是正文！关于选曲真的真的很喜欢御姐 k 的 oh my god 的动作，动作张弛有度很好看。
 
 终于填完了一个坑，好诶！
 

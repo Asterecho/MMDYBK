@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv16648779?from=search&spm_id_from=333.337.0.0)
 
-> 半夜码字，脑子不灵光可能讲的不太好，希望大家能大致看懂方法...* 这个教程不面向新手，且只用于 1.5.2 版本的 Ray 有些人想既用 Ray 渲染场景，又想在 Ray 中给人物使用其他渲染但 Ray 一载入，人物就用不......
+> 作者：[StarNoodle495](https://space.bilibili.com/1980489)
+
+ 半夜码字，脑子不灵光可能讲的不太好，希望大家能大致看懂方法...* 这个教程不面向新手，且只用于 1.5.2 版本的 Ray 有些人想既用 Ray 渲染场景，又想在 Ray 中给人物使用其他渲染但 Ray 一载入，人物就用不......
 
 半夜码字，脑子不灵光可能讲的不太好，希望大家能大致看懂方法...
 

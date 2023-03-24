@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4475513?from=search&spm_id_from=333.337.0.0)
 
-> https://www.bilibili.com/video/av84753108 参考 Stage:K/DA 女团 POP/STARS 场景还原 Made：天堂不去（bilibili）人物：TDA/PanicaT......
+> 作者：[ii历木良咕咕](https://space.bilibili.com/39052497)
+
+ https://www.bilibili.com/video/av84753108 参考 Stage:K/DA 女团 POP/STARS 场景还原 Made：天堂不去（bilibili）人物：TDA/PanicaT......
 
 ![][img-0] ![][img-1]参考
 

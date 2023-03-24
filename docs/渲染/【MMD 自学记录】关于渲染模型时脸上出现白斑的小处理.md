@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv10369865?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文 & gt;
+> 作者：[幻雨之秋](https://space.bilibili.com/17396743)
+
+ 点击进入查看全文 & gt;
 
 注：这篇文章是我这次自学后的一个小总结，效果图也只展示了出现问题的位置。对于没有 MMD 基础的不建议这样玩，因为会牵扯很多的模块，如果不认识各个模块的作用，光调试就会浪费很长时间。
 

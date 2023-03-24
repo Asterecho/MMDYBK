@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv9944141?from=search&spm_id_from=333.337.0.0)
 
-> 来捏。
+> 作者：[是谦亦呀](https://space.bilibili.com/30141239)
+
+ 来捏。
 
 来捏。终于把 PS 渲的点光源摸透了  
 

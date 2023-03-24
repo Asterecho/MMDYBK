@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv12494464?from=search&spm_id_from=333.337.0.0)
 
-> 大家好，我是永远赤红的幼月，目前是动画区的一名 up 主。
+> 作者：[永远赤红的幼月](https://space.bilibili.com/325745)
+
+ 大家好，我是永远赤红的幼月，目前是动画区的一名 up 主。
 
 ![][img-0]
 

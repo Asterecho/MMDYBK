@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1949168?from=search&spm_id_from=333.337.0.0)
 
-> 借物见视频主渲眼睛总附件现在效果是这样下来该变糊了（不是）是 OH!YEAH!!! 太太的滤镜 anj 里的到了变糊的关键一步——加 PostAnalogTV 详细教程可以看医生太太（能这么叫吧...）的专栏下面 8......
+> 作者：[账号已注销28976](https://space.bilibili.com/18264574)
+
+ 借物见视频主渲眼睛总附件现在效果是这样下来该变糊了（不是）是 OH!YEAH!!! 太太的滤镜 anj 里的到了变糊的关键一步——加 PostAnalogTV 详细教程可以看医生太太（能这么叫吧...）的专栏下面 8......
 
 [专栏](https://www.bilibili.com/read/home?from=articleDetail) /
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv22237917?from=search&spm_id_from=..0.0)
 
-> 开始让人沉迷（头秃）的旅程本笔记只针对 PmxEditor，由于笔记自用，所以很多设置基操的项目不再详细说明。
+> 作者：[烟寒水月斜](https://space.bilibili.com/413945)
+
+ 开始让人沉迷（头秃）的旅程本笔记只针对 PmxEditor，由于笔记自用，所以很多设置基操的项目不再详细说明。
 
 开始让人沉迷（头秃）的旅程
 

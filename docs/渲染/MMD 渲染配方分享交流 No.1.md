@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3351640?from=search&spm_id_from=333.337.0.0)
 
-> Ray 渲——适用于夜晚的正面光渲染 UP 留言 Hello 各位小伙伴们，这里是学生党的 Ray 渲染配方分享第一期~ 前段时间有正在研究 MMD 的小伙伴，希望学生党能出一期渲染教程。
+> 作者：[佚秋翎_Akiha](https://space.bilibili.com/33992572)
+
+ Ray 渲——适用于夜晚的正面光渲染 UP 留言 Hello 各位小伙伴们，这里是学生党的 Ray 渲染配方分享第一期~ 前段时间有正在研究 MMD 的小伙伴，希望学生党能出一期渲染教程。
 
 **Ray 渲——适用于夜晚的正面光渲染**
 

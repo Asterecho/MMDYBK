@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv15957577?from=search&spm_id_from=333.337.0.0)
 
-> 用 MMD 小半年的一些琐碎笔记，个人备忘向，也希望对你有帮助！前言略微偏 2D 的 3D 渲染（AKA 似真非真的伪物）是目前的心头好，PBR 材质光照和轮廓线全都想要，所以用的是 Ray 主渲（3D）叠加薄层 M4Layer （Toon 渲）这样非主流的方式。
+> 作者：[呵来](https://space.bilibili.com/1029829118)
+
+ 用 MMD 小半年的一些琐碎笔记，个人备忘向，也希望对你有帮助！前言略微偏 2D 的 3D 渲染（AKA 似真非真的伪物）是目前的心头好，PBR 材质光照和轮廓线全都想要，所以用的是 Ray 主渲（3D）叠加薄层 M4Layer （Toon 渲）这样非主流的方式。
 
 用 MMD 小半年的一些琐碎笔记，个人备忘向，也希望对你有帮助！
 

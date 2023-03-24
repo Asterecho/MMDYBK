@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2707857?from=search&spm_id_from=333.337.0.0)
 
-> 前言 在使用 HDRP（高清渲染管线）后，Unity 的画面会提升到一个新的级别。
+> 作者：[xL2P](https://space.bilibili.com/11488740)
+
+ 前言 在使用 HDRP（高清渲染管线）后，Unity 的画面会提升到一个新的级别。
 
 **前言**
 

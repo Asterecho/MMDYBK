@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv9318801?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文 & gt;
+> 作者：[M.Liang](https://space.bilibili.com/16654704)
+
+ 点击进入查看全文 & gt;
 
 我知道这个教程咕了很久，但是首先在这里让大家了解一下这个渲染编辑工具到底是做什么用的，其实它在很多地方都能够看的到，比如以下这些渲染
 

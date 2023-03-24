@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17633844?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文
+> 作者：[千月其一](https://space.bilibili.com/2149991)
+
+ 点击进入查看全文
 
 首先来看最后压制效果）：[【原神 MMD】玩火 / HIASOBI · 阿贝多 “今夜 你我就是猎人和猎物❤”（镜头配布向）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV11f4y1d79W?spm_id_from=333.999.0.0)
 

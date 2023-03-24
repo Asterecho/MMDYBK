@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv6814524?from=search&spm_id_from=333.337.0.0)
 
-> 预览视频所需 MMEHgsao PATOON Rui(即 ray 渲作者) 制作的 LightBloom Diffusion7 DiffusionP(PowerShader 中) AutoLuminous4 Cro......
+> 作者：[Righteousness_Y](https://space.bilibili.com/67849008)
+
+ 预览视频所需 MMEHgsao PATOON Rui(即 ray 渲作者) 制作的 LightBloom Diffusion7 DiffusionP(PowerShader 中) AutoLuminous4 Cro......
 
  **预览视频**
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1196885?from=search&spm_id_from=333.337.0.0)
 
-> 大家好，我是小雾 (´ ・ω・)ﾉ今天给大家分享个人的 PowerShader 配方第一次写专栏，可能有些地方没说清楚，如果有疑问的话，可以在评论区留言。食用本配方前请注意【这不是教程，不会教你手把手做】【只
+> 作者：[-雾雾雾-](https://space.bilibili.com/40758890)
+
+ 大家好，我是小雾 (´ ・ω・)ﾉ今天给大家分享个人的 PowerShader 配方第一次写专栏，可能有些地方没说清楚，如果有疑问的话，可以在评论区留言。食用本配方前请注意【这不是教程，不会教你手把手做】【只
 
 大家好，我是小雾 (´ ・ω・)ﾉ  
 

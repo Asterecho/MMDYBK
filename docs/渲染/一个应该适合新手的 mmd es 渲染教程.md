@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv207904?from=search&spm_id_from=333.337.0.0)
 
-> hi，大家好 w，我来讲一下我平时是怎么渲染的【你渲染不好有什么资格教】es 渲全名为 ExcellentShadow，是一个用来柔阴影的附件，因此，只要载入他，阴影就会变得卡哇伊起来【不是，你废话真多】这
+> 作者：[檀扶](https://space.bilibili.com/183860127)
+
+ hi，大家好 w，我来讲一下我平时是怎么渲染的【你渲染不好有什么资格教】es 渲全名为 ExcellentShadow，是一个用来柔阴影的附件，因此，只要载入他，阴影就会变得卡哇伊起来【不是，你废话真多】这
 
 hi，大家好 w，我来讲一下我平时是怎么渲染的【你渲染不好有什么资格教】  
 

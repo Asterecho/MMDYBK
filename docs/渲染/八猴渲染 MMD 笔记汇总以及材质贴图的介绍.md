@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv6708403?from=search&spm_id_from=333.337.0.0)
 
-> 在这期专栏开始之前先说明一下写的东西，本期专栏所有内容适用于八猴 Marmoset Toolbag 3.08 正式版，写给想入坑八猴的小伙伴，本专栏的食用前提是在于你已经基本熟悉 Mikumikudance 里的所有基本操作。
+> 作者：[有椰香味的耶](https://space.bilibili.com/12047653)
+
+ 在这期专栏开始之前先说明一下写的东西，本期专栏所有内容适用于八猴 Marmoset Toolbag 3.08 正式版，写给想入坑八猴的小伙伴，本专栏的食用前提是在于你已经基本熟悉 Mikumikudance 里的所有基本操作。
 
        在这期专栏开始之前先说明一下写的东西，本期专栏所有内容适用于八猴 Marmoset Toolbag 3.08 正式版，写给想入坑八猴的小伙伴，本专栏的食用前提是在于你已经基本熟悉 Mikumikudance 里的所有基本操作。
 

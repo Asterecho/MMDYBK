@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21191168?from=search&spm_id_from=..0.0)
 
-> 几天不做 MMD 就感觉好像几天没做 MMD 一样。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 几天不做 MMD 就感觉好像几天没做 MMD 一样。
 
 ![][img-0] ![][img-1] ![][img-2]
 

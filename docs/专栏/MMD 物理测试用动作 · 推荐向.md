@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv16760131?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文 & gt;
+> 作者：[不征服Maya不算完](https://space.bilibili.com/1855686587)
+
+ 点击进入查看全文 & gt;
 
 > 写在前面：
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17835256?from=search&spm_id_from=333.337.0.0)
 
-> 资源网站 1. 此站点， 模之屋，国内 2.bowlroll.net 国内可以正常访问 3.www.deviantart.com 需要科学上网 4.patreon.com 国外的一个创作者平台，在上面你可以找到很多的 MMD 大佬以及其作品，需要科学上网 5.nac.sakura.ne.jp/wp/ 里面很多比较早的动作配布 6. 你还可以通过 youtube，n 站，b 站等，找到配布视频。
+> 作者：[良笙君](https://space.bilibili.com/497110709)
+
+ 资源网站 1. 此站点， 模之屋，国内 2.bowlroll.net 国内可以正常访问 3.www.deviantart.com 需要科学上网 4.patreon.com 国外的一个创作者平台，在上面你可以找到很多的 MMD 大佬以及其作品，需要科学上网 5.nac.sakura.ne.jp/wp/ 里面很多比较早的动作配布 6. 你还可以通过 youtube，n 站，b 站等，找到配布视频。
 
 1. 此站点，
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv15602692?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文 & gt;
+> 作者：[顾清颜yanann](https://space.bilibili.com/215129163)
+
+ 点击进入查看全文 & gt;
 
 一些自己用过的飘动粒子，不提供预览图和传送门，自行上 B 站 B 碗和 da 上找。
 

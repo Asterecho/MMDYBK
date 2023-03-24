@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv575416?from=search&spm_id_from=333.337.0.0)
 
-> 今天给大家讲一下如何把 mmd 的人物动作场景导入 3dmax 来上材质渲染废话少说 开始下载一个带有 MMDBRIDGE 的 MMD 把它导出成 ABC 文件导出的 abc 文件在 MMD 目录下的 out 文件夹里打开 MAX 导入
+> 作者：[阿昱-Ayu](https://space.bilibili.com/2431261)
+
+ 今天给大家讲一下如何把 mmd 的人物动作场景导入 3dmax 来上材质渲染废话少说 开始下载一个带有 MMDBRIDGE 的 MMD 把它导出成 ABC 文件导出的 abc 文件在 MMD 目录下的 out 文件夹里打开 MAX 导入
 
 今天给大家讲一下如何把 mmd 的人物动作场景导入 3dmax 来上材质渲染  
 

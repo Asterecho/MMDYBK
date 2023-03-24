@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv12845811?from=search&spm_id_from=333.337.0.0)
 
-> 首先，该配方不适合完全新手，你至少要会基础的 MMD 和 PE 不会的先把这个视频看三遍 https://www.bilibili.com/video/BV1kW411v7my?from=search&seid=16502457249080163043 主要是几个灯和雾灯的使用顺便根据模型和场景的差异，配方效果并不能适配，请根据情况改变参数首先，平面化 3D 渲染。
+> 作者：[仙渺见花](https://space.bilibili.com/23118352)
+
+ 首先，该配方不适合完全新手，你至少要会基础的 MMD 和 PE 不会的先把这个视频看三遍 https://www.bilibili.com/video/BV1kW411v7my?from=search&seid=16502457249080163043 主要是几个灯和雾灯的使用顺便根据模型和场景的差异，配方效果并不能适配，请根据情况改变参数首先，平面化 3D 渲染。
 
 首先，该配方不适合完全新手，你至少要会基础的 MMD 和 PE
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv5498259?from=search&spm_id_from=333.337.0.0)
 
-> 大家好，我是渣渣梦栗√，我来写个 PS 教程√教程非常简单√PS 全称 PowerShader，我这里用的是 PowerShader v3.1PS 去 B 碗搜全称就可以找到√话不多说首先让我们打开 MMD（废话）MMD......
+> 作者：[梦栗](https://space.bilibili.com/372643359)
+
+ 大家好，我是渣渣梦栗√，我来写个 PS 教程√教程非常简单√PS 全称 PowerShader，我这里用的是 PowerShader v3.1PS 去 B 碗搜全称就可以找到√话不多说首先让我们打开 MMD（废话）MMD......
 
 大家好，我是渣渣梦栗√，我来写个 PS 教程√
 

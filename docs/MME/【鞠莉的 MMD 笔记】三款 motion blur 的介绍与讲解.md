@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv6796009?from=search&spm_id_from=333.337.0.0)
 
-> 大家好这里是鞠莉，今天要讲的是 motionblur 这一重要的 MME。
+> 作者：[夹心鞠莉酱](https://space.bilibili.com/85833656)
+
+ 大家好这里是鞠莉，今天要讲的是 motionblur 这一重要的 MME。
 
 大家好这里是鞠莉，今天要讲的是 motionblur 这一重要的 MME。
 

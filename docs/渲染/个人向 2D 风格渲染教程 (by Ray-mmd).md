@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1021837?from=search&spm_id_from=333.337.0.0)
 
-> 本文以 [2D 渲染]~V+MMD~Rin 酱的おじゃま虫~ 为参考，所用素材将在文末声明。一. 选材 首先要注意的一点便是所用的模型。尽量使用风格偏 2D 且 Spa 贴图较暗的模型。如果有需要使用偏 3
+> 作者：[咕咕清](https://space.bilibili.com/6075486)
+
+ 本文以 [2D 渲染]~V+MMD~Rin 酱的おじゃま虫~ 为参考，所用素材将在文末声明。一. 选材 首先要注意的一点便是所用的模型。尽量使用风格偏 2D 且 Spa 贴图较暗的模型。如果有需要使用偏 3
 
 本文以 [[2D 渲染]~V+MMD~Rin 酱的おじゃま虫~](https://www.bilibili.com/video/av29888861/) 为参考，所用素材将在文末声明。
 

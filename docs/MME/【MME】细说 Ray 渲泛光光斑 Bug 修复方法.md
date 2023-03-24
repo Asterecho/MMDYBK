@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv13504451?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文 & gt;
+> 作者：[ARonisc](https://space.bilibili.com/456224370)
+
+ 点击进入查看全文 & gt;
 
 现在使用 ray-mmd 渲染器的大家都基本用上了泛光 Bloom 功能
 

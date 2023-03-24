@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv6582842?from=search&spm_id_from=333.337.0.0)
 
-> 借物表模型：Tda/Wykp/Samsink/Nala-Chan-07/HarukaSakurai/iRon0129/F. 动作 / 镜头：つん 场景：G_WuuuuuMME：Rui/ikeno / 針金 P/RC/sovoro 本教程并不适用于所有场景，如果效果差的话请自行进行修改。
+> 作者：[RM_Bianca](https://space.bilibili.com/243124383)
+
+ 借物表模型：Tda/Wykp/Samsink/Nala-Chan-07/HarukaSakurai/iRon0129/F. 动作 / 镜头：つん 场景：G_WuuuuuMME：Rui/ikeno / 針金 P/RC/sovoro 本教程并不适用于所有场景，如果效果差的话请自行进行修改。
 
 **借物表**
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2969418?from=search&spm_id_from=333.337.0.0)
 
-> 没想到吧，我又来了，说是配方不如说是对之前教程的补充。
+> 作者：[苍穹poi_](https://space.bilibili.com/17924371)
+
+ 没想到吧，我又来了，说是配方不如说是对之前教程的补充。
 
   没想到吧，我又来了，说是配方不如说是对之前教程的补充。进入正题。
 

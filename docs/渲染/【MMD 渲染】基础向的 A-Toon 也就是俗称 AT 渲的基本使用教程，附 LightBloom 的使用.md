@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv198276?from=search&spm_id_from=333.337.0.0)
 
-> ‍这里是 nina，希望这个教程对各位有所帮助 * 如有错误部分欢迎于评论区指正（比心）LET'S GO 首先我们载入要渲染的模型，去掉模型的轮廓线，关闭坐标轴等基础准备工作点开图中所示位置‍选择第一个......
+> 作者：[【NINA】なつくぁみ](https://space.bilibili.com/10565474)
+
+ ‍这里是 nina，希望这个教程对各位有所帮助 * 如有错误部分欢迎于评论区指正（比心）LET'S GO 首先我们载入要渲染的模型，去掉模型的轮廓线，关闭坐标轴等基础准备工作点开图中所示位置‍选择第一个......
 
 这里是 nina，希望这个教程对各位有所帮助
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv6524102?from=search&spm_id_from=333.337.0.0)
 
-> 没想到吧？这么快就开了新教程了。
+> 作者：[夹心鞠莉酱](https://space.bilibili.com/85833656)
+
+ 没想到吧？这么快就开了新教程了。
 
 没想到吧？这么快就开了新教程了。
 

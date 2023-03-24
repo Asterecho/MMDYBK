@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3118422?from=search&spm_id_from=333.337.0.0)
 
-> 使用此配方之前希望先了解 ray-mmd 的基本使用方法及打光的基本原理。
+> 作者：[ii历木良咕咕](https://space.bilibili.com/39052497)
+
+ 使用此配方之前希望先了解 ray-mmd 的基本使用方法及打光的基本原理。
 
 使用此配方之前希望先了解 ray-mmd 的基本使用方法及打光的基本原理。 
 

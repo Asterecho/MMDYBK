@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4617701?from=search&spm_id_from=333.337.0.0)
 
-> 之前做过 MMD 的 ray 渲，然后弃坑，最近又心血来潮但是忘了流程，于是又看了一遍教学视频，现在做一个简单的记录，方便不时之需。
+> 作者：[欧阳求败](https://space.bilibili.com/13711638)
+
+ 之前做过 MMD 的 ray 渲，然后弃坑，最近又心血来潮但是忘了流程，于是又看了一遍教学视频，现在做一个简单的记录，方便不时之需。
 
 [专栏](https://www.bilibili.com/read/home?from=articleDetail) /
 

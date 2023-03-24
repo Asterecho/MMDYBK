@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv20114627?from=search&spm_id_from=..0.0)
 
-> 最近看其他大佬的渲染方案时。
+> 作者：[幻雨之秋](https://space.bilibili.com/17396743)
+
+ 最近看其他大佬的渲染方案时。
 
   最近看其他大佬的渲染方案时。发现 ray-Toon 渲的两种使用方式，没有人专门讲。我在这里打个专栏自己录。
 

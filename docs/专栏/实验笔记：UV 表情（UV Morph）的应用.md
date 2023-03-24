@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv6735797?from=search&spm_id_from=333.337.0.0)
 
-> 拆龙约里的大头娃娃时看到贴图就想到了 UV 表情，于是做了一点点研究。
+> 作者：[岸田夏海MK2](https://space.bilibili.com/1641196)
+
+ 拆龙约里的大头娃娃时看到贴图就想到了 UV 表情，于是做了一点点研究。
 
 拆龙约里的大头娃娃时看到贴图就想到了 UV 表情，于是做了一点点研究。在自己摸索的时候参考了 404 佬的那个视频，无奈视频没声音也没有详细讲解，那就写个补充笔记吧。
 

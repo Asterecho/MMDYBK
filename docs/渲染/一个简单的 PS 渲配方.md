@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1740002?from=search&spm_id_from=333.337.0.0)
 
-> 好！恭喜你被骗进来！其实这就是一个 Photoshop 的教程！大家好，我是柯迪。
+> 作者：[Colineventindy](https://space.bilibili.com/135260322)
+
+ 好！恭喜你被骗进来！其实这就是一个 Photoshop 的教程！大家好，我是柯迪。
 
 电幻国度 “The Electric State” 三维动画设计短片 基本素材展示
 

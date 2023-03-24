@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv90182?from=search&spm_id_from=333.337.0.0)
 
-> 本次对应渲染下载点：https://github.com/ray-cast/ray-mmd 首先我澄清下 不是因为懒得录视频教程我只是希望这样整理下 大家好记忆怎么使用材质贴图就是这样 不准反驳而且 很
+> 作者：[KarlvonDonitz](https://space.bilibili.com/27611393)
+
+ 本次对应渲染下载点：https://github.com/ray-cast/ray-mmd 首先我澄清下 不是因为懒得录视频教程我只是希望这样整理下 大家好记忆怎么使用材质贴图就是这样 不准反驳而且 很
 
 #define USE_CUSTOM_MATERIAL 0
 

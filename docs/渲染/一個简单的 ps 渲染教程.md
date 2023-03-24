@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1286498?from=search&spm_id_from=333.337.0.0)
 
-> 大家好，这里烛和，下面我们开始 pmx 的控制器，调色前我们先用他改下基础效果光照 +，光照 - 影子 +，影子 -，影子 rgb + 泛光 rgb+ 泛光强度 泛光透明度发光强度 + 放光强度 - 各个 fx 的说明然后在 Power
+> 作者：[蒼藍殘响](https://space.bilibili.com/281733937)
+
+ 大家好，这里烛和，下面我们开始 pmx 的控制器，调色前我们先用他改下基础效果光照 +，光照 - 影子 +，影子 -，影子 rgb + 泛光 rgb+ 泛光强度 泛光透明度发光强度 + 放光强度 - 各个 fx 的说明然后在 Power
 
 大家好，这里烛和，下面我们开始
 

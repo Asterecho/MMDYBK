@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4762725?from=search&spm_id_from=333.337.0.0)
 
-> 部分截图：首先载入场景、模型、动作、镜头，然后载入主渲（Shader_Main.fx）以及其 PSController.pmx 然后进行打光 + 调色这个场景自带灯光调色，但我感觉太绿了自己重新调了一下，其他情况可以不调，看个人喜好。
+> 作者：[卟咕子](https://space.bilibili.com/33908495)
+
+ 部分截图：首先载入场景、模型、动作、镜头，然后载入主渲（Shader_Main.fx）以及其 PSController.pmx 然后进行打光 + 调色这个场景自带灯光调色，但我感觉太绿了自己重新调了一下，其他情况可以不调，看个人喜好。
 
 部分截图：
 

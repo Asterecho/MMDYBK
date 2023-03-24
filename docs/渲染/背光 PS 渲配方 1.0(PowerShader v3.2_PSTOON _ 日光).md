@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv7121546?from=search&spm_id_from=333.337.0.0)
 
-> 朋友们好哦我是汐音!!! 分享一下自己常用的渲染配方 (迟到的 1000fo 回馈?) 可真晚只适用于 Shader_Main_Toon 我不知道不会贴链接所以只提供作者名称(敬称略) 对 8 起我太菜了 (土下座) 目前......
+> 作者：[雫_MOCHI](https://space.bilibili.com/28735799)
+
+ 朋友们好哦我是汐音!!! 分享一下自己常用的渲染配方 (迟到的 1000fo 回馈?) 可真晚只适用于 Shader_Main_Toon 我不知道不会贴链接所以只提供作者名称(敬称略) 对 8 起我太菜了 (土下座) 目前......
 
 ![](http://i0.hdslb.com/bfs/article/8ab0b4a29cb2a48fe5208f339217ca061df9cdf9.jpg@363w_405h_progressive.webp)
 

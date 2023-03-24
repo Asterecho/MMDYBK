@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv19089711?from=search&spm_id_from=333.337.0.0)
 
-> 1. 模之屋有很多官方模型例如 asoul、原神等 2.mikumikudance 贴吧有很多作者会发布，找不到的可以在里面搜索下 3. bowlroll（需要科学上网）链接：https://bowlroll.......
+> 作者：[很不错同学](https://space.bilibili.com/65842589)
+
+ 1. 模之屋有很多官方模型例如 asoul、原神等 2.mikumikudance 贴吧有很多作者会发布，找不到的可以在里面搜索下 3. bowlroll（需要科学上网）链接：https://bowlroll.......
 
 1. 模之屋
 

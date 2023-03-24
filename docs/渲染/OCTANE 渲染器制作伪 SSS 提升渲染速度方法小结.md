@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3917103?from=search&spm_id_from=333.337.0.0)
 
-> 大家都知道所谓的 SSS 次表面散射皮肤材质，传统做法是在 specular 的基础上，添加 scattering medium，然后用两个 RGBspectrum 去控制 absorption 和 scattering, 最后用 floattexture 去控制浮点强度，最后 mix image 达到 SSS 的效果，但是这种方法非常浪费资源而且噪点很难控制，对于低配电脑简直是噩梦（当然你习惯 HDR + 圆盘 + 模型就无所谓了）。
+> 作者：[H-T-Z-T](https://space.bilibili.com/65304682)
+
+ 大家都知道所谓的 SSS 次表面散射皮肤材质，传统做法是在 specular 的基础上，添加 scattering medium，然后用两个 RGBspectrum 去控制 absorption 和 scattering, 最后用 floattexture 去控制浮点强度，最后 mix image 达到 SSS 的效果，但是这种方法非常浪费资源而且噪点很难控制，对于低配电脑简直是噩梦（当然你习惯 HDR + 圆盘 + 模型就无所谓了）。
 
 ![][img-0]
 

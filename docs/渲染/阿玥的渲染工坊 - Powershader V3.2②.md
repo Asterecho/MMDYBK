@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4382139?from=search&spm_id_from=333.337.0.0)
 
-> 久违的一篇配方，是咕了好久的新渲染（咕咕咕）。
+> 作者：[西-玥-提亚](https://space.bilibili.com/7564304)
+
+ 久违的一篇配方，是咕了好久的新渲染（咕咕咕）。
 
 久违的一篇配方，是咕了好久的新渲染（咕咕咕）。
 

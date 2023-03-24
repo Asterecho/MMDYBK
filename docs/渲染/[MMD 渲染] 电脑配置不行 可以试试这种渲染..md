@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv696584?from=search&spm_id_from=333.337.0.0)
 
-> 原视频链接：Video <<< 点击进入不知道为什么头脑一热想出个这样的教程。
+> 作者：[39可愛喵](https://space.bilibili.com/31302776)
+
+ 原视频链接：Video <<< 点击进入不知道为什么头脑一热想出个这样的教程。
 
 原视频链接：[Video](https://www.bilibili.com/video/av26415498) <<< 点击进入
 

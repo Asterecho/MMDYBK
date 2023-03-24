@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv7269730?from=search&spm_id_from=333.337.0.0)
 
-> 想给某个模型的尾巴补 IK 骨的时候四处翻教程没翻到，最后还是在 dA 上才翻到一份写的相对详细的版本。
+> 作者：[岸田夏海MK2](https://space.bilibili.com/1641196)
+
+ 想给某个模型的尾巴补 IK 骨的时候四处翻教程没翻到，最后还是在 dA 上才翻到一份写的相对详细的版本。
 
 想给某个模型的尾巴补 IK 骨的时候四处翻教程没翻到，最后还是在 dA 上才翻到一份写的相对详细的版本。
 

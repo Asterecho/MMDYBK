@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv835784?from=search&spm_id_from=333.337.0.0)
 
-> 之前在日本那边试着配布了一下、然后有人反应载入时会报错、所以载入时会报错的人请留言。最好把内容也抄一下。https://bowlroll.net/file/172480。会报错的人来试试这个会不会也报
+> 作者：[yuhao828](https://space.bilibili.com/3290004)
+
+ 之前在日本那边试着配布了一下、然后有人反应载入时会报错、所以载入时会报错的人请留言。最好把内容也抄一下。https://bowlroll.net/file/172480。会报错的人来试试这个会不会也报
 
 之前在日本那边试着配布了一下、然后有人反应载入时会报错、所以载入时会报错的人请留言。最好把内容也抄一下。https://bowlroll.net/file/172480。
 

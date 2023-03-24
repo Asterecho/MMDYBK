@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv997032?from=search&spm_id_from=333.337.0.0)
 
-> 怀念一下曾经的渲染思路，分享出来给大家。预览视频 av29626595 （作为参考但实际参数不一致）ray-mmd-1.4.0beta 上面正面（以上两张是关物理效果后衣服带有穿模）以下是具体参数（在那之
+> 作者：[AMengbz](https://space.bilibili.com/1538978)
+
+ 怀念一下曾经的渲染思路，分享出来给大家。预览视频 av29626595 （作为参考但实际参数不一致）ray-mmd-1.4.0beta 上面正面（以上两张是关物理效果后衣服带有穿模）以下是具体参数（在那之
 
 怀念一下曾经的渲染思路，分享出来给大家。
 

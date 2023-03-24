@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv15816388?from=search&spm_id_from=333.337.0.0)
 
-> 舞力介入 P 作为 MME 插件的编写者，为 MMD 提供了渲染功能，已经是 MMD 核心功能之一只可惜时间一长，很多不错的特效都渐渐埋没不为后人所知因此我会挑一些效果重新展现出来，进行测试和配图并且写下一些简单的描述......
+> 作者：[ARonisc](https://space.bilibili.com/456224370)
+
+ 舞力介入 P 作为 MME 插件的编写者，为 MMD 提供了渲染功能，已经是 MMD 核心功能之一只可惜时间一长，很多不错的特效都渐渐埋没不为后人所知因此我会挑一些效果重新展现出来，进行测试和配图并且写下一些简单的描述......
 
 舞力介入 P 作为 MME 插件的编写者，为 MMD 提供了渲染功能，已经是 MMD 核心功能之一
 

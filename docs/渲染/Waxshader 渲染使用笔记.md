@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv7483579?from=search&spm_id_from=333.337.0.0)
 
-> Waxshader 是真城太太配布的一个新主渲，试了试感觉效果还行就来分享下配布地址：http://seiga.nicovideo.jp/seiga/im9230287 东西打开后就是这个样子了，其中红框框......
+> 作者：[摩丝shi](https://space.bilibili.com/10730605)
+
+ Waxshader 是真城太太配布的一个新主渲，试了试感觉效果还行就来分享下配布地址：http://seiga.nicovideo.jp/seiga/im9230287 东西打开后就是这个样子了，其中红框框......
 
 Waxshader 是真城太太配布的一个新主渲，试了试感觉效果还行就来分享下  
 

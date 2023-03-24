@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18256143?from=search&spm_id_from=333.337.0.0)
 
-> 时隔多年（？）出了第二期，自认为比较满意的渲染。
+> 作者：[水母要吃大章鱼](https://space.bilibili.com/56999792)
+
+ 时隔多年（？）出了第二期，自认为比较满意的渲染。
 
 时隔多年（？）出了第二期，自认为比较满意的渲染。  
 

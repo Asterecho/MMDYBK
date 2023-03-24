@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv20899919?from=search&spm_id_from=..0.0)
 
-> 1：确认目标，效果。
+> 作者：[Egolesson](https://space.bilibili.com/1820680341)
+
+ 1：确认目标，效果。
 
 1：确认目标，效果。（建议为厨师，任何角色都有流行概率，不流行概率，任何表现方式都有成功概率和不成功概率；做为厨师反正做了视频不亏。）目前阶段由于短视频的蓬勃发展，不管任何分类，确实小于 20 秒的视频可以快速抢占浏览，同时，同一账号大量视频的流行也可以提升账号的权重。
 

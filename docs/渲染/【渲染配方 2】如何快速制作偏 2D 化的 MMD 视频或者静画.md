@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2626984?from=search&spm_id_from=333.337.0.0)
 
-> 是对上次专栏的补充和说明，这次的操作主要在 MMD 中完成，要求对 MMD 有一定基础操作。
+> 作者：[苍穹poi_](https://space.bilibili.com/17924371)
+
+ 是对上次专栏的补充和说明，这次的操作主要在 MMD 中完成，要求对 MMD 有一定基础操作。
 
   是对上次专栏的补充和说明，这次的操作主要在 MMD 中完成，要求对 MMD 有一定基础操作。
 

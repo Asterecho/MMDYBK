@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv22258859?from=search&spm_id_from=..0.0)
 
-> 之前是偶然刷到了一个 mstc 渲染的视频，面对 2d 化的风格（简直像是画出来的一样）惊为天人，于是自己也跟着教程尝试了一下，不能算精通，但是能感到 very 2D style。
+> 作者：[枸杞杞杞子](https://space.bilibili.com/22342004)
+
+ 之前是偶然刷到了一个 mstc 渲染的视频，面对 2d 化的风格（简直像是画出来的一样）惊为天人，于是自己也跟着教程尝试了一下，不能算精通，但是能感到 very 2D style。
 
 之前是偶然刷到了一个 mstc 渲染的视频，面对 2d 化的风格（简直像是画出来的一样）惊为天人，于是自己也跟着教程尝试了一下，不能算精通，但是能感到 very 2D style。
 

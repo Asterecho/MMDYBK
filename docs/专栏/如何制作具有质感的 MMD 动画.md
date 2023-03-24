@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1091709?from=search&spm_id_from=333.337.0.0)
 
-> 【1】正确的载入 ray 天空球此处使用的是 Time of night 调整背光【2】场景打光顶上 2 个 TubeLight 灯光左右灯笼各一 PointLight 点状灯调节颜色与强度前后位置补充光源 Directi
+> 作者：[千夜嗷呜](https://space.bilibili.com/28390448)
+
+ 【1】正确的载入 ray 天空球此处使用的是 Time of night 调整背光【2】场景打光顶上 2 个 TubeLight 灯光左右灯笼各一 PointLight 点状灯调节颜色与强度前后位置补充光源 Directi
 
 NovelAI 创意咒语——瓶中少女
 

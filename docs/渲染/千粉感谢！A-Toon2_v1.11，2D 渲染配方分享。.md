@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2383945?from=search&spm_id_from=333.337.0.0)
 
-> 好早前写过有关大理石肌肤的渲染方法，当时删掉了，现在有丶后悔。
+> 作者：[江楚Kerze](https://space.bilibili.com/3249548)
+
+ 好早前写过有关大理石肌肤的渲染方法，当时删掉了，现在有丶后悔。
 
 好早前写过有关大理石肌肤的渲染方法，当时删掉了，现在有丶后悔。既然有朋友想看 AT 渲的，我就分享一下最近新发现的这种风格的 2D 吧。不喜点 ×。
 

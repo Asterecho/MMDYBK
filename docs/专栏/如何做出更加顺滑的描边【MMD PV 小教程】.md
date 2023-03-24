@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17640393?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文
+> 作者：[Peakey猴](https://space.bilibili.com/1618984)
+
+ 点击进入查看全文
 
 最近发现了一个可以使人物描边更加顺滑的方法, 赶紧过来记录一下，也是方便自己以后可以随时回顾。
 

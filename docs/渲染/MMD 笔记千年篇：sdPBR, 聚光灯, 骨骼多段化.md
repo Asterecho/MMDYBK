@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv19118802?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文 & gt;
+> 作者：[呵来](https://space.bilibili.com/1029829118)
+
+ 点击进入查看全文 & gt;
 
 是最近一些小探索的总结，提纲性质备忘，有时间再细化。
 

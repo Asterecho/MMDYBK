@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3604375?from=search&spm_id_from=333.337.0.0)
 
-> 首先在 pe 里添加额外两个全亲骨，骨骼名字能互相区别就行。
+> 作者：[火铜房塌了](https://space.bilibili.com/25900258)
+
+ 首先在 pe 里添加额外两个全亲骨，骨骼名字能互相区别就行。
 
 首先在 pe 里添加额外两个全亲骨，骨骼名字能互相区别就行。
 

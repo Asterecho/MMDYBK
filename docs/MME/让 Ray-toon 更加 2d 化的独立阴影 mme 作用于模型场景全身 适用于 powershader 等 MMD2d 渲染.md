@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17030463?from=search&spm_id_from=333.337.0.0)
 
-> PostMultiShadow 在我看来是能作用于全身与场景的、有控制器很便利控制的独立阴影，如果你正在苦恼 toon 渲染时阴影不够 2d 化，希望这篇文章安利的 mme 能帮上你。
+> 作者：[催牧心周边小助手](https://space.bilibili.com/23287673)
+
+ PostMultiShadow 在我看来是能作用于全身与场景的、有控制器很便利控制的独立阴影，如果你正在苦恼 toon 渲染时阴影不够 2d 化，希望这篇文章安利的 mme 能帮上你。
 
 PostMultiShadow 在我看来是能作用于全身与场景的、有控制器很便利控制的独立阴影，如果你正在苦恼 toon 渲染时阴影不够 2d 化，希望这篇文章安利的 mme 能帮上你。正好私信有人需要它的教程，我浅写一下个人使用时的方法！
 

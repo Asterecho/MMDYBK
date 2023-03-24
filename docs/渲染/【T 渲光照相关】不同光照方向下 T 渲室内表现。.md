@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv701454?from=search&spm_id_from=333.337.0.0)
 
-> 今天整理盘，发现以前自己一次测试 T 渲光照截图了测试效果的数据。T 渲是我刚刚入 MMD 那段时间最常用的两个渲染之一【另一个是 G 渲】T 渲一般来说给我感觉是硬光表现很喜欢。MMD 自身带一个太阳光照，也是主体
+> 作者：[Jasen至森](https://space.bilibili.com/1480521)
+
+ 今天整理盘，发现以前自己一次测试 T 渲光照截图了测试效果的数据。T 渲是我刚刚入 MMD 那段时间最常用的两个渲染之一【另一个是 G 渲】T 渲一般来说给我感觉是硬光表现很喜欢。MMD 自身带一个太阳光照，也是主体
 
 [专栏](https://www.bilibili.com/read/home?from=articleDetail) /
 

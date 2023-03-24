@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv908166?from=search&spm_id_from=333.337.0.0)
 
-> 大家好，我是暮子，给大家分享下 av28495328 的渲染配方 x 先给大家安利一个教程，by 镜子中的我首先，载入模型场景天空球（我就不多说啦）然后，载入主渲选择 ES 对应版选择无轮廓线这里选择 00，视情况而
+> 作者：[好想长出叶绿体w](https://space.bilibili.com/36806250)
+
+ 大家好，我是暮子，给大家分享下 av28495328 的渲染配方 x 先给大家安利一个教程，by 镜子中的我首先，载入模型场景天空球（我就不多说啦）然后，载入主渲选择 ES 对应版选择无轮廓线这里选择 00，视情况而
 
 大家好，我是暮子，给大家分享下 [AV28495328](https://www.bilibili.com/video/av28495328) 的渲染配方 x
 

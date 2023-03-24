@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv164072?from=search&spm_id_from=333.337.0.0)
 
-> 这套系统是给 K2 的，其实但是呢，偶然之间发现改下几个地方就可以给 ray 使用了呢么，对于看不懂英文的，或者懒人来说，这或许就是一个好机会吧！对了，经过测试，至少可以稳定在 ray1.3.1 上面运行，如果有
+> 作者：[KarlvonDonitz](https://space.bilibili.com/27611393)
+
+ 这套系统是给 K2 的，其实但是呢，偶然之间发现改下几个地方就可以给 ray 使用了呢么，对于看不懂英文的，或者懒人来说，这或许就是一个好机会吧！对了，经过测试，至少可以稳定在 ray1.3.1 上面运行，如果有
 
 对了，使用的时候，标题可能是 karl2 配置中，请无视就好了，你就当是 ray 配置中...
 

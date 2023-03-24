@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv352235?from=search&spm_id_from=333.337.0.0)
 
-> 除了 UV 编辑时使用了 PmxEditor_0222 与 PmxEditor 0254e（已装 UV 编辑插件）其他都是使用的 PmxEditor_0222 借用：TDA 准备工作打开一个模型点击表情栏一、顶点 / uv
+> 作者：[landist](https://space.bilibili.com/5043239)
+
+ 除了 UV 编辑时使用了 PmxEditor_0222 与 PmxEditor 0254e（已装 UV 编辑插件）其他都是使用的 PmxEditor_0222 借用：TDA 准备工作打开一个模型点击表情栏一、顶点 / uv
 
 除了 UV 编辑时使用了 PmxEditor_0222 与 PmxEditor 0254e（已装 UV 编辑插件）
 

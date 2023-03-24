@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17884563?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文 & gt;
+> 作者：[千月其一](https://space.bilibili.com/2149991)
+
+ 点击进入查看全文 & gt;
 
 **昨天发现的。ray 染，SSAO 调了 0 还是很黑怎么办**
 

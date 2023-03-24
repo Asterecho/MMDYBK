@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv5217930?from=search&spm_id_from=333.337.0.0)
 
-> 首先，非常感谢大佬的指导，@Sunshine_物语（UID:405576449）。
+> 作者：[LSLS聆空的空空](https://space.bilibili.com/44467693)
+
+ 首先，非常感谢大佬的指导，@Sunshine_物语（UID:405576449）。
 
 首先，非常感谢大佬的指导，@Sunshine_物语（UID:405576449）。在做之前，先理好自己的思路，明确自己要做出啥效果。
 

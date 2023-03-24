@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv42186?from=search&spm_id_from=333.337.0.0)
 
-> 众所周知，Ray 是国人制作的目前十分通用且效率较高、质量较好的 MMD 渲染。这款国人手写的渲染在很大程度上提高了 MMD 的渲染水平，为用户提供了更加优秀的机制。第一章 概述 Ray 是一个基于物理的 MME 渲染
+> 作者：[棱忆p](https://space.bilibili.com/4224823)
+
+ 众所周知，Ray 是国人制作的目前十分通用且效率较高、质量较好的 MMD 渲染。这款国人手写的渲染在很大程度上提高了 MMD 的渲染水平，为用户提供了更加优秀的机制。第一章 概述 Ray 是一个基于物理的 MME 渲染
 
 众所周知，Ray 是国人制作的目前十分通用且效率较高、质量较好的 MMD 渲染。这款国人手写的渲染在很大程度上提高了 MMD 的渲染水平，为用户提供了更加优秀的机制。
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv10501157?from=search&spm_id_from=333.337.0.0)
 
-> 参考了 Lightning Boy Studio 的 Toon shader 教程，我对前一个较为简单的 Toon shader 做了改进。
+> 作者：[TerryLiuOrigin](https://space.bilibili.com/688641401)
+
+ 参考了 Lightning Boy Studio 的 Toon shader 教程，我对前一个较为简单的 Toon shader 做了改进。
 
 参考了 Lightning Boy Studio 的 Toon shader 教程，我对前一个较为简单的 Toon shader 做了改进。主要分为三个部分：金属质感，高光背光，和描边。
 

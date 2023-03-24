@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv19750418?from=search&spm_id_from=..0.0)
 
-> GripsX2 是 kaz 配布的可以为模型添加手部握拳和扩散动作骨骼的 PE 插件，可以在 paperguitar 网站找到下载。
+> 作者：[呵来](https://space.bilibili.com/1029829118)
+
+ GripsX2 是 kaz 配布的可以为模型添加手部握拳和扩散动作骨骼的 PE 插件，可以在 paperguitar 网站找到下载。
 
 GripsX2 是 kaz 配布的可以为模型添加手部握拳和扩散动作骨骼的 PE 插件，可以在 paperguitar 网站找到下载。做 Code X 时发现一些模型在使用该插件时会报错，这里简短说明一下解决方式。
 

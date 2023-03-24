@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv12552546?from=search&spm_id_from=333.337.0.0)
 
-> 鉴于我投了就会把工程删了而且健忘，于是写个详细教程说不定以后会用到。
+> 作者：[蒼き道_暁](https://space.bilibili.com/2271264)
+
+ 鉴于我投了就会把工程删了而且健忘，于是写个详细教程说不定以后会用到。
 
 鉴于我投了就会把工程删了而且健忘，于是写个详细教程说不定以后会用到。
 

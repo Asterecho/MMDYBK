@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4785886?from=search&spm_id_from=333.337.0.0)
 
-> 成品有人要就写了 xxx 无过程图，很，不建议 MMD 小白阅读有更好的渲染效果，不建议照抄 dGreenerShader\MOONDiffusion7Si 6 Tr 0.54color 改変 明泥 | 屆巻 Tr......
+> 作者：[救済執行Z](https://space.bilibili.com/22928224)
+
+ 成品有人要就写了 xxx 无过程图，很，不建议 MMD 小白阅读有更好的渲染效果，不建议照抄 dGreenerShader\MOONDiffusion7Si 6 Tr 0.54color 改変 明泥 | 屆巻 Tr......
 
 ![][img-0]成品
 

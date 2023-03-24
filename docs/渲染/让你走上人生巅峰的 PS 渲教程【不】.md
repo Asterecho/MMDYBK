@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1211833?from=search&spm_id_from=333.337.0.0)
 
-> 大家好！我是柯林！今天给你们带来一个 Photoshop 渲的教程！大家好！我是柯林！今天给大家带来一个 PowerShader 渲的教程！首先载入模型！这里使用的是石英式的快乐茶！作者：石英世界配布地址：h
+> 作者：[Con_コリン](https://space.bilibili.com/325549992)
+
+ 大家好！我是柯林！今天给你们带来一个 Photoshop 渲的教程！大家好！我是柯林！今天给大家带来一个 PowerShader 渲的教程！首先载入模型！这里使用的是石英式的快乐茶！作者：石英世界配布地址：h
 
 大家好！我是柯林！今天给你们带来一个 Photoshop 渲的教程！
 

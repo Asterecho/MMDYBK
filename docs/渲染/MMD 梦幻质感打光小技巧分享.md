@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv11251458?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文
+> 作者：[siminies](https://space.bilibili.com/151595)
+
+ 点击进入查看全文
 
        大家好呀，这里是一个默默无闻的咸鱼 UP，前端时间因为无聊自己学着做起了 MMD。刚开始前面的几个 MMD 都只有几十，几百播放，感觉没啥人看，不过作为一个新人也正常。
 

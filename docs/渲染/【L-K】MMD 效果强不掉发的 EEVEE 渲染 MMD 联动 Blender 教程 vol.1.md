@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1371092?from=search&spm_id_from=333.337.0.0)
 
-> 本篇教程主要讲如何使用 Blender 内置渲染器 EEVEE 渲染 (快速套出) 高质量的 MMD 的基本流程。
+> 作者：[LOLI控Knight](https://space.bilibili.com/9025085)
+
+ 本篇教程主要讲如何使用 Blender 内置渲染器 EEVEE 渲染 (快速套出) 高质量的 MMD 的基本流程。
 
 本篇教程主要讲如何使用 Blender 内置渲染器 EEVEE 渲染 (快速套出) 高质量的 MMD 的基本流程。
 

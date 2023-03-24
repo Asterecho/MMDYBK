@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv13628702?from=search&spm_id_from=333.337.0.0)
 
-> 上周六，我做 MMD 的时候，无意间又碰到的。
+> 作者：[幻雨之秋](https://space.bilibili.com/17396743)
+
+ 上周六，我做 MMD 的时候，无意间又碰到的。
 
     上周六，我做 MMD 的时候，无意间又碰到的。但这个的解决方案我记得，早在 18 年的时候就已经有别的大佬做过相应的视频教程。但可能随着时间的流逝，渐渐消失在众人的视线。所以，我在这里做一个小总结，希望能帮到进来看我专栏的每一个人。
 

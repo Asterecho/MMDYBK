@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv543925?from=search&spm_id_from=333.337.0.0)
 
-> 我是一个冷漠的 MMDer 我要冷漠的教你们这个渲染首先载模型，去坐标，去边缘，去地面阴影建议先载姿势，我不载是因为头图的姿势 k 了没保存（。啥都没有给模型分配 ExcellentShadow2 対応版目录下的
+> 作者：[Lindyyyy只有四个y](https://space.bilibili.com/7933715)
+
+ 我是一个冷漠的 MMDer 我要冷漠的教你们这个渲染首先载模型，去坐标，去边缘，去地面阴影建议先载姿势，我不载是因为头图的姿势 k 了没保存（。啥都没有给模型分配 ExcellentShadow2 対応版目录下的
 
 我是一个冷漠的 MMDer  
 

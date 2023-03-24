@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv9371953?from=search&spm_id_from=333.337.0.0)
 
-> MMD 小技巧 通过贴图控制自发光部位没见有人讲过算是一个比较实用的小技巧这是一个普通的灯柱我们想要他发光如果直接添加发光 fx 就会全都发光了。
+> 作者：[千夜嗷呜](https://space.bilibili.com/28390448)
+
+ MMD 小技巧 通过贴图控制自发光部位没见有人讲过算是一个比较实用的小技巧这是一个普通的灯柱我们想要他发光如果直接添加发光 fx 就会全都发光了。
 
 [专栏](https://www.bilibili.com/read/home?from=articleDetail) /
 

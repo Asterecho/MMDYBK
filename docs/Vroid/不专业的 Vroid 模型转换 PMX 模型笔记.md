@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv16041063?from=search&spm_id_from=333.337.0.0)
 
-> * 教程迟一些出，因为物理相关还是手动展示比较明白。
+> 作者：[Sano_](https://space.bilibili.com/43583904)
+
+ * 教程迟一些出，因为物理相关还是手动展示比较明白。
 
 * 教程迟一些出，因为物理相关还是手动展示比较明白。（？）
 

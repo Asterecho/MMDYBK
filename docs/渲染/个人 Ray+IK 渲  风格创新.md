@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv7792011?from=search&spm_id_from=333.337.0.0)
 
-> 关注我，了解 Ray 渲 创新作品切勿一味的参照数据进行渲染。
+> 作者：[ii历木良咕咕](https://space.bilibili.com/39052497)
+
+ 关注我，了解 Ray 渲 创新作品切勿一味的参照数据进行渲染。
 
 关注我，了解 Ray 渲   创新作品
 

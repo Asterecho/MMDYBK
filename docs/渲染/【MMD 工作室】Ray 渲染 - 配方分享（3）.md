@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv8454194?from=search&spm_id_from=333.337.0.0)
 
-> 借物模型：HyperC / 补骨脂 / 歆玥 er / ミコト / Samsink(机动战士牛肉)/Birdssongr/Yudou 优斗 / mijumarunr1/kome-ken/mmdfakewings18/lazy_......
+> 作者：[RM_Bianca](https://space.bilibili.com/243124383)
+
+ 借物模型：HyperC / 补骨脂 / 歆玥 er / ミコト / Samsink(机动战士牛肉)/Birdssongr/Yudou 优斗 / mijumarunr1/kome-ken/mmdfakewings18/lazy_......
 
 Adobe Animate 23.0.0 中的新增功能
 

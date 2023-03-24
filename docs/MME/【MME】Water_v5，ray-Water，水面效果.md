@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21925186?from=search&spm_id_from=..0.0)
 
-> 关于水面的效果有很多，各自的差别也比较大。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 关于水面的效果有很多，各自的差别也比较大。
 
 关于水面的效果有很多，各自的差别也比较大。水面的使用肯定是，不是直接拖进去就能用了这么简单，需要自己**调试适合的参数**最重要。  
 

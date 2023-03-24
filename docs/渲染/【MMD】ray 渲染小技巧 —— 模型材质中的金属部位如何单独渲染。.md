@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv14396094?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文 & gt;
+> 作者：[披萨与汉堡QAQ](https://space.bilibili.com/1883386422)
+
+ 点击进入查看全文 & gt;
 
       大家好！这是披萨与汉堡君，本人是个萌新，目前也是在学习渲染中，所以想把这两天渲染中的一些小技巧分享大家，谢谢~~
 

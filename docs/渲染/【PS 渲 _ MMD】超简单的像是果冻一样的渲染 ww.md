@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4026004?from=search&spm_id_from=333.337.0.0)
 
-> 看！是不是很可爱 ww‍那怎样才能做到上图那样的渲染呢？我用的是 powershader v2。
+> 作者：[弥生初芽](https://space.bilibili.com/8885657)
+
+ 看！是不是很可爱 ww‍那怎样才能做到上图那样的渲染呢？我用的是 powershader v2。
 
 ![](http://i0.hdslb.com/bfs/article/3b12c8550787070ce6a0255c4e73e44171441892.jpg@942w_531h_progressive.webp)看！是不是很可爱 ww
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1948624?from=search&spm_id_from=333.337.0.0)
 
-> 讲个自己摸索的小窍门吧本文章主要讲的是如何通过将 MME 中的太阳光线特效 iKLenGhost 绑定到外部模型上使其可用 XYZ 轴移动以下是操作步骤先载入一个 ikLensGhost.x 文件参数按个人喜好来调整，......
+> 作者：[寒山_かんざん](https://space.bilibili.com/177192997)
+
+ 讲个自己摸索的小窍门吧本文章主要讲的是如何通过将 MME 中的太阳光线特效 iKLenGhost 绑定到外部模型上使其可用 XYZ 轴移动以下是操作步骤先载入一个 ikLensGhost.x 文件参数按个人喜好来调整，......
 
 讲个自己摸索的小窍门吧
 

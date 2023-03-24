@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21200716?from=search&spm_id_from=..0.0)
 
-> 我去云堇真是米米哒无渲染成品视频我舍弃打 4.x 的时间来兑现承诺了捏!! 总之看就好了我也是好久没写手生了对不起（土下座）主渲使用 Shader_Main_Toon+Main（自己搭配，头发我是用习惯 main......
+> 作者：[雫_MOCHI](https://space.bilibili.com/28735799)
+
+ 我去云堇真是米米哒无渲染成品视频我舍弃打 4.x 的时间来兑现承诺了捏!! 总之看就好了我也是好久没写手生了对不起（土下座）主渲使用 Shader_Main_Toon+Main（自己搭配，头发我是用习惯 main......
 
 ![][img-0]我去云堇真是米米哒 ![][img-1]无渲染 [ ](https://www.bilibili.com/video/BV1oG4y1E7c7) ![][img-2]
 

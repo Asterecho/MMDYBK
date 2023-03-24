@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2407641?from=search&spm_id_from=333.337.0.0)
 
-> 前言：此教程用以解决 redshift 镜头的景深问题，鉴于各大网站教程各有欠缺，所以我才写了一个适合新手的图文教程。
+> 作者：[双子の双子](https://space.bilibili.com/8127770)
+
+ 前言：此教程用以解决 redshift 镜头的景深问题，鉴于各大网站教程各有欠缺，所以我才写了一个适合新手的图文教程。
 
 前言：此教程用以解决 redshift 镜头的景深问题，鉴于各大网站教程各有欠缺，所以我才写了一个适合新手的图文教程。
 

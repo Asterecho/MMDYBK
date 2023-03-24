@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1107976?from=search&spm_id_from=333.337.0.0)
 
-> 这是基于 RC 的 2D 渲教程 av15975380，然后自己瞎 98 调色的存档。然后这是我瞎搞的渲染效果，不是什么含金量教程，前期准备：①下载 notepad，修改 ray.conf 参数，把 2D 功能打开，然后添加
+> 作者：[SNowly酱](https://space.bilibili.com/3936403)
+
+ 这是基于 RC 的 2D 渲教程 av15975380，然后自己瞎 98 调色的存档。然后这是我瞎搞的渲染效果，不是什么含金量教程，前期准备：①下载 notepad，修改 ray.conf 参数，把 2D 功能打开，然后添加
 
 ★这是基于 RC 的 2D 渲教程 [av15975380](https://www.bilibili.com/video/av15975380)，然后自己瞎 98 调色的存档。  
 

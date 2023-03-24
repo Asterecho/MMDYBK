@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3075990?from=search&spm_id_from=333.337.0.0)
 
-> 大家好，俺是奥雅之光守护者三杏！！！！！！！我好闲所以写狗屎难看渲染配方。
+> 作者：[三杏_](https://space.bilibili.com/24148211)
+
+ 大家好，俺是奥雅之光守护者三杏！！！！！！！我好闲所以写狗屎难看渲染配方。
 
 [专栏](https://www.bilibili.com/read/home?from=articleDetail) /
 

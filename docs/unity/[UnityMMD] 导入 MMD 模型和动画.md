@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17503789?from=search&spm_id_from=333.337.0.0)
 
-> 唔~ 来到第三篇了首先把 MMD 模型整个文件夹丢进 unity，动作也丢这个文件夹里！然后选这个玩意然后动作丢这里点 Process 就会导入了。
+> 作者：[啥也不会QAQ-带冰](https://space.bilibili.com/109368146)
+
+ 唔~ 来到第三篇了首先把 MMD 模型整个文件夹丢进 unity，动作也丢这个文件夹里！然后选这个玩意然后动作丢这里点 Process 就会导入了。
 
 **首先****把 MMD 模型整个文件夹丢进 unity，动作也丢这个文件夹里！**
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv5032431?from=search&spm_id_from=333.337.0.0)
 
-> c4d 摄像机自带的自动聚焦一直都饱受诟病，其实可以利用一小段算法进行优化。
+> 作者：[双子の双子](https://space.bilibili.com/8127770)
+
+ c4d 摄像机自带的自动聚焦一直都饱受诟病，其实可以利用一小段算法进行优化。
 
 c4d 摄像机自带的自动聚焦一直都饱受诟病，其实可以利用一小段算法进行优化。
 

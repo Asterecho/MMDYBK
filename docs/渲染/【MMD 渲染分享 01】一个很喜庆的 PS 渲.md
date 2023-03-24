@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv5492595?from=search&spm_id_from=333.337.0.0)
 
-> Hello 大家嚎~ 这里是脸酱如标题所示，今天分享一个看起来非常喜庆的 PS 渲【大家尝试的时候，请一定要点播一曲好运来 一起食用】 用到 MME 很少，hin 简单哒~ 【新手友好】整体渲染效果参考图：【叠个......
+> 作者：[绿灯侠的红秋裤](https://space.bilibili.com/12881567)
+
+ Hello 大家嚎~ 这里是脸酱如标题所示，今天分享一个看起来非常喜庆的 PS 渲【大家尝试的时候，请一定要点播一曲好运来 一起食用】 用到 MME 很少，hin 简单哒~ 【新手友好】整体渲染效果参考图：【叠个......
 
 Hello 大家嚎~ 这里是脸酱
 

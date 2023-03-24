@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv5646136?from=search&spm_id_from=333.337.0.0)
 
-> ！注意！其一，该配方不能一股脑的套，你得照情况修改滤镜数据以及主渲设置光线。
+> 作者：[我是芋斗](https://space.bilibili.com/2738759)
+
+ ！注意！其一，该配方不能一股脑的套，你得照情况修改滤镜数据以及主渲设置光线。
 
 ！注意！
 

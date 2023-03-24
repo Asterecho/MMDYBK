@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv16269884?from=search&spm_id_from=333.337.0.0)
 
-> ——看！这里有一只野生的狛枝凪斗，快给他套上链子带回家。
+> 作者：[板蓝根炒大青叶](https://space.bilibili.com/28233117)
+
+ ——看！这里有一只野生的狛枝凪斗，快给他套上链子带回家。
 
 ——看！这里有一只野生的狛枝凪斗，快给他套上链子带回家。
 

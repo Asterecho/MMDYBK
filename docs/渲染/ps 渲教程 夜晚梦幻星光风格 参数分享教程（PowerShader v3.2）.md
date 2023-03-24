@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv15970786?from=search&spm_id_from=333.337.0.0)
 
-> 英智老板 2021 年生贺作品，去年答应小糖糖的渲染教程，终于鸽出来了英智老板 2021 年生贺作品仿立绘的静画视频预览地址：https://www.bilibili.com/video/BV1yK4y157z......
+> 作者：[鹤姥爷家的Dreamsong](https://space.bilibili.com/398094606)
+
+ 英智老板 2021 年生贺作品，去年答应小糖糖的渲染教程，终于鸽出来了英智老板 2021 年生贺作品仿立绘的静画视频预览地址：https://www.bilibili.com/video/BV1yK4y157z......
 
 ![][img-0]
 

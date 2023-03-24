@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv19799111?from=search&spm_id_from=..0.0)
 
-> 例 : MocuMocuDance に読み込んだレイラ (原神) 概要スカートが伸びる問題を解決します。
+> 作者：[gigaflare6](https://space.bilibili.com/476511514)
+
+ 例 : MocuMocuDance に読み込んだレイラ (原神) 概要スカートが伸びる問題を解決します。
 
 ![][img-0]例 : MocuMocuDance に読み込んだレイラ (原神)
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4475331?from=search&spm_id_from=333.337.0.0)
 
-> 此处渲染仿八猴真实皮肤场景处于封闭式参考图如下 https://www.bilibili.com/video/av84753108 模型太长了 我就不写了 看我视频片尾借物表吧 Ray_controll......
+> 作者：[ii历木良咕咕](https://space.bilibili.com/39052497)
+
+ 此处渲染仿八猴真实皮肤场景处于封闭式参考图如下 https://www.bilibili.com/video/av84753108 模型太长了 我就不写了 看我视频片尾借物表吧 Ray_controll......
 
 此处渲染仿八猴真实皮肤
 

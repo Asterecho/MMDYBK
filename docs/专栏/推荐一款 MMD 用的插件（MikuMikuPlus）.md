@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18775389?from=search&spm_id_from=333.337.0.0)
 
-> 原作者：猫のしもべ 汉化者：吃爆米花の小熊原文件下载地址：https://bowlroll.net/file/192172 作者的介绍视频：https://www.nicovideo.jp/watch/sm34761249 汉化版下载地址：见评论区 2. 安装方法：将压缩包解压后放入 plugin 文件夹下后，重启 MMD 即可。
+> 作者：[zipのrar](https://space.bilibili.com/6720859)
+
+ 原作者：猫のしもべ 汉化者：吃爆米花の小熊原文件下载地址：https://bowlroll.net/file/192172 作者的介绍视频：https://www.nicovideo.jp/watch/sm34761249 汉化版下载地址：见评论区 2. 安装方法：将压缩包解压后放入 plugin 文件夹下后，重启 MMD 即可。
 
 原作者：猫のしもべ 
 

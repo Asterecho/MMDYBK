@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv64795?from=search&spm_id_from=333.337.0.0)
 
-> 大家好啊。本垃圾虾米来分享一下渲染宝石人的配方。https://www.bilibili.com/video/av16070563/ 参考视频由于宝石人模型的头发其本身特殊的 spa，使用 fx 渲染会使头
+> 作者：[虾米卷卷卷卷起来](https://space.bilibili.com/38376087)
+
+ 大家好啊。本垃圾虾米来分享一下渲染宝石人的配方。https://www.bilibili.com/video/av16070563/ 参考视频由于宝石人模型的头发其本身特殊的 spa，使用 fx 渲染会使头
 
 大家好啊。
 

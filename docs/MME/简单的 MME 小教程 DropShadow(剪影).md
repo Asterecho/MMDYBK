@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2331507?from=search&spm_id_from=333.337.0.0)
 
-> Hello 大嘎猴，我是你们的彩笔橘皮有很多小伙伴私信或者留言问我关于我 get up&Move! 的剪影是怎么做出来的, 其实我都有答啦但是看到还是一直有人来问，所以干脆做个超简单教程！本教程使......
+> 作者：[山楂橘皮](https://space.bilibili.com/203151021)
+
+ Hello 大嘎猴，我是你们的彩笔橘皮有很多小伙伴私信或者留言问我关于我 get up&Move! 的剪影是怎么做出来的, 其实我都有答啦但是看到还是一直有人来问，所以干脆做个超简单教程！本教程使......
 
 Hello 大嘎猴，我是你们的彩笔橘皮
 

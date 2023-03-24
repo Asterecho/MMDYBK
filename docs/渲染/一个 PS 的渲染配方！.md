@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv22331660?from=search&spm_id_from=..0.0)
 
-> 该文章只适合参考渲染内容如果无 MMD 渲染经验，可以先去学一下因为这个渲染配方有点光污染，自己也可以尝试改进一下！成品图：好可爱好可爱 1. 用的渲染是 PowerShader v3.2 这个可以在 bowlrol......
+> 作者：[弥生初芽](https://space.bilibili.com/8885657)
+
+ 该文章只适合参考渲染内容如果无 MMD 渲染经验，可以先去学一下因为这个渲染配方有点光污染，自己也可以尝试改进一下！成品图：好可爱好可爱 1. 用的渲染是 PowerShader v3.2 这个可以在 bowlrol......
 
 该文章只适合参考渲染内容
 

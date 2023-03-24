@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2315775?from=search&spm_id_from=333.337.0.0)
 
-> emmmm，这种柔和的渲染你们一定会喜欢的（bu）效果图：视频：① 正文： 主渲染是 Ray 渲 ②光：不一定按我这个来 RGB 尽量偏黄就行~ X,Y,Z 随便调自己喜欢就好③控制器：这些数值其实也不是很总要，自己看情况修改就好。
+> 作者：[秋水-LM](https://space.bilibili.com/5387422)
+
+ emmmm，这种柔和的渲染你们一定会喜欢的（bu）效果图：视频：① 正文： 主渲染是 Ray 渲 ②光：不一定按我这个来 RGB 尽量偏黄就行~ X,Y,Z 随便调自己喜欢就好③控制器：这些数值其实也不是很总要，自己看情况修改就好。
 
 emmmm，这种柔和的渲染你们一定会喜欢的（bu）
 

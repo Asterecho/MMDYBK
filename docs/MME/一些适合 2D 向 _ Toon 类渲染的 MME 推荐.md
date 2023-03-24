@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv12693999?from=search&spm_id_from=333.337.0.0)
 
-> （推荐不出去我很急）（然后写动态还要审核（小声 bb）效果可以看这里《水 一个 MME 推荐展示视频》1.bbbbmask_v1_0_0 ，作者：Beamman（ビームマン P）。
+> 作者：[Sano_](https://space.bilibili.com/43583904)
+
+ （推荐不出去我很急）（然后写动态还要审核（小声 bb）效果可以看这里《水 一个 MME 推荐展示视频》1.bbbbmask_v1_0_0 ，作者：Beamman（ビームマン P）。
 
 （推荐不出去我很急）
 

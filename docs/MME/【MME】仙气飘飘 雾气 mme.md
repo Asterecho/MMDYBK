@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18224743?from=search&spm_id_from=333.337.0.0)
 
-> 作者：呉石シンプル霧エフェクト Ver 0.10 下载地址：https://bowlroll.net/file/250102 某天我想要做一个仙气飘飘的场景，但是发现 ray 自带的几个雾气并不能满足。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 作者：呉石シンプル霧エフェクト Ver 0.10 下载地址：https://bowlroll.net/file/250102 某天我想要做一个仙气飘飘的场景，但是发现 ray 自带的几个雾气并不能满足。
 
 **シンプル霧エフェクト Ver 0.10** 
 

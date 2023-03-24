@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv13011546?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文
+> 作者：[再做视频我吃](https://space.bilibili.com/243877017)
+
+ 点击进入查看全文
 
 电幻国度 “The Electric State” 三维动画设计短片 基本素材展示
 

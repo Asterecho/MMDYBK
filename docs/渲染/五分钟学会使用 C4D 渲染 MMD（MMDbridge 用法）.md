@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv864835?from=search&spm_id_from=333.337.0.0)
 
-> 前言 MMD 软件制作者于 2011 年宣布停止更新。所以用 MMD 本身包括各种 MME 效果渲染出来的画面并没有跨越性的进步。加上老旧的实时渲染引擎使画面逐渐的落后于专业 CG 领域。本文快速带领大家把 MMD 导入 C4
+> 作者：[雾雨艾拉](https://space.bilibili.com/10024854)
+
+ 前言 MMD 软件制作者于 2011 年宣布停止更新。所以用 MMD 本身包括各种 MME 效果渲染出来的画面并没有跨越性的进步。加上老旧的实时渲染引擎使画面逐渐的落后于专业 CG 领域。本文快速带领大家把 MMD 导入 C4
 
 **前言**
 

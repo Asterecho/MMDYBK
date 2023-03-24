@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv16846972?from=search&spm_id_from=333.337.0.0)
 
-> 所需插件: MMD4Machine :http://stereoarts.jp/FBX Exporter : Package ManagerUnity Recorder : Package Manager......
+> 作者：[我滴妈妈T33](https://space.bilibili.com/2411802)
+
+ 所需插件: MMD4Machine :http://stereoarts.jp/FBX Exporter : Package ManagerUnity Recorder : Package Manager......
 
 **所需插件:**
 

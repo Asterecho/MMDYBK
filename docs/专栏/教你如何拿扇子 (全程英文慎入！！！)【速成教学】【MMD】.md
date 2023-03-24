@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18344945?from=search&spm_id_from=333.337.0.0)
 
-> MMD 拿物件七个步骤教程 （十周年汉化版本） 1. 载入模型 [图片] 2. 点击单字 “外” [图片] 3.“外部亲模型” 处选择绑定的主体...
+> 作者：[L咯一月](https://space.bilibili.com/603442067)
+
+ MMD 拿物件七个步骤教程 （十周年汉化版本） 1. 载入模型 [图片] 2. 点击单字 “外” [图片] 3.“外部亲模型” 处选择绑定的主体...
 
 [专栏](https://www.bilibili.com/read/home?from=articleDetail) /
 

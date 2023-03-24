@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv7568534?from=search&spm_id_from=333.337.0.0)
 
-> 大家好，这里是伊莉妮，这次我给大家看一个新的 MMD 渲染教程。
+> 作者：[幽灵丶伊莉妮](https://space.bilibili.com/28215804)
+
+ 大家好，这里是伊莉妮，这次我给大家看一个新的 MMD 渲染教程。
 
  大家好，这里是**伊莉妮**，这次我给大家看一个新的 **MMD 渲染教程**。 【**船新教程！**】
 

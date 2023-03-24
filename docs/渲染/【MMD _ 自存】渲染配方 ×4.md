@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17708731?from=search&spm_id_from=333.337.0.0)
 
-> 如题，是一个啊不对四个渲染配方的配布。
+> 作者：[唐子七](https://space.bilibili.com/2268736)
+
+ 如题，是一个啊不对四个渲染配方的配布。
 
 如题，是一个啊不对四个渲染配方的配布。渲染过程实在忘记录了，见谅。  
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3797777?from=search&spm_id_from=333.337.0.0)
 
-> 最近用 patoon 的一些问题的解决办法和心得。
+> 作者：[苍穹poi_](https://space.bilibili.com/17924371)
+
+ 最近用 patoon 的一些问题的解决办法和心得。
 
 最近用 patoon 的一些问题的解决办法和心得。
 

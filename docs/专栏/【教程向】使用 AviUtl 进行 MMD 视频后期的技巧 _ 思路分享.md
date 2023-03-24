@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2135348?from=search&spm_id_from=333.337.0.0)
 
-> 大家好！这里是 Lyi，铃伊。
+> 作者：[Lyi铃伊伊伊](https://space.bilibili.com/4755666)
+
+ 大家好！这里是 Lyi，铃伊。
 
 大家好！这里是 Lyi，铃伊。一直说要写的关于用 aul 进行 MMD 视频后期的专栏，其实与其说是教程，不如说是思路分享 233。毕竟我本人平时也很喜欢用 aul 后期，所以不妨就趁着这次机会彼此分享交流吧 w 很多地方我也在学习，如果存在更好的方案，或者我在其中存在什么问题，请一定要与我交流！
 

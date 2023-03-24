@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2658565?from=search&spm_id_from=333.337.0.0)
 
-> "' 总之 ' 先试着用用 SSAO 吧；' 不知不觉 ' 就继续用着某个 SSAO 了…… 如果是这样的话，你还能做得更好！让我们通过了解各个 SSAO 系 MME 的特征来进一步提升作品的质量吧。
+> 作者：[JuanP](https://space.bilibili.com/728033)
+
+ "' 总之 ' 先试着用用 SSAO 吧；' 不知不觉 ' 就继续用着某个 SSAO 了…… 如果是这样的话，你还能做得更好！让我们通过了解各个 SSAO 系 MME 的特征来进一步提升作品的质量吧。
 
 "'总之'先试着用用 SSAO 吧；'不知不觉'就继续用着某个 SSAO 了…… 如果是这样的话，你还能做得更好！让我们通过了解各个 SSAO 系 MME 的特征来进一步提升作品的质量吧。"
 

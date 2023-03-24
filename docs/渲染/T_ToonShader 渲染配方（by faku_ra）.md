@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv496703?from=search&spm_id_from=333.337.0.0)
 
-> 写个辣鸡的 T_ToonShader 配方大概是个 2D 风的渲染如果有啥问题可以告诉我 P.S. 这个模型是自改的 TDA 模 x 无渲染原图所需的 mme：T_ToonShaderikGouache（2D 风格化，tr 值
+> 作者：[凛南系_fakura](https://space.bilibili.com/186882424)
+
+ 写个辣鸡的 T_ToonShader 配方大概是个 2D 风的渲染如果有啥问题可以告诉我 P.S. 这个模型是自改的 TDA 模 x 无渲染原图所需的 mme：T_ToonShaderikGouache（2D 风格化，tr 值
 
 写个辣鸡的 T_ToonShader 配方
 

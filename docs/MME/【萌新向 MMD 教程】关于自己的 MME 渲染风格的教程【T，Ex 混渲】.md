@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv55408?from=search&spm_id_from=333.337.0.0)
 
-> 效果如头图所示，联动最新投稿。关于此视频的 9000kbps 清晰度，请务必私信我啊！！！场景人物动作镜头之类的请自备我们需要这些 MME：LightBloomExcellentShadow2XDOFSof
+> 作者：[严臣_可莉超かわいい](https://space.bilibili.com/20809494)
+
+ 效果如头图所示，联动最新投稿。关于此视频的 9000kbps 清晰度，请务必私信我啊！！！场景人物动作镜头之类的请自备我们需要这些 MME：LightBloomExcellentShadow2XDOFSof
 
 效果如头图所示，联动最新投稿。
 

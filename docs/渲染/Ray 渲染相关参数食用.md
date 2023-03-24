@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv5257784?from=search&spm_id_from=333.337.0.0)
 
-> 水个专栏，只是把我的一些参数提供出来看，渲染大佬请略过首先，既然是 ray 渲染，合适的天空盒起到很重要的作用，如果是白天的话，用 HDRI 天空盒的光分布更加均匀且光更加柔和毕竟 HDRI 嘛（NB 啊）你看这皮肤......
+> 作者：[GL_error](https://space.bilibili.com/211209927)
+
+ 水个专栏，只是把我的一些参数提供出来看，渲染大佬请略过首先，既然是 ray 渲染，合适的天空盒起到很重要的作用，如果是白天的话，用 HDRI 天空盒的光分布更加均匀且光更加柔和毕竟 HDRI 嘛（NB 啊）你看这皮肤......
 
 水个专栏，只是把我的一些参数提供出来看，渲染大佬请略过
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21539954?from=search&spm_id_from=..0.0)
 
-> 抗锯齿，Anti-Aliasing，反走样，是计算机图形中很重要的一个环节。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 抗锯齿，Anti-Aliasing，反走样，是计算机图形中很重要的一个环节。
 
 抗锯齿，**Anti-Aliasing，**反走样，是计算机图形中很重要的一个环节。有很多大佬编写过相关的 MME，从而在 MMD 中消锯齿。相信经常打游戏的人对这些抗锯齿很熟悉。
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv5503858?from=search&spm_id_from=333.337.0.0)
 
-> 起因：Intel GPA 挂不上 MMD 926 却能挂上 MMM（主要是我想康康 MMD 的渲染流程但是又挂不上，但是 MMM 却能挂上，只好用 MMM 辽）当然，直接使用原版 ray-cast 是不可哒，你需要的是セルゆか......
+> 作者：[喵枣Rand](https://space.bilibili.com/284090522)
+
+ 起因：Intel GPA 挂不上 MMD 926 却能挂上 MMM（主要是我想康康 MMD 的渲染流程但是又挂不上，但是 MMM 却能挂上，只好用 MMM 辽）当然，直接使用原版 ray-cast 是不可哒，你需要的是セルゆか......
 
 起因：Intel GPA 挂不上 MMD 926 却能挂上 MMM（主要是我想康康 MMD 的渲染流程但是又挂不上，但是 MMM 却能挂上，只好用 MMM 辽）
 

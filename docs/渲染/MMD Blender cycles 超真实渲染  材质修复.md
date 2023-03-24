@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv709104?from=search&spm_id_from=333.337.0.0)
 
-> 教程意义：避免大家在 MMD to Blender 渲染时少走弯路（效果测试以及借物表：（只是为了表示可以导入动作以及模型，画质请参见本文头图）Blender 作为专业的 3D 软件，在输出效果和很多方面都是 M
+> 作者：[臆述artell](https://space.bilibili.com/44548666)
+
+ 教程意义：避免大家在 MMD to Blender 渲染时少走弯路（效果测试以及借物表：（只是为了表示可以导入动作以及模型，画质请参见本文头图）Blender 作为专业的 3D 软件，在输出效果和很多方面都是 M
 
 ![][img-0]
 

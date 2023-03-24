@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv7838334?from=search&spm_id_from=333.337.0.0)
 
-> 时隔多年我又出专栏了看之前大佬的专栏删掉了 我这里补一个类似的（？本专栏不适合刚入坑的萌新，适合有一定基础的 MMDer~ 本专栏可能存在胡言乱语胡思乱想的发言，还请谨慎观看（？先放插件配布地址：https://bowlroll.net/file/148050 法线平面化是在 ray 渲环境下渲染平面 Sour 式、YYB 式等模型的重要插件。
+> 作者：[39可愛喵](https://space.bilibili.com/31302776)
+
+ 时隔多年我又出专栏了看之前大佬的专栏删掉了 我这里补一个类似的（？本专栏不适合刚入坑的萌新，适合有一定基础的 MMDer~ 本专栏可能存在胡言乱语胡思乱想的发言，还请谨慎观看（？先放插件配布地址：https://bowlroll.net/file/148050 法线平面化是在 ray 渲环境下渲染平面 Sour 式、YYB 式等模型的重要插件。
 
 时隔多年我又出专栏了
 

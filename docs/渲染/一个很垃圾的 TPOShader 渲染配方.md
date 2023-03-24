@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv301540?from=search&spm_id_from=333.337.0.0)
 
-> 前言这个渲染是我很早以前下的了，当时是因为觉得它的效果很鬼畜，所以可以用来做黑化 MMD 比如说这个样子 emmmm 最近才想起这个渲染，试着研究了一下所以现在来出个半成品教程 w 准备需要用到的（我只会列举为了
+> 作者：[Lindyyyy只有四个y](https://space.bilibili.com/7933715)
+
+ 前言这个渲染是我很早以前下的了，当时是因为觉得它的效果很鬼畜，所以可以用来做黑化 MMD 比如说这个样子 emmmm 最近才想起这个渲染，试着研究了一下所以现在来出个半成品教程 w 准备需要用到的（我只会列举为了
 
 ![][img-0]
 

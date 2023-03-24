@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4480697?from=search&spm_id_from=333.337.0.0)
 
-> 加的文件很多 有点卡此渲染适合露天场景 Ray_controller:SunLight-0.8 SunShadowRGB 0.14 0.13 0.12 SSDO-1 SS......
+> 作者：[ii历木良咕咕](https://space.bilibili.com/39052497)
+
+ 加的文件很多 有点卡此渲染适合露天场景 Ray_controller:SunLight-0.8 SunShadowRGB 0.14 0.13 0.12 SSDO-1 SS......
 
 ![][img-0]加的文件很多  有点卡
 

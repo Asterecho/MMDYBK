@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv13692667?from=search&spm_id_from=333.337.0.0)
 
-> 作为专业 cg 工作者，前特效师现程序媛，mmd 已经满足不了我的渲染需求，于是自己研究了一套 mmd to Houdini 的流程，将 mmd 动画和相机烘焙成 abc, 导入 Maya 再到 Houdini，以及 Houdini 里的 unpack 做材质。
+> 作者：[撒糖MOP四百万年](https://space.bilibili.com/2034822757)
+
+ 作为专业 cg 工作者，前特效师现程序媛，mmd 已经满足不了我的渲染需求，于是自己研究了一套 mmd to Houdini 的流程，将 mmd 动画和相机烘焙成 abc, 导入 Maya 再到 Houdini，以及 Houdini 里的 unpack 做材质。
 
 作为专业 cg 工作者，前特效师现程序媛，mmd 已经满足不了我的渲染需求，于是自己研究了一套 mmd to Houdini 的流程，将 mmd 动画和相机烘焙成 abc, 导入 Maya 再到 Houdini，以及 Houdini 里的 unpack 做材质。其中踩了无数坑，试验了很多东西，总算摸清了流程，所以记下来留着以后查阅。标题里说写给自己是因为我觉得大家一般用 c4d 和 blender，但是如果有特效师同好想导 Houdini 渲染，这个文章可以勉强参考下。
 

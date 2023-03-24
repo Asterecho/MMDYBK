@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4475933?from=search&spm_id_from=333.337.0.0)
 
-> 参考数据基于个人打光方法，如有不适 看看就好 Ray_controllerSunLight-0.7 SunShadowRGBV 0.06 0.08 0.12 -0.2 泛......
+> 作者：[ii历木良咕咕](https://space.bilibili.com/39052497)
+
+ 参考数据基于个人打光方法，如有不适 看看就好 Ray_controllerSunLight-0.7 SunShadowRGBV 0.06 0.08 0.12 -0.2 泛......
 
 ![][img-0]参考数据
 

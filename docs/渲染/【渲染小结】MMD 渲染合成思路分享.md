@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv6913121?from=search&spm_id_from=333.337.0.0)
 
-> 因为有不少小伙伴私信问我 Ray 和 PAToon 该怎么混合使用，所以这里分享下大概思路 (很可能看完了还是对你没有任何帮助，所以最多只能算答疑不算教程）（并不是很多人认为的 M4Layer，当然如果你认为 M4Layer 可以做到，也不妨尝试一下，我对这方面没什么研究，希望能有大佬总结出经验后做出效果不错的实际案例。
+> 作者：[Taitohimea](https://space.bilibili.com/13390647)
+
+ 因为有不少小伙伴私信问我 Ray 和 PAToon 该怎么混合使用，所以这里分享下大概思路 (很可能看完了还是对你没有任何帮助，所以最多只能算答疑不算教程）（并不是很多人认为的 M4Layer，当然如果你认为 M4Layer 可以做到，也不妨尝试一下，我对这方面没什么研究，希望能有大佬总结出经验后做出效果不错的实际案例。
 
 ![][img-0]
 

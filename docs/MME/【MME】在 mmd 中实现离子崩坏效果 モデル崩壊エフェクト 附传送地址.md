@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv13271769?from=search&spm_id_from=333.337.0.0)
 
-> 效果作者：折鶴 Phttps://bowlroll.net/user/3157 下载数第一的即是。
+> 作者：[小林呓](https://space.bilibili.com/23834192)
+
+ 效果作者：折鶴 Phttps://bowlroll.net/user/3157 下载数第一的即是。
 
 ![][img-0]效果
 

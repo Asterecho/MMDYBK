@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv5243798?from=search&spm_id_from=333.337.0.0)
 
-> 敲黑板：食用本教程最好有一定的 Ray 渲基础 不适合纯萌新！！！ Ray-MMD 是一个为 mikumikudance 开发的实时渲染，同时 Ray 渲染器是基于物理的渲染器，这些不再赘述。
+> 作者：[安達・桜](https://space.bilibili.com/499448846)
+
+ 敲黑板：食用本教程最好有一定的 Ray 渲基础 不适合纯萌新！！！ Ray-MMD 是一个为 mikumikudance 开发的实时渲染，同时 Ray 渲染器是基于物理的渲染器，这些不再赘述。
 
                                      敲黑板：食用本教程最好有一定的 Ray 渲基础
 

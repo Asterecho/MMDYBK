@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1754990?from=search&spm_id_from=333.337.0.0)
 
-> 材质包来自 https://texturehaven.com / 下载地址：https://pan.baidu.com/s/1HbZl3S09CE-HxBmg5ORBhA 使用方法：赋予材质将材质包中 mate......
+> 作者：[Viero月城](https://space.bilibili.com/3901533)
+
+ 材质包来自 https://texturehaven.com / 下载地址：https://pan.baidu.com/s/1HbZl3S09CE-HxBmg5ORBhA 使用方法：赋予材质将材质包中 mate......
 
 材质包来自 https://texturehaven.com/
 

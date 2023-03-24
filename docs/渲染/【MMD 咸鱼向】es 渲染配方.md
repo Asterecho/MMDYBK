@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv451081?from=search&spm_id_from=333.337.0.0)
 
-> 啊大家好这里惟柒【这字读 qi】因为各种各样的原因所以写个配方【？】因为是配方所以不会有任何讲解，以及请在了解 MMD 的基本使用方法后再来嘛那么开始吧 xd 首先是预览【av22834985】视频有没有调色我
+> 作者：[凉皮面哦一西](https://space.bilibili.com/20718683)
+
+ 啊大家好这里惟柒【这字读 qi】因为各种各样的原因所以写个配方【？】因为是配方所以不会有任何讲解，以及请在了解 MMD 的基本使用方法后再来嘛那么开始吧 xd 首先是预览【av22834985】视频有没有调色我
 
 NovelAI 创意咒语——瓶中少女
 

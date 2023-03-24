@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv15052003?from=search&spm_id_from=333.337.0.0)
 
-> 作者教程视频汉化 BV1Ep4y1b7Pn 我本人使用 mstc 制作的视频 BV1xZ4y1Z7G9 BV1Nu41127QK 这个专栏展示的内容是我个人使用 mstc 的过程，可能有的地方不太对但 只 是 我 个 人 的 使 用 过 程，目的是希望大家都来感受使用 mstc 的快乐，不多说直接开始，我语言组织能力不太行，您随便看看我随便写写（）展示使用的模型是由模型师 i-Fox 所制作来自公主连结中的凯露。
+> 作者：[林小腐W](https://space.bilibili.com/13990280)
+
+ 作者教程视频汉化 BV1Ep4y1b7Pn 我本人使用 mstc 制作的视频 BV1xZ4y1Z7G9 BV1Nu41127QK 这个专栏展示的内容是我个人使用 mstc 的过程，可能有的地方不太对但 只 是 我 个 人 的 使 用 过 程，目的是希望大家都来感受使用 mstc 的快乐，不多说直接开始，我语言组织能力不太行，您随便看看我随便写写（）展示使用的模型是由模型师 i-Fox 所制作来自公主连结中的凯露。
 
 作者教程视频汉化 [BV1Ep4y1b7Pn](https://www.bilibili.com/video/BV1Ep4y1b7Pn?spm_id_from=333.999.0.0)
 

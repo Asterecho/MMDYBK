@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv13551376?from=search&spm_id_from=333.337.0.0)
 
-> 前情提要：因此萌生了将之前的视频导出与压制流程简单讲述的想法，以及在我这种情况下如何导出 MMD 视频。
+> 作者：[子车未名](https://space.bilibili.com/7549684)
+
+ 前情提要：因此萌生了将之前的视频导出与压制流程简单讲述的想法，以及在我这种情况下如何导出 MMD 视频。
 
 前情提要：
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18728991)
 
-> 哈喽大家好！今天我们来开个新坑，本期期刊专栏是专门用以帮助任何学习 MMD 的 mmder 们提升个人审美的感官和自我对颜色的认知为主要的目的。
+
+
+ 哈喽大家好！今天我们来开个新坑，本期期刊专栏是专门用以帮助任何学习 MMD 的 mmder 们提升个人审美的感官和自我对颜色的认知为主要的目的。
 
 哈喽大家好！
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv21978932?from=search&spm_id_from=..0.0)
 
-> 你好！我做了一个 MME 教程，因为我前几天做的 MMD 视频非常好。
+> 作者：[蛍石ふろら](https://space.bilibili.com/3493107345656677)
+
+ 你好！我做了一个 MME 教程，因为我前几天做的 MMD 视频非常好。
 
 [专栏](https://www.bilibili.com/read/home?from=articleDetail) /
 

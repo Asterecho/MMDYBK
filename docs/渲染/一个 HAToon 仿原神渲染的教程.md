@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv16026457?from=search&spm_id_from=333.337.0.0)
 
-> 主渲全名叫 HAToon2_Genshin Imitation Shader（作者：Momo_MMD/Moyonote / ミーフォ茜）是一个前期比较麻烦，但是又很方便的渲染下载链接在这里 https://ww......
+> 作者：[若梦Romy](https://space.bilibili.com/7535531)
+
+ 主渲全名叫 HAToon2_Genshin Imitation Shader（作者：Momo_MMD/Moyonote / ミーフォ茜）是一个前期比较麻烦，但是又很方便的渲染下载链接在这里 https://ww......
 
 主渲全名叫 HAToon2_Genshin Imitation Shader（作者：Momo_MMD/Moyonote / ミーフォ茜）
 

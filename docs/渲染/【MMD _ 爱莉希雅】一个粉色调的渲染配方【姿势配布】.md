@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv18161079?from=search&spm_id_from=333.337.0.0)
 
-> 这里是克拉前两天心血来潮 k 了这个姿势遂配布顺便记录一下渲染配方 XD 就是这张本配方不提供下载地址 w 渲染很烂 orz 看看就好，根据自己需要调整也行那么下面开始（）滤镜教我做 mmd 这里我的渲染是 ray，但是实际......
+> 作者：[claris-treasure](https://space.bilibili.com/244954594)
+
+ 这里是克拉前两天心血来潮 k 了这个姿势遂配布顺便记录一下渲染配方 XD 就是这张本配方不提供下载地址 w 渲染很烂 orz 看看就好，根据自己需要调整也行那么下面开始（）滤镜教我做 mmd 这里我的渲染是 ray，但是实际......
 
 这里是克拉
 

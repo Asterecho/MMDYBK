@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2308491?from=search&spm_id_from=333.337.0.0)
 
-> 此文为 ps 渲染的教程 Ps 渲全名：PowerShader，并不是你们眼中的 photoshop！这里我们用到的版本是 3.1，暂时不介绍其他的版本。
+> 作者：[卑微地瓜](https://space.bilibili.com/20212148)
+
+ 此文为 ps 渲染的教程 Ps 渲全名：PowerShader，并不是你们眼中的 photoshop！这里我们用到的版本是 3.1，暂时不介绍其他的版本。
 
 此文为 ps 渲染的教程  
 

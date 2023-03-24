@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1861639?from=search&spm_id_from=333.337.0.0)
 
-> 大家好我来丢人了最近试着摸索了一下 t 渲，虽然标题是这么写着其实我觉得并不是很像游戏里的感觉【反而像其他作品的风格了 咦。
+> 作者：[非空缉合](https://space.bilibili.com/5425948)
+
+ 大家好我来丢人了最近试着摸索了一下 t 渲，虽然标题是这么写着其实我觉得并不是很像游戏里的感觉【反而像其他作品的风格了 咦。
 
 大家好我来丢人了
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4107486?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文
+> 作者：[夏尔-妮尔娜](https://space.bilibili.com/32262020)
+
+ 点击进入查看全文
 
  **3.2 版本的 PowerShader 渲染更新了一个新的好东西，想必玩 ray 渲染的人都用过法线贴图给模型增加质感，那这次，PowerShader 也支持了法线贴图的使用，下面我们就来看看，PowerShader 的法线贴图使用**
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2058878?from=search&spm_id_from=333.337.0.0)
 
-> 请勿完全套用效果图如封面，借物放在评论！· 前期准备部分 在 pe（pmxeditor）里给模型加上各种合适的 toon 和 spa 会使渲染效果更好喔~ 这边默认已经上好了这些！相关教程可以到一些太太的专栏找找（…· 渲染部分 - 1 首先载入一个 excellentshadow.x 然后在 mme 分配面板给模型、场景等加上 ps 渲文件夹里 “Shader(ExcellentShadow2 対応版)” 里的 “Shader_Main.fx” 再载入 ps 渲的控制器“PSController.pmx”。
+> 作者：[账号已注销](https://space.bilibili.com/1812090)
+
+ 请勿完全套用效果图如封面，借物放在评论！· 前期准备部分 在 pe（pmxeditor）里给模型加上各种合适的 toon 和 spa 会使渲染效果更好喔~ 这边默认已经上好了这些！相关教程可以到一些太太的专栏找找（…· 渲染部分 - 1 首先载入一个 excellentshadow.x 然后在 mme 分配面板给模型、场景等加上 ps 渲文件夹里 “Shader(ExcellentShadow2 対応版)” 里的 “Shader_Main.fx” 再载入 ps 渲的控制器“PSController.pmx”。
 
 ![][img-0]
 

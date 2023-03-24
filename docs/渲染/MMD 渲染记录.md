@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv20500335?from=search&spm_id_from=..0.0)
 
-> 先放一个我的视频 https://www.bilibili.com/video/BV1QW4y1M7zP 记性不好加上其他事情比较多比较忙，所以经常是隔好久才能摸个 mmd，每次开做都会忘记好多操作，所以此帖......
+> 作者：[星乃一哥](https://space.bilibili.com/74622365)
+
+ 先放一个我的视频 https://www.bilibili.com/video/BV1QW4y1M7zP 记性不好加上其他事情比较多比较忙，所以经常是隔好久才能摸个 mmd，每次开做都会忘记好多操作，所以此帖......
 
 先放一个我的视频 [https://www.bilibili.com/video/BV1QW4y1M7zP](https://www.bilibili.com/video/BV1QW4y1M7zP)
 

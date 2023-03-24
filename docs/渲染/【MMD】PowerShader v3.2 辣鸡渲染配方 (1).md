@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv5670838?from=search&spm_id_from=333.337.0.0)
 
-> 大家好来分享一些很辣鸡的 ps 渲配方本专栏是配方不是教程不提供 mme 下载。
+> 作者：[打破碗花花_afa](https://space.bilibili.com/7513414)
+
+ 大家好来分享一些很辣鸡的 ps 渲配方本专栏是配方不是教程不提供 mme 下载。
 
 大家好
 

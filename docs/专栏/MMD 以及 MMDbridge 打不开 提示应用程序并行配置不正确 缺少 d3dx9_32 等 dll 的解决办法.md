@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv14853722?from=search&spm_id_from=333.337.0.0)
 
-> 以锐龙系统电脑为例（mmd mmdbridge 通用）（我自己就是在这个电脑上卡的壳，其他的电脑遇到同样问题应该也能这么解决）一、被提醒应用程序并行配置不正确解决方法：安装 mmdbridge 文件夹下自带的......
+> 作者：[乀静音](https://space.bilibili.com/49118971)
+
+ 以锐龙系统电脑为例（mmd mmdbridge 通用）（我自己就是在这个电脑上卡的壳，其他的电脑遇到同样问题应该也能这么解决）一、被提醒应用程序并行配置不正确解决方法：安装 mmdbridge 文件夹下自带的......
 
 [专栏](https://www.bilibili.com/read/home?from=articleDetail) /
 

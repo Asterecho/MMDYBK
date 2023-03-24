@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3065865?from=search&spm_id_from=333.337.0.0)
 
-> 这里铃音 w 感谢您愿意打开这个配方专栏 本次渲染效果请看这里：食用规则 #禁 ky# 请轻喷 #不含 mme 下载地址# 不想太啰嗦，直接发配方了首先就是这些附渲然后就是操作方法是发亮的来源教程请看这里：把 Rhines......
+> 作者：[鈴音行為](https://space.bilibili.com/52252673)
+
+ 这里铃音 w 感谢您愿意打开这个配方专栏 本次渲染效果请看这里：食用规则 #禁 ky# 请轻喷 #不含 mme 下载地址# 不想太啰嗦，直接发配方了首先就是这些附渲然后就是操作方法是发亮的来源教程请看这里：把 Rhines......
 
 **这里铃音 w**
 

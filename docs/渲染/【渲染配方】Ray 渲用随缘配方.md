@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4055269?from=search&spm_id_from=333.337.0.0)
 
-> 视频将在 2019/12/5 的午后为蜜柑星的回归献上礼炮 zZZ 因为主题是星夜之雪于是尝试了冷色调的渲染 Orz 配方一览天空球为 ray 自带 路径 ray-mmd-master\Skybox\Sky Night\......
+
+
+ 视频将在 2019/12/5 的午后为蜜柑星的回归献上礼炮 zZZ 因为主题是星夜之雪于是尝试了冷色调的渲染 Orz 配方一览天空球为 ray 自带 路径 ray-mmd-master\Skybox\Sky Night\......
 
 视频将在 2019/12/5 的午后为蜜柑星的回归献上礼炮 zZZ
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv16414127?from=search&spm_id_from=333.337.0.0)
 
-> 实在没地方放 那还是放这吧 蜀黍你最好给我好好保存金融经济相关单词太难了 看看得了！！vrm 格式的诞生 [1]vrm，是株式会社 dwango（niconico 的所属公司）所开发的用于 VR 应用的人型 3D 虚拟形象用文件格式。
+> 作者：[文音_](https://space.bilibili.com/6072722)
+
+ 实在没地方放 那还是放这吧 蜀黍你最好给我好好保存金融经济相关单词太难了 看看得了！！vrm 格式的诞生 [1]vrm，是株式会社 dwango（niconico 的所属公司）所开发的用于 VR 应用的人型 3D 虚拟形象用文件格式。
 
 实在没地方放 那还是放这吧 蜀黍你最好给我好好保存  
 金融经济相关单词太难了 看看得了！！

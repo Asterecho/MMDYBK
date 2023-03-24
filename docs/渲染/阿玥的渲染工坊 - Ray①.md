@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3014269?from=search&spm_id_from=333.337.0.0)
 
-> 提前声明：本配方仅适用于 av57788444 此类风格，请依个人或视频风格进行更改，因此不建议数据直接套用。
+> 作者：[西-玥-提亚](https://space.bilibili.com/7564304)
+
+ 提前声明：本配方仅适用于 av57788444 此类风格，请依个人或视频风格进行更改，因此不建议数据直接套用。
 
 提前声明：本配方仅适用于 [av57788444](https://www.bilibili.com/video/av57788444/) 此类风格，请依个人或视频风格进行更改，因此**不建议数据直接套用**。
 

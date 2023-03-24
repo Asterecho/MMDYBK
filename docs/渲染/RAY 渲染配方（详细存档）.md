@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv15178533?from=search&spm_id_from=333.337.0.0)
 
-> 不提供任何素材的下载链接, 不教怎么载入 RAY 渲借物见：这个视频说的 flag 效果预览 1 效果预览 2 我 RAY 渲也不咋地，但我好喜欢这次的渲染（。
+> 作者：[五择KaaaaA](https://space.bilibili.com/399587126)
+
+ 不提供任何素材的下载链接, 不教怎么载入 RAY 渲借物见：这个视频说的 flag 效果预览 1 效果预览 2 我 RAY 渲也不咋地，但我好喜欢这次的渲染（。
 
 **不提供任何素材的下载链接, 不教怎么载入 RAY 渲**  
 

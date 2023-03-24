@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv263176?from=search&spm_id_from=333.337.0.0)
 
-> 本次对应第一节教程的文字版解释 float4x4 WVP : WORLDVIEWPROJECTION; 此代码表示命名 WVP 为世界视察投影变换矩阵，不清楚什么是变换矩阵可以查看：‍struct
+> 作者：[KarlvonDonitz](https://space.bilibili.com/27611393)
+
+ 本次对应第一节教程的文字版解释 float4x4 WVP : WORLDVIEWPROJECTION; 此代码表示命名 WVP 为世界视察投影变换矩阵，不清楚什么是变换矩阵可以查看：‍struct
 
 本次对应第一节教程的文字版解释
 

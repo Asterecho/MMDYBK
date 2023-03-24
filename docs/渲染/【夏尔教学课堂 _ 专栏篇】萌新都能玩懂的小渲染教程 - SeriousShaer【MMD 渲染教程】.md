@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1284145?from=search&spm_id_from=333.337.0.0)
 
-> SeriousShaer，想必大多数人都不认识有这么个渲染先讲一下这个渲染，它配布非常早，2011.01.22 v0.1 公開作者叫做：データ P 关于这个渲染没有太多的特殊介绍，毕竟是好多年前的老产品
+> 作者：[夏尔-妮尔娜](https://space.bilibili.com/32262020)
+
+ SeriousShaer，想必大多数人都不认识有这么个渲染先讲一下这个渲染，它配布非常早，2011.01.22 v0.1 公開作者叫做：データ P 关于这个渲染没有太多的特殊介绍，毕竟是好多年前的老产品
 
 **SeriousShaer，想必大多数人都不认识有这么个渲染**
 

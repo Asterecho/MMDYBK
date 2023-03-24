@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17479871?from=search&spm_id_from=333.337.0.0)
 
-> 提示：此教程只适用于带骨骼蒙皮的 fbx 模型！！！这次彻底抛弃水杉，只需要用到两个软件：blender、PmxEditorblender 安装 mmd_tools 插件，这一点很重要，它是转 pmx 模型必须要用到的。
+> 作者：[叶以从不早睡](https://space.bilibili.com/376874873)
+
+ 提示：此教程只适用于带骨骼蒙皮的 fbx 模型！！！这次彻底抛弃水杉，只需要用到两个软件：blender、PmxEditorblender 安装 mmd_tools 插件，这一点很重要，它是转 pmx 模型必须要用到的。
 
 **提示：此教程只适用于带骨骼蒙皮的 fbx 模型！！！**
 

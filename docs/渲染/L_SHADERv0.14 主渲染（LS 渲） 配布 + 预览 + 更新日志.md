@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv13693309?from=search&spm_id_from=333.337.0.0)
 
-> 配布: 1. 国人友好通道：链接：https://pan.baidu.com/s/1l2v01VZdftrIy6R_49WrYA 提取码：LSh42.https://bowlroll.net/file/26......
+> 作者：[LenXiaoA](https://space.bilibili.com/365815568)
+
+ 配布: 1. 国人友好通道：链接：https://pan.baidu.com/s/1l2v01VZdftrIy6R_49WrYA 提取码：LSh42.https://bowlroll.net/file/26......
 
 配布:
 

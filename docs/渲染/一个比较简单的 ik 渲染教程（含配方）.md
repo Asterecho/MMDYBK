@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv896860?from=search&spm_id_from=333.337.0.0)
 
-> 这里铃音，入 MMD 有一段时间了，所以就准备了一个比较简单的 ik 渲染教程 (￣▽￣)／ ※禁 ky
+> 作者：[鈴音行為](https://space.bilibili.com/52252673)
+
+ 这里铃音，入 MMD 有一段时间了，所以就准备了一个比较简单的 ik 渲染教程 (￣▽￣)／ ※禁 ky
 
 [专栏](https://www.bilibili.com/read/home?from=articleDetail) /
 

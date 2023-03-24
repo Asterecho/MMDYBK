@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv944732?from=search&spm_id_from=333.337.0.0)
 
-> 用針金 P 的 MangaSweat 改造个简易的染血 MME 优点：可以跟其他渲染并用缺点：镜头移动血迹也会动 适合静画和固定镜头用所需材料：MangaSweat_v006 配布場所 https://hariga
+> 作者：[winglayer](https://space.bilibili.com/804568)
+
+ 用針金 P 的 MangaSweat 改造个简易的染血 MME 优点：可以跟其他渲染并用缺点：镜头移动血迹也会动 适合静画和固定镜头用所需材料：MangaSweat_v006 配布場所 https://hariga
 
 用針金 P 的 MangaSweat 改造个简易的染血 MME
 

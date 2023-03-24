@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv6925418?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文 & gt;
+> 作者：[M.Liang](https://space.bilibili.com/16654704)
+
+ 点击进入查看全文 & gt;
 
 好久不见啦，这次我要讲的是平常有在使用提取物时有可能会有的问题，需要的东西有
 

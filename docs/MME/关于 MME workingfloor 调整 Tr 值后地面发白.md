@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv20877246?from=search&spm_id_from=..0.0)
 
-> 记录一个非常奇葩的 bug，前两天换了新的电脑，系统从 win8.1 升级到了 win11，workingfloor 就出现问题了，以前从没遇到过。
+> 作者：[苡怿_](https://space.bilibili.com/4649215)
+
+ 记录一个非常奇葩的 bug，前两天换了新的电脑，系统从 win8.1 升级到了 win11，workingfloor 就出现问题了，以前从没遇到过。
 
 记录一个非常奇葩的 bug，前两天换了新的电脑，系统从 win8.1 升级到了 win11，workingfloor 就出现问题了，以前从没遇到过。
 

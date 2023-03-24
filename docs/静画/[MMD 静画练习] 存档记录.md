@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17800105?from=search&spm_id_from=333.337.0.0)
 
-> 一些摸鱼，以后都会丢在这或者出个教程什么的借物见往期视频 2022-7-182022-7-182022-7-232022-7-27 给医生的
+> 作者：[千瑾华生](https://space.bilibili.com/169356865)
+
+ 一些摸鱼，以后都会丢在这或者出个教程什么的借物见往期视频 2022-7-182022-7-182022-7-232022-7-27 给医生的
 
 NovelAI 创意咒语——瓶中少女
 

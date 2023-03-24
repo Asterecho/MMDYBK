@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv10795798?from=search&spm_id_from=333.337.0.0)
 
-> 前期准备首先，我们要把所有纹理图片打包进. blend 工程文件 (Pack All Into .blend). 如果文件使用绝对路径，也需要把它改为相对路径 (Make All Path Relative). 打包好. blend 工程文件其次，远程渲染需要提前把所有素材放在同一个文件夹下，包括 abc 文件和物理烘培文件。
+> 作者：[TerryLiuOrigin](https://space.bilibili.com/688641401)
+
+ 前期准备首先，我们要把所有纹理图片打包进. blend 工程文件 (Pack All Into .blend). 如果文件使用绝对路径，也需要把它改为相对路径 (Make All Path Relative). 打包好. blend 工程文件其次，远程渲染需要提前把所有素材放在同一个文件夹下，包括 abc 文件和物理烘培文件。
 
 首先，我们要把所有纹理图片打包进. blend 工程文件 (Pack All Into .blend). 如果文件使用绝对路径，也需要把它改为相对路径 (Make All Path Relative).
 

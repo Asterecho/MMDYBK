@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1109399?from=search&spm_id_from=333.337.0.0)
 
-> 很多玩 ray 的老咸鱼差不多都知道这些了，这篇文章主要是针对一下刚入坑的萌新和一些没怎么接触 ray 渲染的 mmder，我个人很喜欢这 3 个 mme，操作简单出效果显得性价比极高。关于下载，ik_godray 可
+> 作者：[微冷の世界](https://space.bilibili.com/15340309)
+
+ 很多玩 ray 的老咸鱼差不多都知道这些了，这篇文章主要是针对一下刚入坑的萌新和一些没怎么接触 ray 渲染的 mmder，我个人很喜欢这 3 个 mme，操作简单出效果显得性价比极高。关于下载，ik_godray 可
 
 很多玩 ray 的老咸鱼差不多都知道这些了，这篇文章主要是针对一下**刚入坑的萌新和一些没怎么接触 ray 渲染的 mmder**，我个人很喜欢这 3 个 mme，操作简单出效果显得性价比极高。
 

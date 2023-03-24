@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2529911?from=search&spm_id_from=333.337.0.0)
 
-> 前言：该配方系作者个人经验的总结，效果无法使每个人满意，仅供参考。
+> 作者：[七夜躺平了](https://space.bilibili.com/1616013)
+
+ 前言：该配方系作者个人经验的总结，效果无法使每个人满意，仅供参考。
 
 前言：
 

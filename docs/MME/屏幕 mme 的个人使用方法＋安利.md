@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv2629617?from=search&spm_id_from=333.337.0.0)
 
-> 泥们嚎是我小布 a 今天的专栏内容如题√总结能力随缘的我想到哪就说到哪好了【靠】屏幕 mme，原名 screen，是可以把模型整出类似镜子（?）的效果，像封面一样∑我认为可以用来提升 b 格找不到合适的场景可以用这......
+> 作者：[thAtchers_04](https://space.bilibili.com/23128055)
+
+ 泥们嚎是我小布 a 今天的专栏内容如题√总结能力随缘的我想到哪就说到哪好了【靠】屏幕 mme，原名 screen，是可以把模型整出类似镜子（?）的效果，像封面一样∑我认为可以用来提升 b 格找不到合适的场景可以用这......
 
 泥们嚎是我小布 a
 

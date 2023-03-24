@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv13412605?from=search&spm_id_from=333.337.0.0)
 
-> 19 年写过了一个教程但那时候刚改模起步其实不是很懂。
+> 作者：[Sano_](https://space.bilibili.com/43583904)
+
+ 19 年写过了一个教程但那时候刚改模起步其实不是很懂。
 
 19 年写过了一个教程但那时候刚改模起步其实不是很懂。。后来研究了一下知道什么操作了所以重新写一下这个教程。
 

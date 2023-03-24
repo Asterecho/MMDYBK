@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv11952248?from=search&spm_id_from=333.337.0.0)
 
-> 以呆鹅作为模特来写这篇渲染专栏前言：本专栏只是个人的一个渲染心得，可能对新手有很大的参考价值。
+> 作者：[番茄炒蛋拳](https://space.bilibili.com/6170231)
+
+ 以呆鹅作为模特来写这篇渲染专栏前言：本专栏只是个人的一个渲染心得，可能对新手有很大的参考价值。
 
 [](https://www.bilibili.com/video/BV1Y64y1Q7Rt)![][img-0]以呆鹅作为模特来写这篇渲染专栏
 

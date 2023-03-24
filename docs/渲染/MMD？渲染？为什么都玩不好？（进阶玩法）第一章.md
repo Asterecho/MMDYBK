@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv4474388?from=search&spm_id_from=333.337.0.0)
 
-> 说实话，我是真的不怎么喜欢写渲染。
+> 作者：[ii历木良咕咕](https://space.bilibili.com/39052497)
+
+ 说实话，我是真的不怎么喜欢写渲染。
 
 说实话，我是真的不怎么喜欢写渲染。都是个人玩法    玩的好不好都是看你个人的感觉而定。然而   这种套套套的配方   局限性太大    固定的参数，调错了都不怎么好修改
 

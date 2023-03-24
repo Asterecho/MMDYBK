@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv11822389?from=search&spm_id_from=333.337.0.0)
 
-> 点击进入查看全文
+> 作者：[-文又](https://space.bilibili.com/8148967)
+
+ 点击进入查看全文
 
 最近有佳人们问渲染相关的问题，虽然我渲染很懒很乐色（痛），但还是写点东西来分享一下好用的小技巧吧🌹
 

@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv91707?from=search&spm_id_from=333.337.0.0)
 
-> 前言：对 MMD 基础相关的疑问，建议点开：http://bakakin.lofter.com/post/400994_16e51be 废话：大家好，这里是风瑾。之前的 es 教程是我一时兴起凭着感觉乱做出来
+> 作者：[风瑾---](https://space.bilibili.com/15357630)
+
+ 前言：对 MMD 基础相关的疑问，建议点开：http://bakakin.lofter.com/post/400994_16e51be 废话：大家好，这里是风瑾。之前的 es 教程是我一时兴起凭着感觉乱做出来
 
 前言：对 MMD 基础相关的疑问，建议点开：http://bakakin.lofter.com/post/400994_16e51be 
 

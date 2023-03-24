@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv1559042?from=search&spm_id_from=333.337.0.0)
 
-> 大家好，这一期的 mmd 特效介绍偏向于特殊表现，通常在剧情向 mmd 中较为常用。
+> 作者：[光间痕](https://space.bilibili.com/13956087)
+
+ 大家好，这一期的 mmd 特效介绍偏向于特殊表现，通常在剧情向 mmd 中较为常用。
 
 大家好，这一期的 mmd 特效介绍偏向于特殊表现，通常在剧情向 mmd 中较为常用。本期要介绍的 mme 有：
 

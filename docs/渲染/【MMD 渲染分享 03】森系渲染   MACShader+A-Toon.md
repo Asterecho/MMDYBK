@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv6957599?from=search&spm_id_from=333.337.0.0)
 
-> Hello 大家好, 这里是脸酱。
+> 作者：[绿灯侠的红秋裤](https://space.bilibili.com/12881567)
+
+ Hello 大家好, 这里是脸酱。
 
 **Hello 大家好, 这里是脸酱。 渲染记录系列又更新啦。**
 

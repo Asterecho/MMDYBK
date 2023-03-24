@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv17487155?from=search&spm_id_from=333.337.0.0)
 
-> 只是拿来做首图... 大家好，我是连续爆肝好几天的 MMDer 番茄炒蛋拳。
+> 作者：[番茄炒蛋拳](https://space.bilibili.com/6170231)
+
+ 只是拿来做首图... 大家好，我是连续爆肝好几天的 MMDer 番茄炒蛋拳。
 
 ![][img-0]只是拿来做首图...
 

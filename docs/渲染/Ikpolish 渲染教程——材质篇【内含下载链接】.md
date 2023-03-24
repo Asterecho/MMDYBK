@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv3393524?from=search&spm_id_from=333.337.0.0)
 
-> 大家好，今天给大家带来的是 ikeno 様的 Ikpolish 渲染教程链接：https://ux.getuploader.com/ikeno/download/212 【最新更新 - 色調補正機能の追加】先来简单......
+> 作者：[狼猫桑](https://space.bilibili.com/11337546)
+
+ 大家好，今天给大家带来的是 ikeno 様的 Ikpolish 渲染教程链接：https://ux.getuploader.com/ikeno/download/212 【最新更新 - 色調補正機能の追加】先来简单......
 
 大家好，今天给大家带来的是 ikeno 様的 Ikpolish 渲染教程
 

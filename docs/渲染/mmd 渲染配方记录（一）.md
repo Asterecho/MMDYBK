@@ -1,6 +1,8 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.bilibili.com](https://www.bilibili.com/read/cv15800507?from=search&spm_id_from=333.337.0.0)
 
-> 准确的说也不算配方，中途有参考其他大佬的配方，算是一个笔记吧，在这之前没想到做出来挺有感觉的。
+> 作者：[水母要吃大章鱼](https://space.bilibili.com/56999792)
+
+ 准确的说也不算配方，中途有参考其他大佬的配方，算是一个笔记吧，在这之前没想到做出来挺有感觉的。
 
   准确的说也不算配方，中途有参考其他大佬的配方，算是一个笔记吧，在这之前没想到做出来挺有感觉的。
 
