@@ -105,9 +105,6 @@ Raincloud 感谢雨云提供免费二级域名供vercel国内访问
 
 [初音社](https://www.mikuclub.org/mmd)
 
-## 关键字索引
-
-C4D 
 
 ## 常用词对照
 
